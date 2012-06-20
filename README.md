@@ -1,7 +1,5 @@
-obf-docs
+Official documents of the Open Bioinformatics Foundation
 ========
-
-Official documents of the Open Bioinformatics Foundation.
 
 Documents maintained in markdown format may use an extension, as listed below.
 
