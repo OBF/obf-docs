@@ -9,7 +9,7 @@ ARTICLE I - MEMBERSHIP
     a.	Individual Membership – refers to individuals who are developers or users of one or more projects under the umbrella of the OBF.
     b.	Business Membership – refers to individuals who are the designated representative of a business that has an interest in the OBF’s objectives.
 3.	No person shall hold more than one membership in the OBF.
-4.	An individual, business, or organization shall have been a member of the OBF for at least 30 (thirty) days before becoming eligible to vote. The Board of Directors may, at its discretion, waive this requirement for elections held within the first year after adoption of this Article.
+4.	An individual, business, or organization shall have been a member of the OBF for at least 30 (thirty) days before becoming eligible to vote.
 5.	Dues.
     a.	The Board of Directors may propose and decide on whether membership requires paying dues, and the amount of such membership dues.
     b.	Any individual, business, or organization qualified for membership under Article I, Items 2a and 2b shall become a member upon receipt of an application and upon payment of the first annual dues, if any. Amount of dues shall be determined on the basis of the membership class.
@@ -23,9 +23,9 @@ ARTICLE I - MEMBERSHIP
 ARTICLE II - MEETINGS
 ------------------
 
-1.	OBF Board Of Directors meetings shall be open to the public and shall be held at any public place.
-2.	The Board of Directors will be elected at the annual meeting of the OBF, usually held in conjunction with the Bioinformatics Open Source Conference (BOSC).
-3.	Special meetings of the Board Of Directors may be called at any time by a majority of the Board of Directors upon 10 (ten) days notification. Special meetings may need to be held as a teleconference.
+1.	OBF Board Of Directors meetings shall be open to the public and shall be held at any physical venue, or through an online medium or a conference call, that can be joined by the public.
+2.	The Board of Directors will be elected at the annual meeting of the OBF.
+3.	Special meetings of the Board Of Directors may be called at any time by a majority of the Board of Directors upon 10 (ten) days notification. Special meetings will typically not be held in a physical location.
 4.	Meeting Notification
     a.	Notice of Board Of Director meetings shall be emailed to each member at least 10 (ten) days, but not more than 60 (sixty) days prior to such meetings. Members must provide an electronic email address to be notified. Alternatively, the Board may require members to subscribe to an email list to which this and other Board announcements will be posted.
     b.	In the case of a special meeting, the purpose of the meeting shall be stated and no other business shall be conducted at said meeting.
@@ -44,10 +44,9 @@ ARTICLE III - BOARD OF DIRECTORS
 1.	Responsibilities and duties of the Board of Directors laid down in the Articles of Incorporation complement, and in case of conflict take precedence over those stated in this Article.
 2.	The Board of Directors shall consist of President, Secretary, Treasurer, Parliamentarian, and additional Board Members at Large. The number of Board Members at Large is decided by majority vote of the current Board of Directors and may be proposed by either the general membership or a Board Member.
 3.	Term of Office.
-    a.	The term of office for Directors shall begin at the first public Board meeting of the calendar year, usually to be held in conjunction with the annual Bioinformatics Open Source Conference (BOSC).
+    a.	The term of office for Directors shall begin after the conclusion of the Board meeting at which they are elected.
     b.	Directors shall serve for a term of 2 (two) years and shall hold office until their successors' terms begin. 
     c.	Directors may be elected to and serve another consecutive term upon the end of their term of office (see Article IV).
-    d.	Upon adoption of this Article, the terms of the members of the Board of Directors holding office at the time of adoption shall expire in a staggered way as follows, except if a Board Member resigns earlier. One year after adoption, the terms of the existing Board Member(s) at Large expire.  Two years after adoption, the terms of the Officers except the President expire. Three years after adoption, the term of the President expires. If any Board Member resigns earlier than the schedule above or his regular term, that Board Member will substitute for, not add to, a Board Member whose term was scheduled to expire.
 4.	A majority of Directors shall, at its option, declare the seat of a Director to be vacant if that Director is absent for 2 (two) consecutive Board meetings (as defined in Article II), or fails to remain a member in good standing for a period of more than 4 (four) weeks.
 5.	Any Director shall be removed by a 2/3 (two thirds) majority vote of the Board of Directors. 
 6.	All resignations from the Board shall be presented in writing, whether in electronic or paper form, to the Board of Directors.
@@ -85,7 +84,7 @@ ARTICLE IV - NOMINATIONS AND ELECTIONS
 -----------------------------------
 
 1.	Nominations for the Board of Directors may be made by the general membership at any time throughout the year by email to any member of the Nominating Committee (see Item 7), or by the Nominating Committee itself. 
-2.	Elections to the Board of Directors shall be held at the annual Board of Directors meeting (usually held in conjunction with the Bioinformatics Open Source Conference, BOSC). Elections to the four Officer positions shall be held during a time of no more than the four weeks leading up to the annual Board of Directors meeting. Nominations made at least 60 (sixty) days prior to this annual meeting are eligible for inclusion on the election ballot at that meeting. This requirement may be waived by the majority of the Board of Directors
+2.	Elections of officers and Directors shall be held at the annual Board of Directors meeting. Elections to the four Officer positions by the membership may also be held during a time of no more than the four weeks leading up to the annual Board of Directors meeting. Nominations made at least 60 (sixty) days prior to this annual meeting are eligible for inclusion on the election ballot at that meeting. This requirement may be waived by the majority of the Board of Directors.
 3.	Voting.
     a.	Voting for the Board of Directors shall be by electronic or paper ballot.
     b.	Voting shall be by Approval Vote. All nominees will be on the ballot, and each Director or member may cast as many votes as nominees, but at most one vote for each nominee. A nominee must receive a majority of votes (or ‘Yes’ votes) to win a seat. If there are more than one nominees for an office, or more nominees than seats to fill, the nominee or nominees with the highest number of votes (or ‘Yes’ votes) win the seats to be filled.
@@ -97,12 +96,12 @@ ARTICLE IV - NOMINATIONS AND ELECTIONS
 6.	Qualifications
     a.	Nominees or appointees for Director positions (Board Members at Large) must be voting members of the OBF in good standing.
     b.	Nominees or appointees for Officer positions must have been voting members of the OBF for a minimum of one year, be in good standing, and have previously served on the Board of Directors for a minimum of one year.
-    c.	Within the first two years after adoption of this article, the Board of Directors may waive qualification requirements at its discretion by unanimous consent of attending Directors, provided the quorum is met. If the membership requirement is waived for a nominee, the nominee automatically becomes a member upon election, and must meet all requirements to be in good standing within 4 (four) weeks after election. 
+    c.	The Board of Directors may waive qualification requirements at its discretion by unanimous consent of attending Directors, provided the quorum is met. If the membership requirement is waived for a nominee, the nominee automatically becomes a member upon election, and must meet all requirements to be in good standing within 4 (four) weeks after election. 
 7.	Nominating Committee
     a.	The committee shall consist of the Parliamentarian and a minimum of 2 (two) active members of the OBF.
     b.	The committee shall attempt to contact members of the Board of Directors and active members of the OBF in an effort to identify eligible members interested in serving on the Board of Directors, and to solicit nominations from the general membership.
-    c.	The committee shall present the names of candidates to the general membership prior to the annual Board meeting, usually held in conjunction with the Bioinformatics Open Source Conference (BOSC).
-    d.	The committee shall prepare an electronic or paper ballot of candidates to be used at the annual meeting by the general membership for the purpose of voting.
+    c.	The committee shall present the names of candidates to the general membership prior to the annual Board meeting.
+    d.	The committee shall prepare an electronic or paper ballot of candidates to be used at the annual meeting for the purpose of voting.
 8.	Paper ballots shall be counted by 2 (two) active members of the OBF selected by the President. Electronic ballots will be counted electronically.
 9.	Election results shall be recorded and filed in the minutes.
 
