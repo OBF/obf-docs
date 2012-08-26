@@ -1,4 +1,4 @@
-Open-Bio Foundation (OBF) Bylaws: Membership, Nomination To And Election Of The Board
+Open Bioinformatics Foundation (OBF) Bylaws: <br/> Membership, Nomination To And Election Of The Board
 ========
 
 ARTICLE I - MEMBERSHIP
@@ -17,7 +17,7 @@ ARTICLE I - MEMBERSHIP
     d.	Dues shall not be prorated.
 6.	No member of the OBF shall be held liable for the debts, obligations or liabilities of the corporation solely because of their membership. Memberships shall be non-assessable.
 7.	Neither membership in the OBF nor any rights of membership shall be transferred for value or otherwise.
-8.	Membership and the rights of membership shall automatically terminate on receipt of a letter of resignation.
+8.	Membership and the rights of membership shall automatically terminate on receipt of a note of resignation.
 9.	In all its activities, the OBF shall not discriminate against any person on account of race, color, creed, sex, sexual orientation, national origin, physical disability, marital status, age, or choice of programming language or operating system.
 
 ARTICLE II - MEETINGS
@@ -33,7 +33,7 @@ ARTICLE II - MEETINGS
     a.	In elections involving the general membership, a turn-out of at least 10% (ten percent) of the voting members shall constitute a quorum for the purpose of conducting the business of the OBF, except as otherwise provided in the Articles of Incorporation or these bylaws.
     b.	In votes of the Board Of Directors, the presence of the greater of 75% of the board members or 4 (four) directors shall constitute a quorum for the purpose of conducting the business of the OBF, except as otherwise provided in the Articles of Incorporation or these bylaws.
 6.	Voting.
-    a.	Each regular member and each business membership is entitled to one vote (30 days after paying for membership—Article I, Items 4 and 5b) on each matter submitted to a vote of the members. An individual shall not vote once as an individual and again as a designated representative of a member organization or business.
+    a.	Each regular member and each business membership is entitled to one vote (after having become eligible to vote—Article I, Items 4 and 5b) on each matter submitted to a vote of the members. An individual shall not vote once as an individual and again as a designated representative of a member organization or business.
     b.	A majority vote shall be required to pass items submitted to the general membership except in the case of bylaw revisions and removal of directors (Article III, Item 5).
     c.	Voting by proxy shall not be allowed.
     d.	Cumulative voting shall not be allowed.
@@ -48,9 +48,9 @@ ARTICLE III - BOARD OF DIRECTORS
     b.	Directors shall serve for a term of 2 (two) years and shall hold office until their successors' terms begin. 
     c.	Directors may be elected to and serve another consecutive term upon the end of their term of office (see Article IV).
     d.	Upon adoption of this Article, the terms of the members of the Board of Directors holding office at the time of adoption shall expire in a staggered way as follows, except if a Board Member resigns earlier. One year after adoption, the terms of the existing Board Member(s) at Large expire.  Two years after adoption, the terms of the Officers except the President expire. Three years after adoption, the term of the President expires. If any Board Member resigns earlier than the schedule above or his regular term, that Board Member will substitute for, not add to, a Board Member whose term was scheduled to expire.
-4.	A majority of Directors shall, at its option, declare the seat of a Director to be vacant if that Director is absent for 2 (two) consecutive, or any 4 (four) scheduled Executive Board or general Board meetings, or fails to remain a member in good standing for a period of more than 4 (four) weeks.
+4.	A majority of Directors shall, at its option, declare the seat of a Director to be vacant if that Director is absent for 2 (two) consecutive Board meetings (as defined in Article II), or fails to remain a member in good standing for a period of more than 4 (four) weeks.
 5.	Any Director shall be removed by a 2/3 (two thirds) majority vote of the Board of Directors. 
-6.	All resignations from the Board shall be presented in writing to the Board of Directors.
+6.	All resignations from the Board shall be presented in writing, whether in electronic or paper form, to the Board of Directors.
 7.	When a vacancy occurs, the Nomination Committee shall appoint a successor to fill the remainder of the term of office. The successor shall be confirmed by the Board of Directors by majority vote.
 8.	Unless provided otherwise by the Articles of Incorporation, the duties for each Board Officer shall be, but are not limited to:
     a.	President
@@ -62,7 +62,7 @@ ARTICLE III - BOARD OF DIRECTORS
     b.	Secretary
         (1)	Record the proceedings of all meetings and maintain a file of those minutes
         (2)	Maintain a file of all OBF business
-        (3)	Prepare meeting minutes for Executive Board and General Membership meetings
+        (3)	Prepare meeting minutes for Board meetings (as defined in Article II)
         (4)	Maintain a master file of all reports, minutes, correspondence, and documents
     c.	Treasurer
         (1)	Monitor all expenditures of the OBF and its committees
@@ -76,7 +76,7 @@ ARTICLE III - BOARD OF DIRECTORS
         (3)	Chair the Bylaws Review committee.
     e.	Board Member(s) at Large
         (1)	Assist the other Board Members as needed.
-9.	The Board of Directors shall hold at least 1 (one) meeting per year, at a time and place set by Board members. Board meetings shall be public and must be announced to the general membership at least 10 (ten) days in advance by email to each member (see Article II, Item 4). Additional meetings shall be called at the discretion of the President or at the written request of a majority of Board members.
+9.	The Board of Directors shall hold at least 1 (one) meeting per year, at a time and place set by Board members. Additional meetings shall be called at the discretion of the President or at the written request of a majority of Board members. Meetings must meet the requirements set forth in Article II (see Items 1 and 4).
 10.	The Board of Directors may, upon a vote of the majority of the attending Directors, and provided the quorum is met, adjourn a Board meeting and reconvene in an Executive Session to discuss and vote upon personnel matters, litigation in which the corporation is or may be involved, and other matters of business of a similar nature. Only members of the Board of Directors shall be entitled to attend Executive Sessions. The nature of any and all business to be considered in the Executive Session shall first be announced in open, public, session.
 11.	Each member of the Board shall have one vote at Board meetings. For approval ballots, each Board member shall have as many votes as candidates on the ballot, but cast at most one vote per candidate.
 12.	The Board of Directors shall receive no compensation for any service which may be rendered to the OBF. Since directors receive no compensation, they shall under no circumstances be personally or jointly financially liable for any decision made in good faith on behalf of the OBF.
@@ -84,7 +84,7 @@ ARTICLE III - BOARD OF DIRECTORS
 ARTICLE IV - NOMINATIONS AND ELECTIONS
 -----------------------------------
 
-1.	Nominations for the Board of Directors may be made by the general membership at any time throughout the year by email to the any member of the Nominating Committee (see Item 7), or by the Nominating Committee itself. 
+1.	Nominations for the Board of Directors may be made by the general membership at any time throughout the year by email to any member of the Nominating Committee (see Item 7), or by the Nominating Committee itself. 
 2.	Elections to the Board of Directors shall be held at the annual Board of Directors meeting (usually held in conjunction with the Bioinformatics Open Source Conference, BOSC). Elections to the four Officer positions shall be held during a time of no more than the four weeks leading up to the annual Board of Directors meeting. Nominations made at least 60 (sixty) days prior to this annual meeting are eligible for inclusion on the election ballot at that meeting. This requirement may be waived by the majority of the Board of Directors
 3.	Voting.
     a.	Voting for the Board of Directors shall be by electronic or paper ballot.
