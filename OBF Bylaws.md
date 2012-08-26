@@ -5,7 +5,7 @@ ARTICLE I - MEMBERSHIP
 -------------------
 
 1.	Any individual, business or organization having an interest in the objectives of the OBF shall be eligible to apply for membership.
-1.	The OBF shall have 2 (two) classes of membership. All members in good standing are voting members. Members are in good standing if they meet the membership eligibility requirements and paid their current and past due membership dues in full.
+2.	The OBF shall have 2 (two) classes of membership. All members in good standing are voting members. Members are in good standing if they meet the membership eligibility requirements and paid their current and past due membership dues in full.
     a.	Individual Membership – refers to individuals who are developers or users of one or more projects under the umbrella of the OBF.
     b.	Business Membership – refers to individuals who are the designated representative of a business that has an interest in the OBF’s objectives.
 3.	No person shall hold more than one membership in the OBF.
@@ -34,23 +34,23 @@ ARTICLE II - MEETINGS
     b.	In votes of the Board Of Directors, the presence of the greater of 75% of the board members or 4 (four) directors shall constitute a quorum for the purpose of conducting the business of the OBF.
 6.	Voting.
     a.	Each regular member and each business membership is entitled to one vote (after having become eligible to vote—Article I, Items 4 and 5b) on each matter submitted to a vote of the members. An individual shall not vote once as an individual and again as a designated representative of a member organization or business.
-    b.	A majority vote shall be required to pass items submitted to the general membership except in the case of bylaw revisions and removal of directors (Article III, Item 5).
+    b.	A majority vote shall be required to pass items submitted to the general membership except in the case of bylaw revisions and removal of directors (Article III, Item 4).
     c.	Voting by proxy shall not be allowed.
     d.	Cumulative voting shall not be allowed.
 
 ARTICLE III - BOARD OF DIRECTORS
 ----------------------------
 
-2.	The Board of Directors shall consist of President, Secretary, Treasurer, Parliamentarian, and additional Board Members at Large. The number of Board Members at Large is decided by majority vote of the current Board of Directors and may be proposed by either the general membership or a Board Member.
-3.	Term of Office.
+1.	The Board of Directors shall consist of President, Secretary, Treasurer, Parliamentarian, and additional Board Members at Large. The number of Board Members at Large is decided by majority vote of the current Board of Directors and may be proposed by either the general membership or a Board Member.
+2.	Term of Office.
     a.	The term of office for Directors shall begin after the conclusion of the Board meeting at which they are elected.
     b.	Directors shall serve for a term of 2 (two) years and shall hold office until their successors' terms begin. 
     c.	Directors may be elected to and serve another consecutive term upon the end of their term of office (see Article IV).
-4.	A majority of Directors shall, at its option, declare the seat of a Director to be vacant if that Director is absent for 2 (two) consecutive Board meetings (as defined in Article II), or fails to remain a member in good standing for a period of more than 4 (four) weeks.
-5.	Any Director shall be removed by a 2/3 (two thirds) majority vote of the Board of Directors. 
-6.	All resignations from the Board shall be presented in writing, whether in electronic or paper form, to the Board of Directors.
-7.	When a vacancy occurs, the Nomination Committee shall appoint a successor to fill the remainder of the term of office. The successor shall be confirmed by the Board of Directors by majority vote.
-8.	The duties for each Board Officer shall be, but are not limited to:
+3.	A majority of Directors shall, at its option, declare the seat of a Director to be vacant if that Director is absent for 2 (two) consecutive Board meetings (as defined in Article II), or fails to remain a member in good standing for a period of more than 4 (four) weeks.
+4.	Any Director shall be removed by a 2/3 (two thirds) majority vote of the Board of Directors. 
+5.	All resignations from the Board shall be presented in writing, whether in electronic or paper form, to the Board of Directors.
+6.	When a vacancy occurs, the Nomination Committee shall appoint a successor to fill the remainder of the term of office. The successor shall be confirmed by the Board of Directors by majority vote.
+7.	The duties for each Board Officer shall be, but are not limited to:
     a.	President
         (1)	Serve as Chief Executive Officer of the OBF
         (2)	Preside at all Board and General Membership meetings
@@ -73,10 +73,10 @@ ARTICLE III - BOARD OF DIRECTORS
         (3)	Chair the Bylaws Review committee.
     e.	Board Member(s) at Large
         (1)	Assist the other Board Members as needed.
-9.	The Board of Directors shall hold at least 1 (one) meeting per year, at a time and place set by Board members. Additional meetings shall be called at the discretion of the President or at the written request of a majority of Board members. Meetings must meet the requirements set forth in Article II (see Items 1 and 4).
-10.	The Board of Directors may, upon a vote of the majority of the attending Directors, and provided the quorum is met, adjourn a Board meeting and reconvene in an Executive Session to discuss and vote upon personnel matters, litigation in which OBF is or may be involved, and other matters of business of a similar nature. Only members of the Board of Directors shall be entitled to attend Executive Sessions. The nature of any and all business to be considered in the Executive Session shall first be announced in open, public, session.
-11.	Each member of the Board shall have one vote at Board meetings. For approval ballots, each Board member shall have as many votes as candidates on the ballot, but cast at most one vote per candidate.
-12.	The Board of Directors shall receive no compensation for any service which may be rendered to the OBF. Since directors receive no compensation, they shall under no circumstances be personally or jointly financially liable for any decision made in good faith on behalf of the OBF.
+8.	The Board of Directors shall hold at least 1 (one) meeting per year, at a time and place set by Board members. Additional meetings shall be called at the discretion of the President or at the written request of a majority of Board members. Meetings must meet the requirements set forth in Article II (see Items 1 and 4).
+9.	The Board of Directors may, upon a vote of the majority of the attending Directors, and provided the quorum is met, adjourn a Board meeting and reconvene in an Executive Session to discuss and vote upon personnel matters, litigation in which OBF is or may be involved, and other matters of business of a similar nature. Only members of the Board of Directors shall be entitled to attend Executive Sessions. The nature of any and all business to be considered in the Executive Session shall first be announced in open, public, session.
+10.	Each member of the Board shall have one vote at Board meetings. For approval ballots, each Board member shall have as many votes as candidates on the ballot, but cast at most one vote per candidate.
+11.	The Board of Directors shall receive no compensation for any service which may be rendered to the OBF. Since directors receive no compensation, they shall under no circumstances be personally or jointly financially liable for any decision made in good faith on behalf of the OBF.
 
 ARTICLE IV - NOMINATIONS AND ELECTIONS
 -----------------------------------
