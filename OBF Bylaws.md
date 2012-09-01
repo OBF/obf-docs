@@ -6,8 +6,8 @@ ARTICLE I - MEMBERSHIP
 
 1.	Any individual, business or organization having an interest in the objectives of the OBF shall be eligible to apply for membership.
 2.	The OBF shall have 2 (two) classes of membership. All members in good standing are voting members. Members are in good standing if they meet the membership eligibility requirements and paid their current and past due membership dues in full.
-    a.	Individual Membership – refers to individuals who are developers or users of one or more projects under the umbrella of the OBF.
-    b.	Business Membership – refers to individuals who are the designated representative of a business that has an interest in the OBF’s objectives.
+    a.	Individual Membership - refers to individuals who are developers or users of one or more projects under the umbrella of the OBF.
+    b.	Business Membership - refers to individuals who are the designated representative of a business that has an interest in the OBF's objectives.
 3.	No person shall hold more than one membership in the OBF.
 4.	An individual, business, or organization shall have been a member of the OBF for at least 30 (thirty) days before becoming eligible to vote.
 5.	Dues.
@@ -85,7 +85,7 @@ ARTICLE IV - NOMINATIONS AND ELECTIONS
 2.	Elections of officers and Directors shall be held at the annual Board of Directors meeting. Elections to the four Officer positions by the membership may also be held during a time of no more than the four weeks leading up to the annual Board of Directors meeting. Nominations made at least 60 (sixty) days prior to this annual meeting are eligible for inclusion on the election ballot at that meeting. This requirement may be waived by the majority of the Board of Directors.
 3.	Voting.
     a.	Voting for the Board of Directors shall be by electronic or paper ballot.
-    b.	Voting shall be by Approval Vote. All nominees will be on the ballot, and each Director or member may cast as many votes as nominees, but at most one vote for each nominee. A nominee must receive a majority of votes (or ‘Yes’ votes) to win a seat. If there are more than one nominees for an office, or more nominees than seats to fill, the nominee or nominees with the highest number of votes (or ‘Yes’ votes) win the seats to be filled.
+    b.	Voting shall be by Approval Vote. All nominees will be on the ballot, and each Director or member may cast as many votes as nominees, but at most one vote for each nominee. A nominee must receive a majority of votes (or 'Yes' votes) to win a seat. If there are more than one nominees for an office, or more nominees than seats to fill, the nominee or nominees with the highest number of votes (or 'Yes' votes) win the seats to be filled.
     c.	Only the four Officers (see Article II, Items 2 and 8) may be elected by the general membership. The Board Members at Large shall be elected by the Board of Directors.
     d.	Ties in elections shall be broken by the President.
     e.	Ballots submitted to the general membership shall be secret. Board of Director votes for Directors shall be secret.
