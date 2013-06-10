@@ -80,17 +80,19 @@ the OBF.
 A project can be a 'new project' for one year. New projects have the promise to
 develop themselves into an affiliated project.
 
-### Student project (no vote)
+### Other projects
 
-Any student project executed under the wing of OBF is listed. These projects are not voted on.
+Projects other than those under the stated affiliation categories may
+have a de-facto relationship with O|B|F or one of its official member
+projects, but they do not have a recognized affiliation status. As
+such, their status is also not voted on.
 
-### Interesting project (no vote)
-
-An interesting project is any project that is active and is of interest to the 
-wider bioinformatics community. These projects are not voted on. The list is 
-maintained by OBF members and references on the OBF website should be little
-more than link outs (a URL with a short description). There is no obvious
-affiliation between OBF and such projects.
+These projects may include student projects with O|B|F community
+participation, including projects executed under the O|B|F umbrella,
+and other projects considered active and interesting to the wider
+bioinformatics community. They may be listed and described on the
+O|B|F wiki so long as it is evident that they do not have an official
+affiliation with the O|B|F as per the ones defined here.
  
 ## Preparation and voting
 
