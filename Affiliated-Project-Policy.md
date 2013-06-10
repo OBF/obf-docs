@@ -143,17 +143,19 @@ A new project has special status for one year.  At BOSC attendees can vote a
 project into an affiliated project. A majority of 70% is required, and the OBF
 board can still veto the outcome.
 
-### Other
+## Maintenance of affiliation status
 
-Other project status (changes) are not voted on, but simply maintained on the
-wiki. Any dispute on what belongs there or not has to be diverted to the OBF,
-as it is an OBF website.
+The affiliation status of a project that is not voted on remains the same for another year.
 
-## Finally
+## Dispute and Board Veto
 
-At this point the commission favours a hand vote at BOSC of all attendees. If
-this proves unpractical for whatever reason, we could change to a 24 hour
-online voting during the conference. The latter may have the advantage that all
-OBF members can vote, even when not attending BOSC.
+Any dispute on votes or current affiliation status of a project must
+be brought before the O|B|F Board of Directors, who will arbitrate, if
+necessary by public meeting and vote. The Board's decision is final
+and binding.
 
-
+The O|B|F Board of Directors may, at its discretion, veto, instate, or
+terminate a project's official affiliation status, if the Board feels
+the need to do so. It is expected that the Board will do so in public
+session, whether at an annual Board meeting, or at a specifically
+convened one.
