@@ -75,11 +75,6 @@ smaller user base. Key is that the voters think the project highly relevant and
 that their developers and community are very active and are active members of
 the OBF.
 
-### Ontologies and definition affiliated project (vote)
-
-Same requirements as an affiliated project, with a focus on data analysis and
-standards, rather than on developing software.
-
 ### New project (vote)
 
 A project can be a 'new project' for one year. New projects have the promise to
