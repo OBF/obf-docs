@@ -120,11 +120,7 @@ all OBF projects.
 
 ## Voting at BOSC
 
-Voting happens based on the short list presented that has been prepared
-beforehand and published.  Ad hoc voting is not possible. When people want
-unprepared changes, they need to prepare that for the next BOSC. In extreme
-cases, i.e. when a project does not live up to OBF standards, the OBF board may
-interfere during the course of the year.
+Voting is based on the short list prepared and published in advance.  Ad hoc voting is not possible.
 
 ### Main project (promote or demote)
 
