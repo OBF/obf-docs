@@ -1,49 +1,50 @@
-# Draft proposal for OBF affiliated projects 
+# OBF Affiliated Project Status Policy (Unratified Draft) 
+
+_Status: This policy is currently being developed. It has not been discussed beyond the Board of Directors yet._
 
 ## Background
 
-The Open Bioinformatics Foundation or O|B|F (OBF) is a non-profit, volunteer-run
+The Open Bioinformatics Foundation (O|B|F) is a non-profit, volunteer-run
 group dedicated to promoting the practice and philosophy of Open Source
 software development and Open Science within the biological research community.
 
-Main activities are:
-
-* Running and supporting the BOSC conferences.
-* Organizing and supporting developer-centric "Hackathon" events.
-* Participating in the Google Summer of Code program on behalf of our member projects as an umbrella mentoring organization.
-* Managing servers, colocation facilities, bank account, domain names, and other assets for the benefit of our member projects.
-* Public opinion and policy statements about matters related to Open Source and Open Science in bioinformatics. 
-
-The Foundation does not participate directly in the development or structure of
-the open source work, but as the members of the foundation are drawn from 
-project developer communities, there is clear commonality of direction and
-purpose.
-
-O|B|F grew out of the volunteer projects BioPerl, BioJava and Biopython. Later
-BioRuby, BioSQL, BioLib, DAS, MOBY, EMBOSS, and OBDA were added as 'main
-projects'.  There is now also a host of listed 'affiliated projects', 'related
-projects', and 'ontologies and definitions'.
+O|B|F originally grew out of the volunteer projects BioPerl, BioJava
+and Biopython. Later BioRuby, BioSQL, BioLib, DAS, MOBY, EMBOSS, and
+OBDA joined the OBF umbrella, primarily as a consequence of requiring
+project hosting support, existing community relationships, and through
+informal consensus among members of O|B|F's Board of Directors. O|B|F
+has since become hesitant to include new projects under the official
+umbrella, in part because the growth in O|B|F-hosted project resources
+has reached the capacity of O|B|F servers, and in part because of
+O|B|F's mission and scope as an organization. Furthermore, the
+[existing listing of projects related to O|B|F](http://www.open-bio.org/w/index.php?title=Projects&oldid=4609)
+in different ways uses affiliation categories that are based neither
+on a formal definition nor on a community process for attaining them,
+and are thus poorly aligned with O|B|F values of community and
+transparency.
 
 ## Motivation
 
-Affiliating an open source software project with OBF has value for both the
-project and the OBF. For the project it raises its profile and may increase its
-public standing, and thereby attract more attention. For the OBF it is driving
-the primary objective of supporting open source projects in bioinformatics. Also 
-affiliated projects bring volunteers to the OBF effort.
+This policy aims to formalize criteria and a community-driven,
+transparent process by which open-source software projects can gain,
+lose, and maintain certain types of affiliation with the O|B|F.
 
-At this point the ranking of projects under the different headers is arbitrary.
-Not all projects are equal in terms of their activity, community, audience, and
-wider impact on bioinformatics and the list of main and affiliated projects
-does not necessarily reflect that. Also, over time, projects change, become
-less relevant and even die. This proposal aims to formalize the choice and
-level of affiliation of software development projects in relation to the OBF.
+Establishing an affiliation between an open source software project and O|B|F has value for both the
+project and the O|B|F. It can raise a project's profile and public standing, which in turn can allow it to attract more attention from users as well as potential volunteers, and can thus promote a project's overall health. Promoting the health and sustainability of bioinformatics open-source software projects is among
+the O|B|F's primary objectives. In addition, 
+the user and developer communities of affiliated projects constitute the primary pool of volunteers for O|B|F as an organization and an umbrella effort.
 
-For this the commission proposes a democratic promote/demote procedure that
-allows for adjustment of project status. This does not mean that all projects
-are discussed every year.  In fact, the idea is to have little change and
-champion the status quo. Even so, the first years we may see to the most
-adjustments.
+That notwithstanding, the O|B|F has not, and does not intend to serve
+primarily as a project hosting provider for bioinformatics open-source
+projects. Instead, as a project umbrella the O|B|F's focus is on
+projects that serve, or have the potential to serve, a large variety
+of bioinformatics research applications and users. Therefore, the
+group of projects with some status of affiliation with the O|B|F is
+expected to always be limited in number. In keeping with the potential benefits of affiliation for a project, the criteria formalized here aim to maintain O|B|F's historical focus.
+
+Projects differ in terms of their activity, community, audience, and
+wider impact on bioinformatics. Also, over time, projects change, become
+more active, or less relevant and even dormant. This policy aims to provide mechanisms through which projects' affiliations can reflect such dynamics.
 
 ## Procedure
 
