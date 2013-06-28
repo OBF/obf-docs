@@ -55,7 +55,7 @@ change in a board meeting.
 
 ## Project status requirements
 
-The existing project status for OBF projects is 'main project', 'affiliated
+The existing project status for OBF projects is 'core project', 'affiliated
 projects', 'related projects', and 'ontologies and definitions', we would like
 to add 'new projects' and 'student projects' and rename 'related project' to
 'interesting project'. Here we explain each status:
@@ -63,8 +63,8 @@ to add 'new projects' and 'student projects' and rename 'related project' to
 ### Core OBF Project (vote)
 
 Core OBF projects are long standing OSS initiatives with an active developer
-community and a largisch bioinformatics user base. These projects are known for
-their great attitude to new comers, are active members of the OBF and have a
+community and an established bioinformatics user base. These projects are known for
+their great attitude to newcomers, are active members of the OBF and have a
 great web presence. Long standing examples are BioPerl and Biopython.
 
 ### Affiliated OBF Project (vote)
