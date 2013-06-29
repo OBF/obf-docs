@@ -77,7 +77,7 @@ the OBF.
 
 ### Candidate OBF project (vote)
 
-A project can be a 'new project' for one year. New projects have the promise to
+A project can be a Candidate Project for one year. Candidate Projects have the promise to
 develop themselves into an Affiliated OBF Project.
 
 ### Other projects
@@ -125,15 +125,14 @@ Voting is based on the short list prepared and published in advance.  Ad hoc vot
 ### Core OBF Project (promote or demote)
 
 To become a Core Project a project has to be an affiliated project for at least
-3 years. At BOSC attendees can vote an affiliated project into a main project.
-In rare cases a main project can be voted out of the list. In both cases the a
+3 years. At BOSC attendees can vote an Affiliated Project into a Core Project.
+In rare cases a Core Project can be voted out of the list. In both cases the a
 majority of 70% is required.
 
 ### Affiliated OBF Project (promote or demote)
 
-To become an Affiliated Project a project has to have interesting, new or
-student project status for at least 1 year. At BOSC, attendees can vote such a
-project into an affiliated project.  Also an affiliated project can be voted
+To become an Affiliated Project a project has to have Candidate Project status for at least 1 year. At BOSC, attendees can vote such a
+project into an affiliated project.  Also an Affiliated Project can be voted
 out of the list. In both cases the a majority of 70% is required. 
 
 ### Candidate OBF Project (promote)
