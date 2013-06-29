@@ -85,7 +85,7 @@ develop themselves into an Affiliated OBF Project.
 Projects other than those under the stated affiliation categories may
 have a de-facto relationship with OBF or one of its official member
 projects, but they do not have a recognized affiliation status. As
-such, their status is also not voted on.
+such, their status is not voted on.
 
 These projects may include student projects with OBF community
 participation, including projects executed under the OBF umbrella,
@@ -152,7 +152,7 @@ necessary by public meeting and vote. The Board's decision is final
 and binding.
 
 The OBF Board of Directors may, at its discretion, veto, instate, or
-terminate a project's official affiliation status, if the Board feels
+terminate a project's official affiliation status, if the Board determines
 the need to do so. It is expected that the Board will do so in public
 session, whether at an annual Board meeting, or at a specifically
 convened one.
