@@ -1,49 +1,50 @@
-# Draft proposal for OBF affiliated projects 
+# OBF Affiliated Project Status Policy (Unratified Draft) 
+
+_Status: This policy is currently being developed. It has not been discussed beyond the Board of Directors yet._
 
 ## Background
 
-The Open Bioinformatics Foundation or O|B|F (OBF) is a non-profit, volunteer-run
+The Open Bioinformatics Foundation (OBF) is a non-profit, volunteer-run
 group dedicated to promoting the practice and philosophy of Open Source
 software development and Open Science within the biological research community.
 
-Main activities are:
-
-* Running and supporting the BOSC conferences.
-* Organizing and supporting developer-centric "Hackathon" events.
-* Participating in the Google Summer of Code program on behalf of our member projects as an umbrella mentoring organization.
-* Managing servers, colocation facilities, bank account, domain names, and other assets for the benefit of our member projects.
-* Public opinion and policy statements about matters related to Open Source and Open Science in bioinformatics. 
-
-The Foundation does not participate directly in the development or structure of
-the open source work, but as the members of the foundation are drawn from 
-project developer communities, there is clear commonality of direction and
-purpose.
-
-O|B|F grew out of the volunteer projects BioPerl, BioJava and Biopython. Later
-BioRuby, BioSQL, BioLib, DAS, MOBY, EMBOSS, and OBDA were added as 'main
-projects'.  There is now also a host of listed 'affiliated projects', 'related
-projects', and 'ontologies and definitions'.
+OBF originally grew out of the volunteer projects BioPerl, BioJava
+and Biopython. Later BioRuby, BioSQL, BioLib, DAS, MOBY, EMBOSS, and
+OBDA joined the OBF umbrella, primarily as a consequence of requiring
+project hosting support, existing community relationships, and through
+informal consensus among members of OBF's Board of Directors. OBF
+has since become hesitant to include new projects under the official
+umbrella, in part because the growth in OBF-hosted project resources
+has reached the capacity of OBF servers, and in part because of
+OBF's mission and scope as an organization. Furthermore, the
+[existing listing of projects related to OBF](http://www.open-bio.org/w/index.php?title=Projects&oldid=4609)
+in different ways uses affiliation categories that are based neither
+on a formal definition nor on a community process for attaining them,
+and are thus poorly aligned with OBF values of community and
+transparency.
 
 ## Motivation
 
-Affiliating an open source software project with OBF has value for both the
-project and the OBF. For the project it raises its profile and may increase its
-public standing, and thereby attract more attention. For the OBF it is driving
-the primary objective of supporting open source projects in bioinformatics. Also 
-affiliated projects bring volunteers to the OBF effort.
+This policy aims to formalize criteria and a community-driven,
+transparent process by which open-source software projects can gain,
+lose, and maintain certain types of affiliation with the OBF.
 
-At this point the ranking of projects under the different headers is arbitrary.
-Not all projects are equal in terms of their activity, community, audience, and
-wider impact on bioinformatics and the list of main and affiliated projects
-does not necessarily reflect that. Also, over time, projects change, become
-less relevant and even die. This proposal aims to formalize the choice and
-level of affiliation of software development projects in relation to the OBF.
+Establishing an affiliation between an open source software project and OBF has value for both the
+project and the OBF. It can raise a project's profile and public standing, which in turn can allow it to attract more attention from users as well as potential volunteers, and can thus promote a project's overall health. Promoting the health and sustainability of bioinformatics open-source software projects is among
+the OBF's primary objectives. In addition, 
+the user and developer communities of affiliated projects constitute the primary pool of volunteers for OBF as an organization and an umbrella effort.
 
-For this the commission proposes a democratic promote/demote procedure that
-allows for adjustment of project status. This does not mean that all projects
-are discussed every year.  In fact, the idea is to have little change and
-champion the status quo. Even so, the first years we may see to the most
-adjustments.
+That notwithstanding, the OBF has not, and does not intend to serve
+primarily as a project hosting provider for bioinformatics open-source
+projects. Instead, as a project umbrella the OBF's focus is on
+projects that serve, or have the potential to serve, a large variety
+of bioinformatics research applications and users. Therefore, the
+group of projects with some status of affiliation with the OBF is
+expected to always be limited in number. In keeping with the potential benefits of affiliation for a project, the criteria formalized here aim to maintain OBF's historical focus.
+
+Projects differ in terms of their activity, community, audience, and
+wider impact on bioinformatics. Also, over time, projects change, become
+more active, or less relevant and even dormant. This policy aims to provide mechanisms through which projects' affiliations can reflect such dynamics.
 
 ## Procedure
 
@@ -54,19 +55,19 @@ change in a board meeting.
 
 ## Project status requirements
 
-The existing project status for OBF projects is 'main project', 'affiliated
+The existing project status for OBF projects is 'core project', 'affiliated
 projects', 'related projects', and 'ontologies and definitions', we would like
 to add 'new projects' and 'student projects' and rename 'related project' to
 'interesting project'. Here we explain each status:
 
-### Main project (vote)
+### Core OBF Project (vote)
 
-Main OBF projects are long standing OSS initiatives with an active developer
-community and a largisch bioinformatics user base. These projects are known for
-their great attitude to new comers, are active members of the OBF and have a
+Core OBF projects are long standing OSS initiatives with an active developer
+community and an established bioinformatics user base. These projects are known for
+their great attitude to newcomers, are active members of the OBF and have a
 great web presence. Long standing examples are BioPerl and Biopython.
 
-### Affiliated project (vote)
+### Affiliated OBF Project (vote)
 
 Affiliated OBF projects are active OSS initiatives for bioinformatics with an
 active developer community. These projects are narrower in focus and may have a
@@ -74,27 +75,24 @@ smaller user base. Key is that the voters think the project highly relevant and
 that their developers and community are very active and are active members of
 the OBF.
 
-### Ontologies and definition affiliated project (vote)
+### Candidate OBF project (vote)
 
-Same requirements as an affiliated project, with a focus on data analysis and
-standards, rather than on developing software.
+A project can be a Candidate Project for one year. Candidate Projects have the promise to
+develop themselves into an Affiliated OBF Project.
 
-### New project (vote)
+### Other projects
 
-A project can be a 'new project' for one year. New projects have the promise to
-develop themselves into an affiliated project.
+Projects other than those under the stated affiliation categories may
+have a de-facto relationship with OBF or one of its official member
+projects, but they do not have a recognized affiliation status. As
+such, their status is not voted on.
 
-### Student project (no vote)
-
-Any student project executed under the wing of OBF is listed. These projects are not voted on.
-
-### Interesting project (no vote)
-
-An interesting project is any project that is active and is of interest to the 
-wider bioinformatics community. These projects are not voted on. The list is 
-maintained by OBF members and references on the OBF website should be little
-more than link outs (a URL with a short description). There is no obvious
-affiliation between OBF and such projects.
+These projects may include student projects with OBF community
+participation, including projects executed under the OBF umbrella,
+and other projects considered active and interesting to the wider
+bioinformatics community. They may be listed and described on the
+OBF wiki so long as it is evident that they do not have an official
+affiliation with the OBF as per the ones defined here.
  
 ## Preparation and voting
 
@@ -122,44 +120,39 @@ all OBF projects.
 
 ## Voting at BOSC
 
-Voting happens based on the short list presented that has been prepared
-beforehand and published.  Ad hoc voting is not possible. When people want
-unprepared changes, they need to prepare that for the next BOSC. In extreme
-cases, i.e. when a project does not live up to OBF standards, the OBF board may
-interfere during the course of the year.
+Voting is based on the short list prepared and published in advance.  Ad hoc voting is not possible.
 
-### Main project (promote or demote)
+### Core OBF Project (promote or demote)
 
-To become a main project a project has to be an affiliated project for at least
-3 years. At BOSC attendees can vote an affiliated project into a main project.
-In rare cases a main project can be voted out of the list. In both cases the a
-majority of 70% is required, and the OBF board can still veto the outcome.
+To become a Core Project a project has to be an affiliated project for at least
+3 years. At BOSC attendees can vote an Affiliated Project into a Core Project.
+In rare cases a Core Project can be voted out of the list. In both cases the a
+majority of 70% is required.
 
-### Affiliated project (promote or demote)
+### Affiliated OBF Project (promote or demote)
 
-To become an affiliated project a project has to have interesting, new or
-student project status for at least 1 year. At BOSC, attendees can vote such a
-project into an affiliated project.  Also an affiliated project can be voted
-out of the list. In both cases the a majority of 70% is required. The OBF
-board can still veto the outcome.
+To become an Affiliated Project a project has to have Candidate Project status for at least 1 year. At BOSC, attendees can vote such a
+project into an affiliated project.  Also an Affiliated Project can be voted
+out of the list. In both cases the a majority of 70% is required. 
 
-### New project (promote)
+### Candidate OBF Project (promote)
 
-A new project has special status for one year.  At BOSC attendees can vote a
-project into an affiliated project. A majority of 70% is required, and the OBF
-board can still veto the outcome.
+A project not currently affiliated with OBF can attain Candidate Project status for one year.  At BOSC attendees can vote a
+project into an affiliated project. A majority of 70% is required.
 
-### Other
+## Maintenance of affiliation status
 
-Other project status (changes) are not voted on, but simply maintained on the
-wiki. Any dispute on what belongs there or not has to be diverted to the OBF,
-as it is an OBF website.
+The affiliation status of a project that is not voted on remains the same for another year.
 
-## Finally
+## Dispute and Board Veto
 
-At this point the commission favours a hand vote at BOSC of all attendees. If
-this proves unpractical for whatever reason, we could change to a 24 hour
-online voting during the conference. The latter may have the advantage that all
-OBF members can vote, even when not attending BOSC.
+Any dispute on votes or current affiliation status of a project must
+be brought before the OBF Board of Directors, who will arbitrate, if
+necessary by public meeting and vote. The Board's decision is final
+and binding.
 
-
+The OBF Board of Directors may, at its discretion, veto, instate, or
+terminate a project's official affiliation status, if the Board determines
+the need to do so. It is expected that the Board will do so in public
+session, whether at an annual Board meeting, or at a specifically
+convened one.
