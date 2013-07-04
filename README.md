@@ -13,3 +13,4 @@ Documents maintained in markdown format may use an extension, as listed below.
 
 * `Donation-info-for-SPI.md`: plain markdown
 * `Travel_fellowships.md`: plain markdown
+* `Affiliated-Project-Policy.md`: plain markdown
