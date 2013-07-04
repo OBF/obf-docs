@@ -1,6 +1,6 @@
-# OBF Affiliated Project Status Policy (Unratified Draft) 
+# OBF Affiliated Project Status Policy 
 
-_Status: This policy is currently being developed. It has not been discussed beyond the Board of Directors yet._
+_Status: **Unratified Draft**. This policy is currently being developed. It has not yet been discussed beyond the Board of Directors._
 
 ## Background
 
