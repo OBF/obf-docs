@@ -12,3 +12,5 @@ Documents maintained in markdown format may use an extension, as listed below.
   where `$pdflatex` is `pdflatex` if it is in your path, or the full path to `pdflatex` otherwise.
 
 * `Donation-info-for-SPI.md`: plain markdown
+
+* `Affiliated-Project-Policy.md`: plain markdown
