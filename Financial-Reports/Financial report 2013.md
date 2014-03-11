@@ -33,6 +33,19 @@ Total income (net):
 
 ## Expenses
 
+Note: expenses incurred (and reimbursed) before transferring our assets to SPI are not
+individually called out here. For completeness sake, the "other" 2013 expenses incurred
+before our SPI transfer include:
+
+3/15/2013 - Reimburse Hilmar L. for domain-related expenses: $60.86
+3/15/2013 - Reimburse Chris D. for using Paypal for international '12 GsOC reimbursement: $1051.11
+
+Use of Paypal note: Our 2012 GSoC Mentor Raoul B. banks overseas and the easiest way to
+reimburse him for his documented 2012 GSoC travel expenses was for
+Chris D. to use his personal paypal account. Once Raoul confirmed receipt,
+Chris D. asked the OBF Board for permission to reimburse. 
+
+
 | Item   | Date(s)  | Amount  |
 |--------|----------|--------:|
 | Amazon Hosting        | Jan-Nov 2013  | $2,214.65  |
