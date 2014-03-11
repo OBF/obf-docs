@@ -24,9 +24,9 @@ As of April 1, 2013, OBF does not maintain its own bank accounts anymore. All of
 
 | Item   | Date(s)  | Amount  |
 |--------|----------|--------:|
-|        |  4 | 29  | 121.36
-|        |  4 | 20  | 60.86
-|        |  9 | 18  | 2,000.00
+|        |  4/29 |  | 121.36
+|        |  4/20 |  | 60.86
+|        |  9/18 |  | 2,000.00
 
 Total income (gross): $2182.22
 Total income (net):
