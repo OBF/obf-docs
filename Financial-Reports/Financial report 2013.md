@@ -6,13 +6,13 @@ This is a report about OBF's financial assets and transactions during OBF's 2013
 
 | Item                   | Amount         |
 |------------------------|---------------:|
-| **Starting Balance**   | **$NN,NNN.NN** |
-| Income                 |   $NN,NNN.NN   |
-| Expenses               | _($NN,NNN.NN)_ |
-| SPI fees               | _($NN,NNN.NN)_ |
-| **Ending Balance**     | **$NN,NNN.NN** |
-| Encumbrances           | _($NN,NNN.NN)_ |
-|**Unencumbered Balance**| **$NN,NNN.NN** |
+| **Starting Balance**   | **$37,386.45** |
+| Income                 |   $2182.22   |
+| Expenses               | _($2401.17)_ |
+| SPI fees               | _($186.52)_ |
+| **Ending Balance**     | **$39,392.15** |
+| Encumbrances           | _($185.61)_ |
+|**Unencumbered Balance**| **$39,206.54** |
 
 Encumbrances come from unpaid liabilities and similar commitments already incurred, but not yet paid.
 
@@ -24,22 +24,22 @@ As of April 1, 2013, OBF does not maintain its own bank accounts anymore. All of
 
 | Item   | Date(s)  | Amount  |
 |--------|----------|--------:|
-|        |   |   |
-|        |   |   |
-|        |   |   |
+|        |  4 | 29  | 121.36
+|        |  4 | 20  | 60.86
+|        |  9 | 18  | 2,000.00
 
-Total income (gross):
+Total income (gross): $2182.22
 Total income (net):
 
 ## Expenses
 
 | Item   | Date(s)  | Amount  |
 |--------|----------|--------:|
-|        |   |   |
+| Amazon Hosting        | Jan-Nov 2013  | $2,214.65  |
 |        |   |   |
 |        |   |   |
 
-Total expenses (gross):
+Total expenses (gross):  $2,214.65
 Total expenses (net):
 
 ## Encumbrances
@@ -48,11 +48,11 @@ Encumbrances are unpaid liabilities and other financial commitments already incu
 
 | Item   | Date(s)  | Amount  |
 |--------|----------|--------:|
-|        |   |   |
+| Amazon Hosting        | Dec 2013  |   | 186.52
 |        |   |   |
 |        |   |   |
 
-Total encumbrances (gross):
+Total encumbrances (gross):  $186.52
 Total encumbrances (net):
 
 ## BOSC 2013
