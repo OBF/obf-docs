@@ -38,6 +38,7 @@ individually called out here. For completeness sake, the "other" 2013 expenses i
 before our SPI transfer include:
 
 3/15/2013 - Reimburse Hilmar L. for domain-related expenses: $60.86
+
 3/15/2013 - Reimburse Chris D. for using Paypal for international '12 GsOC reimbursement: $1051.11
 
 Use of Paypal note: Our 2012 GSoC Mentor Raoul B. banks overseas and the easiest way to
