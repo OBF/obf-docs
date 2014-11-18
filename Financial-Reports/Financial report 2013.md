@@ -4,15 +4,19 @@ This is a report about OBF's financial assets and transactions during OBF's 2013
 
 ## Summary
 
-| Item                   | Amount         |
-|------------------------|---------------:|
-| **Starting Balance**   | **$37,386.45** |
-| Income                 |    $2,182.22   |
-| Expenses               |  _($2,401.17)_ |
-| SPI fees               |    _($186.52)_ |
-| **Ending Balance**     | **$39,392.15** |
-| Encumbrances           |      _($0.00)_ |
-|**Unencumbered Balance**| **$39,392.15** |
+| Item                        | Amount         |
+|-----------------------------|---------------:|
+| **Starting Balance**        | **$37,386.45** |
+| Income                      |    $2,182.22   |
+| Expenses                    |  _($2,401.17)_ |
+| SPI fees                    |    _($186.52)_ |
+| **Ending Balance**          | **$39,392.15** |
+| Encumbrances                |      _($0.00)_ |
+|**Unencumbered Balance**     | **$39,392.15** |
+|-----------------------------|----------------|
+| BOSC Escrow Account         |   $22,501.68   |
+|**Total financial assets**   | **$61,893.83** |
+|**Total unencumbered assets**| **$61,893.83** |
 
 Encumbrances come from unpaid liabilities and similar commitments already incurred, but not yet paid.
 
