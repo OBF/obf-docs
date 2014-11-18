@@ -5,7 +5,7 @@ This is a report about OBF's financial assets and transactions during OBF's 2013
 ## Summary
 
 | Item                        | Amount         |
-|-----------------------------|---------------:|
+|:----------------------------|---------------:|
 | **Starting Balance**        | **$38,498.42** |
 | Income                      |    $2,182.22   |
 | Programmatic expenses       |  _($1,195.45)_ |
@@ -29,7 +29,7 @@ The balance transferred (and thus the starting balance at SPI) was $37,386.45. T
 ## Income
 
 | Item                                        |Date(s)|   Amount  |
-|---------------------------------------------|-------|----------:|
+|:--------------------------------------------|:-----:|----------:|
 | Donation (for biows.* domain names)         |  4/20 |    $60.86 | 
 | Donation (for biows.* domain names)         |  4/29 |   $121.36 | 
 | Donation (for 2012 BOSC Travel Fellowships) |  9/18 | $1,000.00 | 
@@ -44,9 +44,9 @@ Total income earmarked for FY 2013 programmatic activities: $1,182.22
 Note: expenses incurred (and reimbursed) before transferring our assets to SPI are not individually called out here. Also, this does not include expenses incurred on behalf of OBF but not yet reimbursed.
 
 | Item                                        |Date(s)|   Amount  |
-|---------------------------------------------|-------|----------:|
+|:--------------------------------------------|:-----:|----------:|
 | biows.* domain names (reimb. to HilmarL)    |  3/15 |    $60.86 | 
-| '12 GSoC summit Raoul B. (reimb. to ChrisD) |  3/15 | $1,051.11 | 
+| 2012 GSoC summit Raoul B. (reimb. to ChrisD)|  3/15 | $1,051.11 | 
 | Processing fees for donations/expenses      |       |    $83.48 | 
 |---------------------------------------------|-------|-----------|
 | SPI 5% fees                                 |       |   $103.04 | 
@@ -59,21 +59,21 @@ Totals for FY 2013:
 
 ## Encumbrances
 
-Encumbrances are unpaid liabilities and other financial commitments already incurred, but not yet paid. This includes expenses paid by, but yet reimbursed to Board members and other persons authorized to make payments on behalf of the OBF.
+Encumbrances are unpaid liabilities and other financial commitments already incurred, but not yet paid. This includes expenses paid by, but not yet reimbursed to Board members and other persons authorized to make payments on behalf of the OBF.
 
-| Item                           |     Date(s)     |   Amount  |
-|--------------------------------|-----------------|----------:|
-| Biomoby.org renewal            |  9/29           |    $10.00 |
-| Biosoap.org renewal & transfer | 10/2            |    $10.48 |
-| BioR.org renewal               | 11/3            |    $10.00 |
-| Amazon Hosting                 | Dec '12-Nov '13 | $2,214.65 |
+| Item                           |     Date(s)       |   Amount  |
+|:-------------------------------|:-----------------:|----------:|
+| Biomoby.org renewal            |  9/29             |    $10.00 |
+| Biosoap.org renewal & transfer | 10/2              |    $10.48 |
+| BioR.org renewal               | 11/3              |    $10.00 |
+| Amazon Hosting                 | Dec 2012-Nov 2013 | $2,214.65 |
 
 Total encumbrances:   $2,245.13
 
 ## BOSC 2013
 
 | Item                    | Amount         |
-|-------------------------|---------------:|
+|:------------------------|---------------:|
 | **Starting Balance**    | **$19,213.61** |
 | BOSC Profit share       |   $ 7,376.68   |
 | Programmatic Activities | _($ 4,088.61)_ |
