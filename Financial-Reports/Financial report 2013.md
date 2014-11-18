@@ -56,12 +56,17 @@ Total encumbrances:   -.-
 
 ## BOSC 2013
 
-| Item                 | Amount         |
-|----------------------|---------------:|
-| **Starting Balance** | **$19,213.61** |
-| BOSC Income          |   $33,961.77   |
-| BOSC Expenses        | _($19,208.43)_ |
-| Surplus share        |   $ 7,376.68   |
-| **Ending Balance**   | **$22,501.68** |
+| Item                    | Amount         |
+|-------------------------|---------------:|
+| **Starting Balance**    | **$19,213.61** |
+| BOSC Profit share       |   $ 7,376.68   |
+| Programmatic Activities | _($ 4,088.61)_ |
+| **Ending Balance**      | **$22,501.68** |
+|-------------------------|----------------|
+| BOSC Income             |   $33,961.77   |
+| BOSC Expenses           | _($19,208.43)_ |
+| **BOSC Surplus**        |   $15,753.35   |
+
+_Programmatic Activities_ are BOSC/OBF-sponsored activities that go beyond operational activities and logistics already managed and thus covered by ISMB, and includes travel awards, comp'ed registrations, and speaker support.
 
 [SPI]: http://spi-inc.org
