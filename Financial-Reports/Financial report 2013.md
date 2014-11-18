@@ -81,8 +81,12 @@ Total encumbrances:   $2,245.13
 |-------------------------|----------------|
 | BOSC Income             |   $33,961.77   |
 | BOSC Expenses           | _($19,208.43)_ |
-| **BOSC Surplus**        |   $15,753.35   |
+| **BOSC Surplus**        | **$15,753.35** |
 
-_Programmatic Activities_ are BOSC/OBF-sponsored activities that go beyond operational activities and logistics already managed and thus covered by ISMB, and includes travel awards, comp'ed registrations, and speaker support.
+_Programmatic Activities_ are BOSC/OBF-sponsored activities that go beyond operational activities and logistics already managed and thus covered by ISMB, and includes travel awards, comp'ed registrations, and speaker support. For BOSC 2013, these include the following:
+
+- 12 comp'ed registrations:       $2,142.34
+- Keynote speaker reimbursements: $1,946.27
+- Student travel awards:          $  500.00
 
 [SPI]: http://spi-inc.org
