@@ -28,8 +28,7 @@ As of April 1, 2013, OBF does not maintain its own bank accounts anymore. All of
 | Donation (for biows.* domain names) |  4/20    |    $60.86 | 
 |                                     |  9/18    | $2,000.00 | 
 
-Total income (gross):       $2182.22
-Total income FY 2013 (net): $2182.22
+Total income FY 2013: $2182.22
 
 ## Expenses
 
@@ -40,15 +39,15 @@ Note: expenses incurred (and reimbursed) before transferring our assets to SPI a
 + Dec 2012 - Nov 2013: Amazon Hosting: $2,214.65
 + Other expenses not listed individually: $125.66
 
-Total expenses (gross):       $3,452.28
-Total expenses FY 2013 (net): $2,401.17
+Total expenses FY 2013:       $3,452.28
+
+Total expenses incurred and paid in FY 2013: $2,401.17
 
 ## Encumbrances
 
 Encumbrances are unpaid liabilities and other financial commitments already incurred, but not yet paid.
 
-Total encumbrances (gross): -.-
-Total encumbrances (net):   -.-
+Total encumbrances:   -.-
 
 ## BOSC 2013
 
