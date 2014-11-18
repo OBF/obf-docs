@@ -22,11 +22,12 @@ As of April 1, 2013, OBF does not maintain its own bank accounts anymore. All of
 
 ## Income
 
-| Item                                | Date(s)  |   Amount  |
-|-------------------------------------|----------|----------:|
-| Donation (for biows.* domain names) |  4/29    |   $121.36 | 
-| Donation (for biows.* domain names) |  4/20    |    $60.86 | 
-|                                     |  9/18    | $2,000.00 | 
+| Item                                        |Date(s)|   Amount  |
+|---------------------------------------------|-------|----------:|
+| Donation (for biows.* domain names)         |  4/29 |   $121.36 | 
+| Donation (for biows.* domain names)         |  4/20 |    $60.86 | 
+| Donation (for 2012 BOSC Travel Fellowships) |  9/18 | $1,000.00 | 
+| Donation (for 2013 BOSC Travel Fellowships) |  9/18 | $1,000.00 | 
 
 Total income FY 2013: $2182.22
 
