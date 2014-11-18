@@ -38,9 +38,10 @@ Note: expenses incurred (and reimbursed) before transferring our assets to SPI a
 + 3/15/2013 - Reimburse Hilmar L. for domain-related expenses: $60.86
 + 3/15/2013 - Reimburse Chris D. for '12 GSoC reimbursement to Raoul B. (used personal Paypal account for international transfer): $1051.11 (encumbered from FY 2012)
 + Dec 2012 - Nov 2013: Amazon Hosting: $2,214.65
++ Other expenses not listed individually: $125.66
 
-Total expenses (gross):       $3,326.62
-Total expenses FY 2013 (net): $2,275.51
+Total expenses (gross):       $3,452.28
+Total expenses FY 2013 (net): $2,401.17
 
 ## Encumbrances
 
