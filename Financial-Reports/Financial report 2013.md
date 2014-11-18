@@ -1,18 +1,18 @@
 # Financial Report for FY 2013
 
-This is a report about OBF's financial assets and transactions during OBF's 2013 financial year. For financial year for OBF goes from December to November of the following year, and hence this report covers the period from December 2012 to November 2013.
+This is a report about OBF's financial assets and transactions during OBF's 2013 financial year. The financial year for OBF goes from December to November of the following year, and hence this report covers the period from December 2012 to November 2013.
 
 ## Summary
 
 | Item                   | Amount         |
 |------------------------|---------------:|
 | **Starting Balance**   | **$37,386.45** |
-| Income                 |   $2182.22   |
-| Expenses               | _($2401.17)_ |
-| SPI fees               | _($186.52)_ |
+| Income                 |    $2,182.22   |
+| Expenses               |  _($2,401.17)_ |
+| SPI fees               |    _($186.52)_ |
 | **Ending Balance**     | **$39,392.15** |
-| Encumbrances           | _($185.61)_ |
-|**Unencumbered Balance**| **$39,206.54** |
+| Encumbrances           |      _($0.00)_ |
+|**Unencumbered Balance**| **$39,392.15** |
 
 Encumbrances come from unpaid liabilities and similar commitments already incurred, but not yet paid.
 
@@ -22,61 +22,41 @@ As of April 1, 2013, OBF does not maintain its own bank accounts anymore. All of
 
 ## Income
 
-| Item   | Date(s)  | Amount  |
-|--------|----------|--------:|
-|        |  4/29 |  $121.36 | 
-|        |  4/20 |  $60.86 | 
-|        |  9/18 |  $2,000.00 | 
+| Item                                | Date(s)  |   Amount  |
+|-------------------------------------|----------|----------:|
+| Donation (for biows.* domain names) |  4/29    |   $121.36 | 
+| Donation (for biows.* domain names) |  4/20    |    $60.86 | 
+|                                     |  9/18    | $2,000.00 | 
 
-Total income (gross): $2182.22
-Total income (net):
+Total income (gross):       $2182.22
+Total income FY 2013 (net): $2182.22
 
 ## Expenses
 
-Note: expenses incurred (and reimbursed) before transferring our assets to SPI are not
-individually called out here. For completeness sake, the "other" 2013 expenses incurred
-before our SPI transfer include:
+Note: expenses incurred (and reimbursed) before transferring our assets to SPI are not individually called out here.
 
-3/15/2013 - Reimburse Hilmar L. for domain-related expenses: $60.86
++ 3/15/2013 - Reimburse Hilmar L. for domain-related expenses: $60.86
++ 3/15/2013 - Reimburse Chris D. for '12 GSoC reimbursement to Raoul B. (used personal Paypal account for international transfer): $1051.11 (encumbered from FY 2012)
++ Dec 2012 - Nov 2013: Amazon Hosting: $2,214.65
 
-3/15/2013 - Reimburse Chris D. for using Paypal for international '12 GsOC reimbursement: $1051.11
-
-Use of Paypal note: Our 2012 GSoC Mentor Raoul B. banks overseas and the easiest way to
-reimburse him for his documented 2012 GSoC travel expenses was for
-Chris D. to use his personal paypal account. Once Raoul confirmed receipt,
-Chris D. asked the OBF Board for permission to reimburse. 
-
-
-| Item   | Date(s)  | Amount  |
-|--------|----------|--------:|
-| Amazon Hosting        | Jan-Nov 2013  | $2,214.65  |
-|        |   |   |
-|        |   |   |
-
-Total expenses (gross):  $2,214.65
-Total expenses (net):
+Total expenses (gross):       $3,326.62
+Total expenses FY 2013 (net): $2,275.51
 
 ## Encumbrances
 
 Encumbrances are unpaid liabilities and other financial commitments already incurred, but not yet paid.
 
-| Item   | Date(s)  | Amount  |
-|--------|----------|--------:|
-| Amazon Hosting        | Dec 2013  |   $186.52 | 
-|        |   |   |
-|        |   |   |
-
-Total encumbrances (gross):  $186.52
-Total encumbrances (net):
+Total encumbrances (gross): -.-
+Total encumbrances (net):   -.-
 
 ## BOSC 2013
 
 | Item                 | Amount         |
 |----------------------|---------------:|
 | **Starting Balance** | **$19,213.61** |
-| BOSC Income          |   $33,961.77  |
+| BOSC Income          |   $33,961.77   |
 | BOSC Expenses        | _($19,208.43)_ |
-| Surplus share        |   $ 7,376.68  |
+| Surplus share        |   $ 7,376.68   |
 | **Ending Balance**   | **$22,501.68** |
 
 [SPI]: http://spi-inc.org
