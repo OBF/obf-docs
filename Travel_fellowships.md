@@ -11,12 +11,17 @@ Any event that aims to develop or promote open source development and open scien
 ##What does the fellowship cover?
 The fellowship can be used to cover airfare, hotel and / or conference registration fees up to a value of $1000. The OBF will reimburse the recipient after the event based on receipts provided and proof of attendance. There is no cash value beyond eligible and documented expenses. If you anticipate that you would require more than $1000 in order to attend the event, please include that information on the application form. 
 
+##What do you require of applicants?
+We expect that your participation in the event will promote open source software development and / or open science in the biological research community, and will ideally promote diversity in this community. After the event, we require that applicants write a blog post that we will reference or post on the [OBF blog](http://news.obf.io/).
+
 ##Who will review the applications?
 The applications will be considered by the OBF Board of Directors. Individual directors with a clear conflict of interest will recuse themselves.
 
+##How to apply
+Fill out [the application form](http://goo.gl/forms/UuoP0c9iGI). Applicants will be notified of the outcome no later than 3 weeks after the application deadline. 
+
 **Application Deadlines**: April 15, August 15, December 15
 
-**To apply**: Fill out [the application form]. Applicants will be notified of the outcome no later than 3 weeks after the application deadline. 
 
 
 
