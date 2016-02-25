@@ -1,4 +1,3 @@
-pen Bioinformatics Travel Fellowships
 #Open Bioinformatics Foundation Travel Fellowships
 
 The Open Bioinformatics Foundation ([OBF](https://www.open-bio.org)) is pleased to announce a new OBF Travel Fellowship program aimed at increasing diverse participation at events promoting open source bioinformatics software development and open science in the biological research community. 
