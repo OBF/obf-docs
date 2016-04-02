@@ -9,7 +9,7 @@ Anyone participating in open source software development or developing / promoti
 Any event that aims to develop or promote open source development and open science in the biological research community. This includes - but is not limited to - conferences, workshops, codefests, and hackathons. 
 
 ## What does the fellowship cover?
-The fellowship can be used to cover airfare, hotel and / or conference registration fees up to a value of $1000. The OBF will reimburse the recipient after the event based on receipts provided and proof of attendance. There is no cash value beyond eligible and documented expenses. If you anticipate that you would require more than $1000 in order to attend the event, please include that information on the application form. 
+The fellowship can be used to cover airfare, hotel and / or conference registration fees up to a value of USD 1,000. The OBF will reimburse the recipient after the event based on receipts provided and proof of attendance. There is no cash value beyond eligible and documented expenses. If you anticipate that you would require more than USD 1,000 in order to attend the event, please include that information on the application form. 
 
 ## What do you require of applicants?
 We expect that your participation in the event will promote open source software development and / or open science in the biological research community, and will ideally promote diversity in this community. After the event, we require that applicants write a blog post that we will reference or post on the [OBF blog](http://news.obf.io/).
