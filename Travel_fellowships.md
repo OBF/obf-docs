@@ -18,6 +18,6 @@ We expect that your participation in the event will promote open source software
 The applications will be considered by the OBF Board of Directors. Individual directors with a clear conflict of interest will recuse themselves.
 
 ## How to apply
-Fill out [the application form](http://goo.gl/forms/UuoP0c9iGI). Applicants will be notified of the outcome no later than 3 weeks after the application deadline. 
+Fill out [the application form](http://goo.gl/forms/pmb26LovzHFln0Xm1). Applicants will be notified of the outcome no later than 3 weeks after the application deadline. 
 
 **Application Deadlines**: April 15, August 15, December 15
