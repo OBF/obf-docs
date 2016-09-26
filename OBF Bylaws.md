@@ -44,7 +44,7 @@ ARTICLE III - BOARD OF DIRECTORS
 1.	The Board of Directors shall consist of President, Secretary, Treasurer, Parliamentarian, and additional Board Members at Large. The number of Board Members at Large is decided by majority vote of the current Board of Directors and may be proposed by either the general membership or a Board Member.
 2.	Term of Office.
     a.	The term of office for Directors shall begin after the conclusion of the Board meeting at which they are elected.
-    b.	Directors shall serve for a term of 2 (two) years and shall hold office until their successors' terms begin. 
+    b.	Directors shall serve for a term of 3 (three) years and shall hold office until their successors' terms begin.
     c.	Directors may be elected to and serve another consecutive term upon the end of their term of office (see Article IV).
 3.	A majority of Directors shall, at its option, declare the seat of a Director to be vacant if that Director is absent for 2 (two) consecutive Board meetings (as defined in Article II), or fails to remain a member in good standing for a period of more than 4 (four) weeks.
 4.	Any Director shall be removed by a 2/3 (two thirds) majority vote of the Board of Directors. 
