@@ -80,7 +80,7 @@ ARTICLE IV - NOMINATIONS AND ELECTIONS
 
 1.	Nominations
     a. Nominations for the Board of Directors may be made by the general membership at any time throughout the year by email to any Board Member.
-    b. The names of Board Member candidates shall be presented to the general membership prior to holding the election, with at least the same advance notificiation period as pertains to public Board meetings (see Article II, Item 4).
+    b. The names of Board Member candidates shall be presented to the general membership prior to holding the election, with at least the same advance notification period as pertains to public Board meetings (see Article II, Item 4).
 2.	Elections of officers and Directors shall be held at a public Board of Directors meeting. Elections to the three Officer positions by the membership may also be held during a time of no more than the four weeks leading up to a public Board of Directors meeting. Nominations made at least 60 (sixty) days prior to a public meeting are eligible for inclusion on the election ballot at that meeting. This requirement may be waived by the majority of the Board of Directors.
 3.	Voting.
     a.	Voting for the Board of Directors shall be by electronic or paper ballot. The President or Secretary shall prepare the ballot of candidates to be used for the purpose of voting.
