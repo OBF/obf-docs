@@ -14,9 +14,9 @@ This is a report about OBF's financial assets and transactions during OBF's 2013
 | Encumbrances                |  _($2,245.13)_ |
 | **Unencumbered Balance**    | **$37,137.02** |
 |-----------------------------|----------------|
-| BOSC Escrow Account         |   $21,415.53   |
-|**Total financial assets**   | **$60,797.68** |
-|**Total unencumbered assets**| **$58,552.55** |
+| BOSC Escrow Account         |   $20,915.53   |
+|**Total financial assets**   | **$60,297.68** |
+|**Total unencumbered assets**| **$58,052.55** |
 
 Encumbrances come from unpaid liabilities and similar commitments already incurred, but not yet paid.
 
@@ -76,8 +76,8 @@ Total encumbrances:   $2,245.13
 |:------------------------|---------------:|
 | **Starting Balance**    | **$19,213.61** |
 | BOSC Profit share       |   $ 7,376.68   |
-| Programmatic Activities | _($ 5,174.76)_ |
-| **Ending Balance**      | **$21,415.53** |
+| Programmatic Activities | _($ 5,674.76)_ |
+| **Ending Balance**      | **$20,915.53** |
 |-------------------------|----------------|
 | BOSC Income             |   $33,961.77   |
 | BOSC Expenses           | _($19,208.43)_ |
