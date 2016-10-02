@@ -14,9 +14,9 @@ This is a report about OBF's financial assets and transactions during OBF's 2013
 | Encumbrances                |  _($2,245.13)_ |
 | **Unencumbered Balance**    | **$37,137.02** |
 |-----------------------------|----------------|
-| BOSC Escrow Account         |   $21,415.53   |
-|**Total financial assets**   | **$60,797.68** |
-|**Total unencumbered assets**| **$58,552.55** |
+| BOSC Escrow Account         |   $22,501.68   |
+|**Total financial assets**   | **$61,883.83** |
+|**Total unencumbered assets**| **$59,638.70** |
 
 Encumbrances come from unpaid liabilities and similar commitments already incurred, but not yet paid.
 
@@ -76,8 +76,8 @@ Total encumbrances:   $2,245.13
 |:------------------------|---------------:|
 | **Starting Balance**    | **$19,213.61** |
 | BOSC Profit share       |   $ 7,376.68   |
-| Programmatic Activities | _($ 5,174.76)_ |
-| **Ending Balance**      | **$21,415.53** |
+| Programmatic Activities | _($ 4,088.61)_ |
+| **Ending Balance**      | **$22,501.68** |
 |-------------------------|----------------|
 | BOSC Income             |   $33,961.77   |
 | BOSC Expenses           | _($19,208.43)_ |
@@ -86,7 +86,7 @@ Total encumbrances:   $2,245.13
 _Programmatic Activities_ are BOSC/OBF-sponsored activities that go beyond operational activities and logistics already managed and thus covered by ISMB, and includes travel awards, comp'ed registrations, and speaker support. For BOSC 2013, these include the following:
 
 - 12 comp'ed registrations:       $2,142.34
-- Keynote speaker reimbursements: $3,032.42 
+- Keynote speaker reimbursements: $1,946.27
 - Student travel awards:          $  500.00
 
 [SPI]: http://spi-inc.org
