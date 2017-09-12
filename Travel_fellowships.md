@@ -9,11 +9,11 @@ judge each criterion.
 
 **Does the event qualify?** Does the event promote open source bioinformatics software
 development and open science in the biological research community? Events can include - but are not limited to - conferences, workshops, codefests, and hackathons. We give
-slight preference to events for OBF member projects. The event can occurs anytime between the previous deadline and the subsequent deadline - i.e. you can apply for something you are planning
+slight preference to OBF events and member projects. The event can occurs anytime between the previous deadline and the subsequent deadline - i.e. you can apply for something you are planning
 to attend or have already attended.
 
 **What is your participation?** We look at both your role at the event, your past participation in the project that you are representing, and also your general history in open source development or open science. We give slight preference to
-participation in OBF member projects.
+participation in OBF events and member projects.
 
 **Increasing diversity**: Does your attendance increase diversity at the event? We understand increasing diversity as increasing participation from groups otherwise underrepresented in the community or at the event, including but not limited to underrepresented demographic groups, ethnic origins, career stages, and people with disabilities. We do not consider diversity of operating systems or text editors.
 
