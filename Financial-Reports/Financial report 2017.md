@@ -1,6 +1,6 @@
-# Financial Report for FY YYYY
+# Financial Report for FY 2017
 
-This is a report about OBF's financial assets and transactions during OBF's YYYY financial year. The financial year for OBF goes from December to November of the following year, and hence this report covers the period from December YYYY to November YYYY.
+This is a report about OBF's financial assets and transactions during OBF's 2017 financial year. The financial year for OBF goes from December to November of the following year, and hence this report covers the period from December 2016 to November 2017.
 
 ## Summary
 
