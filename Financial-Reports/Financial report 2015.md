@@ -30,7 +30,6 @@ As of April 1, 2013, OBF does not maintain its own bank accounts anymore. All of
 |:--------------------------------------------|:-----:|----------:|
 |        |   |   |
 |        |   |   |
-|        |   |   |
 
 Total income:
 
@@ -38,11 +37,13 @@ Total income:
 
 | Item                                        |Date(s)|   Amount  |
 |:--------------------------------------------|:-----:|----------:|
-|        |   |   |
+| Amazon Hosting Dec 2014 - Nov 2015          | 2015  | $2,177.73 |
+| Domain Renewals                             | 2015  |     10.00 |
+| Processing fees                             | 2015  |      0.41 |
 |        |   |   |
 |        |   |   |
 |---------------------------------------------|-------|-----------|
-| SPI 5% fees                                 |       |   $NNN.NN |
+| SPI 5% fees                                 |       |     $0.40 |
 
 Totals for FY YYYY:
 + Total programmatic expenses paid:            $N,NNN.NN
