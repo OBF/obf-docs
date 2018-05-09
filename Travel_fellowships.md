@@ -27,6 +27,6 @@ We expect that your participation in the event will promote open source software
 The review panel is drawn from the OBF Board of Directors and OBF members. Any panelist with a clear conflict of interest will recuse themselves from deliberation.
 
 ## How to apply
-Fill out [the application form](https://goo.gl/forms/iW9lz2IH94fqqM4C2). Applicants will be notified of the outcome no later than 3 weeks after the application deadline.
+Fill out [the application form](https://goo.gl/forms/btbOOfkVcXVzZXxD2). Applicants will be notified of the outcome no later than 3 weeks after the application deadline.
 
 **Application Deadlines**: April 15, August 15, December 15
