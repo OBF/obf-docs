@@ -1,4 +1,4 @@
-# OBF Affiliated Project Status Policy 
+# OBF Affiliated Project Status Policy
 
 _Status: **Unratified Draft**. This policy is currently being developed. It has not yet been discussed beyond the Board of Directors._
 
@@ -31,7 +31,7 @@ lose, and maintain certain types of affiliation with the OBF.
 
 Establishing an affiliation between an open source software project and OBF has value for both the
 project and the OBF. It can raise a project's profile and public standing, which in turn can allow it to attract more attention from users as well as potential volunteers, and can thus promote a project's overall health. Promoting the health and sustainability of bioinformatics open-source software projects is among
-the OBF's primary objectives. In addition, 
+the OBF's primary objectives. In addition,
 the user and developer communities of affiliated projects constitute the primary pool of volunteers for OBF as an organization and an umbrella effort.
 
 That notwithstanding, the OBF has not, and does not intend to serve
@@ -51,7 +51,7 @@ more active, or less relevant and even dormant. This policy aims to provide mech
 ### Core OBF Project
 
 Core OBF projects are long standing bioinformatics open-source initiatives with an active developer
-community and an established sizable bioinformatics user base. Among other things, these projects will typically be marked by a community culture welcoming newcomers, and an informative, up-to-date, and inviting web presence. They will also be active members of the OBF organization. 
+community and an established sizable bioinformatics user base. Among other things, these projects will typically be marked by a community culture welcoming newcomers, and an informative, up-to-date, and inviting web presence. They will also be active members of the OBF organization.
 
 Among the projects with an existing OBF affiliation status, representative examples are BioPerl and Biopython.
 
@@ -61,12 +61,26 @@ Affiliated OBF projects are active bioinformatics open-source initiatives with a
 active developer community, but a limited or small user base. Such projects may have a narrow focus, or be in the early phases of adoption. Even if small by comparison to Core OBF Projects, their developer and user communities will nevertheless be very active, and their focus will be highly relevant to the OBF. These projects will also be active members of
 the OBF organization.
 
+#### Requirements for Affiliated Project status
+To be an affiliated project, a project must show the following:
+
+- An active community with defined leadership. Evidence of this could include recent pull requests being reviewed / accepted, blog posts, or community events/conferences.
+- The project must have an Open Source licence, either [OSI-approved](https://opensource.org/licenses) or one that has agreed by the board as compatible
+- The project must have a Code of Conduct. Linking directly to the OBF Code of Conduct is acceptable.
+
+#### Benefits of Affiliated Project status
+- Participation in OBF community umbrella initiatives such as [Google Summer of Code](https://obf.github.io/GSoC/)
+- Management of server resources if needed, including project mailing lists, domain names, and application / site hosting.
+- Better continuity / sustainability - no need to change account details over for domain names and hosting next time a project maintainer moves on. 
+
 ### Candidate OBF Project
 
 Candidate OBF Projects have the aspiration and promise to
-develop themselves into an Affiliated OBF Project. They may already meet most or all criteria for Affiliated Project status except for having been active members of the OBF organization. 
+develop themselves into an Affiliated OBF Project. They may already meet most or all criteria for Affiliated Project status except for having been active members of the OBF organization.
 
 This status presents the path for projects previously unaffiliated with the OBF to attain official affiliation. Candidate Projects will be in this status for only a limited amount of time, typically one year, and no more than 3 years in a row.
+
+Candidate projects must fulfil all criteria for the Affiliated OBF Project status before they can officially become affiliated.
 
 ### Other projects
 
@@ -81,10 +95,10 @@ and other projects considered active and interesting to the wider
 bioinformatics community. They may be listed and described on the
 OBF wiki so long as it is evident that they do not have an official
 affiliation with the OBF as per the ones defined here.
- 
+
 ## Community voting on project status
 
-Projects can change or attain an affiliation status once a year by a vote of the OBF community. 
+Projects can change or attain an affiliation status once a year by a vote of the OBF community.
 
 The OBF community for the purposes of this policy may be represented by, but need not be limited to the OBF membership. For example, the collective attendees of a BOSC conference, or of similar OBF-endorsed events, also qualify representative of the OBF community. Voting may be by electronic means, or simply by physical signs such as raising hands. The exact details of voting are intentionally left to the OBF volunteers organizing the process in a given year so long as the process is reasonably consistent between subsequent years.
 
@@ -121,7 +135,7 @@ majority of 70% is required.
 To become an Affiliated OBF Project a project has to have had Candidate OBF Project status for at least 1 year. An Affiliated OBF Project can also be voted
 to be demoted to Candidate OBF Project status.
 
-In either case a majority of 70% is required. 
+In either case a majority of 70% is required.
 
 #### Candidate OBF Project
 
@@ -131,7 +145,7 @@ A majority of 70% is required.
 
 ## Maintenance of affiliation status
 
-The affiliation status of Core OBF Projects and Affiliated OBF Projects that are not voted on remains the same for another year. Candidate OBF Projects will lose this status when they have exhausted the maximum time Candidate status can be held and have not been voted into Affiliated OBF Project status. 
+The affiliation status of Core OBF Projects and Affiliated OBF Projects that are not voted on remains the same for another year. Candidate OBF Projects will lose this status when they have exhausted the maximum time Candidate status can be held and have not been voted into Affiliated OBF Project status.
 
 ## Dispute and Board Veto
 
