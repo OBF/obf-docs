@@ -17,7 +17,7 @@ has since become hesitant to include new projects under the official
 umbrella, in part because the growth in OBF-hosted project resources
 has reached the capacity of OBF servers, and in part because of
 OBF's mission and scope as an organization. Furthermore, the
-[existing listing of projects related to OBF](http://www.open-bio.org/w/index.php?title=Projects&oldid=4609)
+[existing listing of projects related to OBF](http://www.open-bio.org/wiki/Projects)
 in different ways uses affiliation categories that are based neither
 on a formal definition nor on a community process for attaining them,
 and are thus poorly aligned with OBF values of community and
@@ -71,7 +71,7 @@ To be an affiliated project, a project must show the following:
 #### Benefits of Affiliated Project status
 - Participation in OBF community umbrella initiatives such as [Google Summer of Code](https://obf.github.io/GSoC/)
 - Management of server resources if needed, including project mailing lists, domain names, and application / site hosting.
-- Better continuity / sustainability - no need to change account details over for domain names and hosting next time a project maintainer moves on. 
+- Better continuity / sustainability - no need to change account details over for domain names and hosting next time a project maintainer moves on.
 
 ### Candidate OBF Project
 
