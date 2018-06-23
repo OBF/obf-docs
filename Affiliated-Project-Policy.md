@@ -70,8 +70,11 @@ To be an affiliated project, a project must show the following:
 
 #### Benefits of Affiliated Project status
 - Participation in OBF community umbrella initiatives such as [Google Summer of Code](https://obf.github.io/GSoC/)
-- Management of server resources if needed, including project mailing lists, domain names, and application / site hosting.
-- Better continuity / sustainability - no need to change account details over for domain names and hosting next time a project maintainer moves on.
+- Management of server resources if needed, including:
+    - project mailing lists
+    - domain names
+    - application / site hosting
+- Better continuity / sustainability - no need to change account details over for domain names and hosting next time a project maintainer moves on or changes card details.
 
 ### Candidate OBF Project
 
@@ -81,6 +84,12 @@ develop themselves into an Affiliated OBF Project. They may already meet most or
 This status presents the path for projects previously unaffiliated with the OBF to attain official affiliation. Candidate Projects will be in this status for only a limited amount of time, typically one year, and no more than 3 years in a row.
 
 Candidate projects must fulfil all criteria for the Affiliated OBF Project status before they can officially become affiliated.
+
+In order to apply for Candidate status, email [WHAT EMAIL ADDRESS??] with the following information:
+
+- URL of the project
+- Contact information for the project maintainers
+- Proof of compliance with Affiliate Status requirements where possible, e.g. licence, code of conduct, etc. or plan to implement any missing requirements. 
 
 ### Other projects
 
@@ -145,7 +154,16 @@ A majority of 70% is required.
 
 ## Maintenance of affiliation status
 
-The affiliation status of Core OBF Projects and Affiliated OBF Projects that are not voted on remains the same for another year. Candidate OBF Projects will lose this status when they have exhausted the maximum time Candidate status can be held and have not been voted into Affiliated OBF Project status.
+The affiliation status of Core OBF Projects and Affiliated OBF Projects that are not voted on remains the same for another year unless the project appears to be inactive. Candidate OBF Projects will lose this status when they have exhausted the maximum time Candidate status can be held and have not been voted into Affiliated OBF Project status.
+
+### Archiving of inactive projects
+In order to maintain official affiliation with the OBF, a project must have active maintainers. This can be proven by any of:
+- Having a maintainer attend yearly OBF public board meetings or BOSC to provide a project update.
+- Posting a project update on the OBF blog.
+- Updates on the project's main repository (e.g. GitHub, GitLab, etc.) or website.
+- Participation in GSoC, whether under the OBF umbrella or not.
+
+Affiliated and core projects will be periodically reviewed by OBF Board members and may have their affiliation status archived if they are inactive for a period of over six months and no new maintainers have stepped up. Reasonable efforts will be made to contact the project maintainers before this occurs.
 
 ## Dispute and Board Veto
 
