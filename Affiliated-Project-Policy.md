@@ -89,7 +89,7 @@ In order to apply for Candidate status, email [WHAT EMAIL ADDRESS??] with the fo
 
 - URL of the project
 - Contact information for the project maintainers
-- Proof of compliance with Affiliate Status requirements where possible, e.g. licence, code of conduct, etc. or plan to implement any missing requirements. 
+- Proof of compliance with Affiliate Status requirements where possible, e.g. licence, code of conduct, etc. or plan to implement any missing requirements.
 
 ### Other projects
 
@@ -163,7 +163,7 @@ In order to maintain official affiliation with the OBF, a project must have acti
 - Updates on the project's main repository (e.g. GitHub, GitLab, etc.) or website.
 - Participation in GSoC, whether under the OBF umbrella or not.
 
-Affiliated and core projects will be periodically reviewed by OBF Board members and may have their affiliation status archived if they are inactive for a period of over six months and no new maintainers have stepped up. Reasonable efforts will be made to contact the project maintainers before this occurs.
+Affiliated and core projects will be periodically reviewed by OBF Board members and may have their affiliation status archived if they are inactive for a period of over twelve months and no new maintainers have stepped up. Reasonable efforts will be made to contact the project maintainers before this occurs.
 
 ## Dispute and Board Veto
 
