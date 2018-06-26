@@ -39,4 +39,4 @@ software maintenance services.
 
 A: The OBF does not provide financial management for its member projects. You
 could try to apply for financial hosting / sponsorship with organisations such
-SPI, NumFocus, or OpenCollective.
+[SPI](https://www.spi-inc.org/), [NumFocus](https://www.numfocus.org/), or [OpenCollective](https://opencollective.com/)
