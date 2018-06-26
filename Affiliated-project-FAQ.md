@@ -34,8 +34,8 @@ A: The OBF is primarily a home for projects that are actively maintained. If
 you fear your project doesn't have enough community contributors we can share
 a call for contributors within the OBF community, but the OBF does not provide
 software maintenance services.
-
-## Q: I'm interested in taking donations for my project, or I've recently received a grant. Can the OBF handle my cash flow?
+  
+## Q: I'm interested in taking donations for my project, or I've recently received a grant. Can the OBF handle my cash flow?
 
 A: The OBF does not provide financial management for its member projects. You
 could try to apply for financial hosting / sponsorship with organisations such
