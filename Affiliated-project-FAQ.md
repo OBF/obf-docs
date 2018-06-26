@@ -6,9 +6,6 @@ Assuming your project meets, or intends to soon meet, all of the requirements in
  our [affiliated project policy](obf-docs/Affiliated-Project-Policy.md), please
  email [SOME EMAIL ADDRESS] with the following details:
 
-In order to apply for Candidate status, email [WHAT EMAIL ADDRESS??] with the
-following information:
-
 - URL of the project
 - Contact information for the project maintainers
 - Proof of compliance with Affiliate Status requirements where possible, e.g.
