@@ -1,6 +1,6 @@
-# Affiliated and core project FAQ
+# Open Bioinformatics Foundation affiliated and core project FAQ
 
-## Q: How do I apply for Affiliated Project status?
+## Q: How do I apply for OBF Affiliated Project status?
 
 Assuming your project meets, or intends to soon meet, all of the requirements in
  our [affiliated project policy](obf-docs/Affiliated-Project-Policy.md), please
@@ -9,14 +9,14 @@ Assuming your project meets, or intends to soon meet, all of the requirements in
 - URL of the project
 - Contact information for the project maintainers
 - Proof of compliance with Affiliate Status requirements where possible, e.g.
-licence, code of conduct, etc. or plan to implement any missing requirements.
+licence, code of conduct, etc. or plan to implement any missing requirements in the near future.
 
 You can also feel free to drop us a line if you have questions about your
 eligibility before applying.
 
 ## Q: Why apply for affiliate status? Are there benefits or obligations?
 
-A: The **benefits** of affiliate status primarily provides you with umbrella
+A: The **benefits** of affiliate status are access to umbrella
 resources, including a community of active open source developers, the chance to
  mentor summer students under the Google Summer of Code program, and domain /
  site hosting resources.
