@@ -21,7 +21,7 @@ use affiliation categories that are based on a formal definition, and a communit
 
 ## Motivation
 
-This policy aims to formalize criteria and a community-driven,
+This policy formalizes criteria and a community-driven,
 transparent process by which open-source software projects can gain,
 lose, and maintain certain types of affiliation with the OBF.
 
@@ -58,7 +58,7 @@ the OBF organization.
 To be an affiliated project, a project must show the following:
 
 - An active community with defined leadership. Evidence of this could include recent pull requests being reviewed / accepted, blog posts, or community events/conferences.
-- The project must have an Open Source licence, either [OSI-approved](https://opensource.org/licenses) or one that has agreed by the board as compatible
+- The project must have an Open Source licence, either [OSI-approved](https://opensource.org/licenses) or one that was agreed upon by the OBF Board as compatible.
 - The project must have a Code of Conduct. Linking directly to the OBF Code of Conduct is acceptable.
 
 ### Candidate OBF Project
@@ -142,13 +142,13 @@ A majority of 70% is required.
 The affiliation status of Core OBF Projects and Affiliated OBF Projects that are not voted on remains the same for another year unless the project appears to be inactive. Candidate OBF Projects will lose this status when they have exhausted the maximum time Candidate status can be held and have not been voted into Affiliated OBF Project status.
 
 ### Archiving of inactive projects
-In order to maintain official affiliation with the OBF, a project must have active maintainers. This can be proven by any of:
+In order to maintain official affiliation with the OBF, a project must have active maintainers. This can be shown by any of:
 - Having a maintainer attend yearly OBF public board meetings or BOSC to provide a project update.
 - Posting a project update on the OBF blog.
 - Updates on the project's main repository (e.g. GitHub, GitLab, etc.) or website.
 - Participation in GSoC, whether under the OBF umbrella or not.
 
-Affiliated and core projects will be periodically reviewed by OBF Board members and may have their affiliation status archived if they are inactive for a period of over twelve months and no new maintainers have stepped up. Reasonable efforts will be made to contact the project maintainers before this occurs.
+Affiliated and Core projects will be periodically reviewed by OBF Board members and may have their affiliation status archived if they are inactive for a period of over twelve months and no new maintainers have stepped up. Reasonable efforts will be made to contact the project maintainers before this occurs.
 
 ## Dispute and Board Veto
 

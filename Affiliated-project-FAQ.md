@@ -3,8 +3,8 @@
 ## Q: How do I apply for OBF Affiliated Project status?
 
 Assuming your project meets, or intends to soon meet, all of the requirements in
- our [affiliated project policy](obf-docs/Affiliated-Project-Policy.md), please
- email [SOME EMAIL ADDRESS] with the following details:
+our [affiliated project policy](Affiliated-Project-Policy.md), please
+email [SOME EMAIL ADDRESS] with the following details:
 
 - URL of the project
 - Contact information for the project maintainers
@@ -29,9 +29,9 @@ domain names, and financial assets, in a way that is robust to changes
 in the project's (and even OBF's) leadership, and that does not risk
 tax implications for an individual.
 
- The **obligations** of affiliate status are few - primarily projects must
- remain active and maintain a good standing within the community, e.g. by
- enforcing their code of conduct if necessary.
+The **obligations** of affiliate status are few - primarily projects must
+remain active and maintain a good standing within the community, e.g. by
+enforcing their code of conduct if necessary.
 
 ## Q: Can I sign my project over to the OBF's ownership?
 
