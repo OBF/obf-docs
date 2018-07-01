@@ -61,14 +61,6 @@ To be an affiliated project, a project must show the following:
 - The project must have an Open Source licence, either [OSI-approved](https://opensource.org/licenses) or one that has agreed by the board as compatible
 - The project must have a Code of Conduct. Linking directly to the OBF Code of Conduct is acceptable.
 
-#### Benefits of Affiliated Project status
-- Participation in OBF community umbrella initiatives such as [Google Summer of Code](https://obf.github.io/GSoC/)
-- Management of server resources if needed, including:
-    - project mailing lists
-    - domain names
-    - application / site hosting
-- Better continuity / sustainability - no need to change account details over for domain names and hosting next time a project maintainer moves on or changes card details.
-
 ### Candidate OBF Project
 
 Candidate OBF Projects have the aspiration and promise to

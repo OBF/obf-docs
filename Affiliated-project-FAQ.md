@@ -16,10 +16,18 @@ eligibility before applying.
 
 ## Q: Why apply for affiliate status? Are there benefits or obligations?
 
-A: The **benefits** of affiliate status are access to umbrella
-resources, including a community of active open source developers, the chance to
- mentor summer students under the Google Summer of Code program, and domain /
- site hosting resources.
+A: The **benefits** of affiliate status include access to umbrella
+resources such as domain / site hosting, mailing list
+hosting, a community of active open source developers, and a
+tremendous pool of open-source collaborative development
+know-how. Furthermore, affiliate status officially signifies that a
+project has met certain requirements promoting community and
+collaboration, which may improve its ability to attract more users as
+well as potential developers. Finally, OBF, through its fiscal sponsor
+[SPI], can sustainably hold assets on behalf of a project, such as
+domain names, and financial assets, in a way that is robust to changes
+in the project's (and even OBF's) leadership, and that does not risk
+tax implications for an individual.
 
  The **obligations** of affiliate status are few - primarily projects must
  remain active and maintain a good standing within the community, e.g. by
@@ -34,6 +42,17 @@ software maintenance services.
   
 ## Q: I'm interested in taking donations for my project, or I've recently received a grant. Can the OBF handle my cash flow?
 
-A: The OBF does not provide financial management for its member projects. You
-could try to apply for financial hosting / sponsorship with organisations such
-[SPI](https://www.spi-inc.org/), [NumFocus](https://www.numfocus.org/), or [OpenCollective](https://opencollective.com/)
+A: The OBF can accept donations and grants on behalf of its member
+projects through SPI, the OBF's fiscal sponsor. The OBF also can,
+again through SPI, request the disbursement of funds earmarked for a
+member project. Management of cash flow with a high rate of
+transactions, will, however, likely exceed the capacity of SPI's
+(almost entirely volunteer) financial administrators, and we therefore
+advise projects expecting this need to apply independently for fiscal
+sponsorship. Organisations providing fiscal sponsorship for software
+projects include [SPI], [Software Freedom Conservancy], [NumFocus], and [OpenCollective].
+
+[SPI]: https://www.spi-inc.org/
+[Software Freedom Conservancy]: https://sfconservancy.org
+[NumFocus]: https://www.numfocus.org/
+[OpenCollective]: https://opencollective.com/
