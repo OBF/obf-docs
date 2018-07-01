@@ -98,7 +98,7 @@ The OBF community for the purposes of this policy may be represented by, but nee
 
 ### Ballot preparation
 
-A group of OBF members overseeing the ballot preparation for the annual OBF community vote will conduct the following steps at least 14 days before voting is scheduled to take place:
+The group of OBF members overseeing the ballot preparation for the annual OBF community vote will conduct the following steps at least 14 days before voting is scheduled to take place:
 
 * Identify currently affiliated projects that desire or may warrant a status change.
 * Identify previously unaffiliated projects that desire OBF affiliation.
@@ -121,21 +121,20 @@ Projects that are on the ballot for being promoted to a certain status but fail 
 To become a Core OBF Project a project has to have been an Affiliated OBF Project for at least
 3 years. A Core OBF Project can also be voted to be demoted to Affiliated OBF Project status.
 
-In either case a
-majority of 70% is required.
+In either case a majority of 70% of the cast ballots is required.
 
 #### Affiliated OBF Project
 
 To become an Affiliated OBF Project a project has to have had Candidate OBF Project status for at least 1 year. An Affiliated OBF Project can also be voted
 to be demoted to Candidate OBF Project status.
 
-In either case a majority of 70% is required.
+In either case a majority of 70% of the cast ballots is required.
 
 #### Candidate OBF Project
 
 A project not currently affiliated with OBF can attain Candidate OBF Project status for one year. For current Candidate OBF Projects their status can, by vote, be extended for another year if the project has not yet achieved the criteria required to attain Affiliated OBF Project status.
 
-A majority of 70% is required.
+A majority of 70% of the cast ballots is required.
 
 ## Maintenance of affiliation status
 
