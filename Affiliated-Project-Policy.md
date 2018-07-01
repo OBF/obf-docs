@@ -16,12 +16,8 @@ informal consensus among members of OBF's Board of Directors. OBF
 has since become hesitant to include new projects under the official
 umbrella, in part because the growth in OBF-hosted project resources
 has reached the capacity of OBF servers, and in part because of
-OBF's mission and scope as an organization. Furthermore, the
-[existing listing of projects related to OBF](http://www.open-bio.org/wiki/Projects)
-in different ways uses affiliation categories that are based neither
-on a formal definition nor on a community process for attaining them,
-and are thus poorly aligned with OBF values of community and
-transparency.
+OBF's mission and scope as an organization. Furthermore, the OBF Board resolved that the [listing of projects related to OBF](http://www.open-bio.org/wiki/Projects)
+use affiliation categories that are based on a formal definition, and a community process for attaining them that is consistent with the OBF's values of transparency and fostering community.
 
 ## Motivation
 
@@ -29,18 +25,15 @@ This policy aims to formalize criteria and a community-driven,
 transparent process by which open-source software projects can gain,
 lose, and maintain certain types of affiliation with the OBF.
 
-Establishing an affiliation between an open source software project and OBF has value for both the
-project and the OBF. It can raise a project's profile and public standing, which in turn can allow it to attract more attention from users as well as potential volunteers, and can thus promote a project's overall health. Promoting the health and sustainability of bioinformatics open-source software projects is among
-the OBF's primary objectives. In addition,
-the user and developer communities of affiliated projects constitute the primary pool of volunteers for OBF as an organization and an umbrella effort.
+Establishing an affiliation between an open source software project and the OBF is intended to have value for both the project and the OBF. It stands to promote a project's overall health and long-term sustainability, which is among
+the OBF's primary objectives. The user and developer communities of affiliated projects constitute the primary pool of volunteers for OBF as an organization and an umbrella effort.
 
-That notwithstanding, the OBF has not, and does not intend to serve
-primarily as a project hosting provider for bioinformatics open-source
-projects. Instead, as a project umbrella the OBF's focus is on
+That notwithstanding, it is not the OBF's mission to serve
+primarily as a project hosting or resource provider for bioinformatics open-source projects. Instead, as an umbrella organization the OBF's focus is on
 projects that serve, or have the potential to serve, a large variety
 of bioinformatics research applications and users. Therefore, the
 group of projects with some status of affiliation with the OBF is
-expected to always be limited in number. In keeping with the potential benefits of affiliation for a project, the criteria formalized here aim to maintain OBF's historical focus.
+expected to always be limited in number. In keeping with the potential benefits of affiliation for a project, the criteria formalized here aim to maintain OBF's focus and mission.
 
 Projects differ in terms of their activity, community, audience, and
 wider impact on bioinformatics. Also, over time, projects change, become
