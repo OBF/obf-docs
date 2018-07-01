@@ -39,6 +39,14 @@ A: The OBF is primarily a home for projects that are actively maintained. If
 you fear your project doesn't have enough community contributors we can share
 a call for contributors within the OBF community, but the OBF does not provide
 software maintenance services.
+
+If by _signing over ownership_ you only mean assigning intellectual
+property rights (in particular, copyright) for a project's source code
+artifacts to the OBF, please [contact the OBF Board](mailto:board@open-bio.org).
+Note that due to OBF's current status as an [SPI]-associated project,
+this would have to mean to assign copyright to the SPI. Note also that
+currently OBF, neither directly nor through the SPI, does not own any
+intellectual property rights in any of its member projects.
   
 ## Q: I'm interested in taking donations for my project, or I've recently received a grant. Can the OBF handle my cash flow?
 
