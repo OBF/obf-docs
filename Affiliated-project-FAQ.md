@@ -4,7 +4,7 @@
 
 Assuming your project meets, or intends to soon meet, all of the requirements in
 our [affiliated project policy](Affiliated-Project-Policy.md), please
-email [SOME EMAIL ADDRESS] with the following details:
+[create a GitHub issue](https://github.com/OBF/obf-docs/issues/new?labels=candidate-project-application&template=candidate-project-application.md) with the following details:
 
 - URL of the project
 - Contact information for the project maintainers
@@ -47,7 +47,7 @@ Note that due to OBF's current status as an [SPI]-associated project,
 this would have to mean to assign copyright to the SPI. Note also that
 currently OBF, neither directly nor through the SPI, does not own any
 intellectual property rights in any of its member projects.
-  
+
 ## Q: I'm interested in taking donations for my project, or I've recently received a grant. Can the OBF handle my cash flow?
 
 A: The OBF can accept donations and grants on behalf of its member
