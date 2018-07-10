@@ -70,7 +70,7 @@ This status presents the path for projects previously unaffiliated with the OBF 
 
 Candidate projects must fulfil all criteria for the Affiliated OBF Project status before they can officially become affiliated.
 
-In order to apply for Candidate status, email [WHAT EMAIL ADDRESS??] with the following information:
+In order to apply for Candidate status, [create a GitHub issue](https://github.com/OBF/obf-docs/issues/new?labels=candidate-project-application&template=candidate-project-application.md) with the following information:
 
 - URL of the project
 - Contact information for the project maintainers
