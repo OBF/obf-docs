@@ -45,8 +45,8 @@ property rights (in particular, copyright) for a project's source code
 artifacts to the OBF, please [contact the OBF Board](mailto:board@open-bio.org).
 Note that due to OBF's current status as an [SPI]-associated project,
 this would have to mean to assign copyright to the SPI. Note also that
-currently OBF, neither directly nor through the SPI, does not own any
-intellectual property rights in any of its member projects.
+currently OBF does not own any
+intellectual property rights in any of its member projects, neither directly nor through the SPI.
 
 ## Q: I'm interested in taking donations for my project, or I've recently received a grant. Can the OBF handle my cash flow?
 

@@ -26,7 +26,7 @@ transparent process by which open-source software projects can gain,
 lose, and maintain certain types of affiliation with the OBF.
 
 Establishing an affiliation between an open source software project and the OBF is intended to have value for both the project and the OBF. It stands to promote a project's overall health and long-term sustainability, which is among
-the OBF's primary objectives. The user and developer communities of affiliated projects constitute the primary pool of volunteers for OBF as an organization and an umbrella effort.
+the OBF's primary objectives. The user and developer communities of affiliated projects constitute the primary pool of volunteers for OBF as an umbrella organization.
 
 That notwithstanding, it is not the OBF's mission to serve
 primarily as a project hosting or resource provider for bioinformatics open-source projects. Instead, as an umbrella organization the OBF's focus is on
