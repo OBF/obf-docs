@@ -21,7 +21,7 @@ participation in OBF events and member projects.
 The fellowship can be used to cover airfare, hotel and / or conference registration fees up to a value of USD 1,000. We anticipate that these awards will supplement travel costs, not cover all expenses. If you anticipate that you would require more than USD 1,000 in order to attend the event, please include that information on the application form. The OBF will reimburse the recipient after the event based on receipts provided and proof of attendance. There is no cash value beyond eligible and documented expenses.
 
 ## What do you require of applicants?
-We expect that your participation in the event will promote open source software development and / or open science in the biological research community, and will ideally promote diversity in this community. Before reimbursement, we require that applicants write a blog post about the event they attended, which we will reference or post on the [OBF blog](https://news.open-bio.org/).
+We expect that your participation in the event will promote open source software development and / or open science in the biological research community, and will ideally promote diversity in this community. Travel fellowship awardees are required to write a blog post  on the [OBF blog](https://news.open-bio.org/) about their experience attending the event. (This should be completed within three weeks after the event ends, and is a prerequisite before the awardee can receive payment.)
 
 ## Who will review the applications?
 The review panel is drawn from the OBF Board of Directors and OBF members. Any panelist with a clear conflict of interest will recuse themselves from deliberation.
