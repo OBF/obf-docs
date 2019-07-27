@@ -1,6 +1,6 @@
 # Open Bioinformatics Foundation affiliated and core project FAQ
 
-## Q: How do I apply to become an OBF Affiliated Project?
+## Q: How do I apply to become an Affiliated or Candidate OBF Project?
 
 Assuming your project meets, or intends to soon meet, all of the requirements in
 our [affiliated project policy](Affiliated-Project-Policy.md), please
