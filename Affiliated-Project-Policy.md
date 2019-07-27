@@ -133,8 +133,9 @@ The status of Affiliated and Candidate OBF Projects that are not voted on stays 
 
   Affiliated OBF projects that have not been actively maintained for over twelve months may have their affiliation status archived as a result of a review by the OBF Board of Directors. The OBF Board of Directors will conduct such reviews in regular intervals, and will make reasonable efforts to contact the project maintainers before taking action.
 
+## Projects with grandfathered affiliation status
 
-Affiliated and Core projects will be periodically reviewed by OBF Board members and may have their affiliation status archived if they are inactive for a period of over twelve months and no new maintainers have stepped up. Reasonable efforts will be made to contact the project maintainers before this occurs.
+The projects considered OBF member projects prior to enactment of this policy are grandfathered to Affiliated OBF Project status. These projects are the so-called Bio\* Projects, which consist of [BioPerl], [Biopython], [BioJava], [BioRuby], [BioSQL]; [DAS] (Distributed Annotation System); and [EMBOSS] (European Molecular Biology Open Software Suite).
 
 ## Dispute and Board Veto
 
@@ -150,3 +151,10 @@ session, whether at an annual Board meeting, or at a specifically
 convened one.
 
 [BOSC]: https://www.open-bio.org/events/bosc/
+[BioPerl]: http://www.bioperl.org/
+[Biopython]: http://www.biopython.org/
+[BioJava]: http://www.biojava.org/
+[BioRuby]: http://www.bioruby.org/
+[BioSQL]: http://www.biosql.org/
+[DAS]: http://www.biodas.org/
+[EMBOSS]: http://emboss.open-bio.org/
