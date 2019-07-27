@@ -1,6 +1,6 @@
 # Open Bioinformatics Foundation affiliated and core project FAQ
 
-## Q: How do I apply for OBF Affiliated Project status?
+## Q: How do I apply to become an OBF Affiliated Project?
 
 Assuming your project meets, or intends to soon meet, all of the requirements in
 our [affiliated project policy](Affiliated-Project-Policy.md), please
@@ -10,6 +10,8 @@ our [affiliated project policy](Affiliated-Project-Policy.md), please
 - Contact information for the project maintainers
 - Proof of compliance with Affiliate Status requirements where possible, e.g.
 licence, code of conduct, etc. or plan to implement any missing requirements in the near future.
+
+Upon submitting this issue template, your project will become an OBF Candidate project and will be eligible to be considered for Affiliated project status, at an OBF public meeting, generally after one year of Candidate status. 
 
 You can also feel free to drop us a line if you have questions about your
 eligibility before applying.
