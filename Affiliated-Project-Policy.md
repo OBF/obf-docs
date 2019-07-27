@@ -16,7 +16,7 @@ informal consensus among members of OBF's Board of Directors. OBF
 has since become hesitant to include new projects under the official
 umbrella, in part because the growth in OBF-hosted project resources
 has reached the capacity of OBF servers, and in part because of
-OBF's mission and scope as an organization. Furthermore, the OBF Board resolved that the [listing of projects related to OBF](http://www.open-bio.org/wiki/Projects)
+OBF's mission and scope as an organization. Furthermore, the OBF Board resolved that the [listing of projects related to OBF](https://www.open-bio.org/projects/)
 use affiliation categories that are based on a formal definition, and a community process for attaining them that is consistent with the OBF's values of transparency and fostering community.
 
 ## Motivation
@@ -78,7 +78,7 @@ These projects may include student projects with OBF community
 participation, including projects executed under the OBF umbrella,
 and other projects considered active and interesting to the wider
 bioinformatics community. They may be listed and described on the
-OBF wiki so long as it is evident that they do not have an official
+OBF website so long as it is evident that they do not have an official
 affiliation with the OBF as per the ones defined here.
 
 ## Community voting on project status
