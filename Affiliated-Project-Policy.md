@@ -61,11 +61,7 @@ develop themselves into an Affiliated OBF Project. They may already meet most or
 
 This status is the path for projects previously unaffiliated with the OBF to attain official affiliation. Candidate OBF Projects will be in this status for only a limited amount of time, typically one year, and no more than 3 years in a row. A project that loses Candidate OBF Project status due to exceeding this limit can re-apply for Candidate OBF Project status later.
 
-In order to apply for Candidate status, [create a GitHub issue](https://github.com/OBF/obf-docs/issues/new?labels=candidate-project-application&template=candidate-project-application.md) with the following information:
-
-- URL of the project
-- Contact information for the project maintainers
-- Proof of compliance with Affiliate Status requirements where possible, e.g. licence, code of conduct, etc. or plan to implement any missing requirements.
+In order to apply for Candidate status, [create a GitHub issue using our candidate project application template](https://github.com/OBF/obf-docs/issues/new?labels=candidate-project-application&template=candidate-project-application.md).
 
 ### Other projects
 
