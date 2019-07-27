@@ -11,7 +11,7 @@ our [affiliated project policy](Affiliated-Project-Policy.md), please
 - Proof of compliance with Affiliate Status requirements where possible, e.g.
 licence, code of conduct, etc. or plan to implement any missing requirements in the near future.
 
-Upon submitting this issue template, your project will become an OBF Candidate project and will be eligible to be considered for Affiliated project status, at an OBF public meeting, generally after one year of Candidate status. 
+Filling out and submitting this issue template constitutes a formal request to be put on the next ballot for voting on OBF affiliation status. If your project has not previously been affiliated with the OBF, your application is for attaining Candidate OBF Project status. If your project is currently a Candidate OBF Project, then your application is for attaining Affiliated OBF Project status. 
 
 You can also feel free to drop us a line if you have questions about your
 eligibility before applying.
