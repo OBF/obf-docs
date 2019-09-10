@@ -9,8 +9,9 @@ judge each criterion.
 
 **Does the event qualify?** Does the event promote open source bioinformatics software
 development and open science in the biological research community? Events can include - but are not limited to - conferences, workshops, codefests, and hackathons. We give
-slight preference to OBF events and member projects. The event can occur anytime between the previous deadline and the subsequent deadline - i.e., you can apply for something you are planning
-to attend or have already attended.
+slight preference to OBF events and member projects.
+
+The event can occur anytime between the application deadline, and one year after the deadline. Events which finish before the application deadline are not eligible.
 
 **What is your participation?** We look at both your role at the event, your past participation in the project that you are representing, and also your general history in open source development or open science. We give slight preference to
 participation in OBF events and member projects.
@@ -33,4 +34,8 @@ The review panel is drawn from the OBF Board of Directors and OBF members. Any p
 ## How to apply
 Fill out [the application form](https://goo.gl/forms/btbOOfkVcXVzZXxD2). Applicants will be notified of the outcome no later than 3 weeks after the application deadline.
 
-**Application Deadlines**: April 15, August 15, December 15
+**Application Deadlines**:
+
+1 December 2019 (transition date from original three deadlines per year).
+
+From 2020 onwards, twice a year: 1 March, and 1 September.
