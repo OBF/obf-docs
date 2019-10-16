@@ -21,7 +21,7 @@ participation in OBF events and member projects.
 ## What does the fellowship cover?
 The fellowship can be used to cover direct travel costs (such as airfare, train, metro, bus and taxi), hotel, child-care and / or conference registration fees up to a value of USD 1,000. Note that rental car expenses and personal car mileage are not eligible for reimbursement. We anticipate that these awards will supplement travel costs, not cover all expenses. If you anticipate that you would require more than USD 1,000 in order to attend the event, please include that information on the application form.
 
-The OBF will reimburse the recipient after the event based on receipts provided and proof of attendance. There is no cash value beyond eligible and documented expenses.
+The OBF will reimburse the recipient after the event based on receipts provided and proof of attendance. There is no cash value beyond eligible and documented expenses. All reimbursement claims must be filed (and all prerequisites for receiving payment must be met, see below) within 3 months after conclusion of the event, after which the fellowship award expires.
 
 We will ask you to state for our records that none of your claimed expenses have been or will be reimbursed from another source (e.g. your employer, or a grant).
 
