@@ -154,3 +154,4 @@ convened one.
 [BioSQL]: http://www.biosql.org/
 [DAS]: http://www.biodas.org/
 [EMBOSS]: http://emboss.open-bio.org/
+[GSoC]: https://summerofcode.withgoogle.com/
