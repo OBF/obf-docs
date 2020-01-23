@@ -1,6 +1,6 @@
 # OBF Affiliated Project Status Policy
 
-_Status: **Unratified Draft**. This policy is currently being developed. It has not yet been discussed beyond the Board of Directors._
+_Status: **Ratified**. [Approved by the OBF Board](https://vote.heliosvoting.org/helios/e/obf-affiliate-policy-board) in public session in Dec 2019, and by the OBF membership through a [referendum held in Jan 2020](https://vote.heliosvoting.org/helios/e/obf-affiliate-policy-members)._
 
 ## Background
 
