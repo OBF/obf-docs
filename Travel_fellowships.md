@@ -38,4 +38,4 @@ Fill out [the application form](https://goo.gl/forms/btbOOfkVcXVzZXxD2). Applica
 
 1 December 2019 (transition date from original three deadlines per year).
 
-From 2020 onwards, twice a year: 1 March, and 1 September.
+From 2020 onwards, twice a year: 1 April, and 1 October.
