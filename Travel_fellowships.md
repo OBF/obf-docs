@@ -11,7 +11,7 @@ judge each criterion.
 development and open science in the biological research community? Events can include - but are not limited to - conferences, workshops, codefests, and hackathons. We give
 slight preference to OBF events and member projects.
 
-The event can occur anytime in a one-year window starting one month after the application deadline.
+The event can occur anytime in a one-year window starting one month after the application deadline. If due to exceptional circumstances the event is delayed, the window is only applied at the time of your application.
 
 **What is your participation?** We look at both your role at the event, your past participation in the project that you are representing, and also your general history in open source development or open science. We give slight preference to
 participation in OBF events and member projects.
