@@ -15,9 +15,7 @@ We are dedicated to providing a welcoming and supportive environment for all peo
 In the coming months, a dedicated Code of Conduct committee will be established with the volunteer members designated and approved by the OBF Board.
 The committee will be responsible for reviewing and keep the confidentiality of all the reports and enforcing the Code of Conduct.
 
-Until the committee is established, we ask that you report any violation of the Code of Conduct to the following members of the OBF board: Bastian Greshake (email: ), Malvika Sharan (email: malvikasharan@gmail.com) and/or Yo Yehudi.
-
-You can also reach out to all the OBF board members by emailing [board@openbio.org](mailto:board@openbio.org)
+Until the committee is established, we ask that you report any violation of the Code of Conduct to the following members of the OBF board: Bastian Greshake (email: ), Malvika Sharan (email: malvikasharan@gmail.com) and/or Yo Yehudi (Email: ). You can also reach out to all the OBF board members by emailing [board@openbio.org](mailto:board@openbio.org)
 
 ## Code of Conduct in detail
 
@@ -27,7 +25,7 @@ The Open Bioinformatics Foundation (OBF) is a non-profit, volunteer-run group th
 
 To make clear what is expected, everyone participating in OBF activities is required to conform to the Code of Conduct. This Code of Conduct applies to all spaces managed by OBF including, but not limited to, events, email lists, and online forums such as GitHub, chat rooms, and Twitter. Event hosts are expected to assist with the enforcement of the Code of Conduct.  
 
-The volunteer members designated and approved by the OBF Board are responsible for enforcing the Code of Conduct.
+The volunteer members designated and approved by the OBF Board will be responsible for enforcing the Code of Conduct.
 All reports will be reviewed by the Code of Conduct Committee and will be kept confidential.
 
 Until the dedicated committee and contact details are created, you can reach out to the following members of the OBF board: Bastian Greshake (email: ), Malvika Sharan (email: malvikasharan@gmail.com) and/or Yo Yehudi.
@@ -76,6 +74,7 @@ Participants who are asked to stop any inappropriate behavior are expected to co
 
 ## About this Document
 
-This document is adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal, Malvika Sharan, Kari L. Jordan, Samantha Ahern. Additional language was added by [Otter Tech](https://otter.technology) from the [PyCon U.S. 2018 Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/) ([licensed CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)). 
+This document is adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal, Malvika Sharan, Kari L. Jordan, Samantha Ahern. Additional language was added by [Otter Tech](https://otter.technology) from the [PyCon U.S. 2018 Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/) ([licensed CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)).
+In 2018, the Code of Conduct was revised to add a summary, straightforward examples of both beneficial and unwanted behaviors, and evaluating intent. Reporting guidelines were also revised to include alternate contact points and a reporting form with the procedure was added. In 2019, an appeal process, the procedure for following up with a reportee, terminology, CoC incident response procedure, termed suspension checklist, expanded clauses for conflicts of interest, and committee membership agreement were included. Contributors of these revised documents are Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
 
 OBF-specific modifications were added by Malvika Sharan, Yo Yehudi, Bastian Greshake Tzovaras.
