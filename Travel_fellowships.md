@@ -17,7 +17,7 @@ The calls for applications are announced through a [blog post on the website](ht
 
 The applications are submitted for each round via [this application form](https://forms.gle/evzK6wBN8XtnGLUMA).
 
-Applicants will be asked to supply the following set of information:
+Applicants will be asked to supply the following information:
 
 ### Personal information
 
