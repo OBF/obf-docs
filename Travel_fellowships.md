@@ -88,10 +88,27 @@ If you anticipate that you would require more than USD 1,000 to cover your overa
 
 ## Review process
 
+### Role of the fellowship chair (and review timeline)
+
+The fellowship chair will make sure that the call for applications is announced at least 6 weeks before the deadline by editing and updating the application form for each round, drafting a blog post, coordinating with the newsletter chair and receiving approval from the OBF board members.
+
+After the application period is over, they will coordinate with the OBF board members to invite volunteers to serve in the review panel and create all the required documents such as applications (minus the personal information) and reviewing form with rubrics to share with the panel.
+In the first week after the deadline, the review panel will be asked to review all or selected applications (based on the number of applications for that round).
+
+In the second week, the fellowship chair will create a summary of the scores and discuss it with the board members to identify the awardees for that round.
+
+Preferably, by the beginning of the third week, the fellowship chair will inform the selected asking for confirmation regarding the fellowship acceptance and informing them of their responsibilities for getting reimbursed for their expense after they have participated in the event of their choice.
+They will also inform the applicants who were not selected and provide feedback so that they can reapply for the next round with an improved application.
+
+Upon confirmation, a public blog post will be drafted by the fellowship chair informing the community of the current awardees.
+Internally, they will also maintain communication with the awardees helping them publish their post-event blog post and sorting their reimbursement with the help of the OBF treasurer.
+
 ### Review panel
 
 The review panel is drawn for every round of applications from the OBF Board members and volunteers based on their availability. 
-Any panelist with a clear conflict of interest will recuse themselves from deliberation.
+Any panelist with a clear *conflict of interest*[1] will recuse themselves from deliberation. 
+
+[1] Conflict of interest will occur when a reviewer comes across an application from an applicant they know (identifiable by the project description or online repository).
 
 ### Selection criteria
 
