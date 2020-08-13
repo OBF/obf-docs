@@ -21,7 +21,7 @@ Applicants will be asked to supply the following set of information:
 
 ### Personal information
 
-The applicants will be asked to supply personal information such as name, email id, career stage, and affiliation.
+The applicants will supply personal information such as name, email id, career stage, and affiliation.
 This information will not be shared with the review panel, but will be used by the fellowship to know who the applicants are and if they have received the OBF Travel Fellowship in the past.
 
 ### Event and nature of your participation
