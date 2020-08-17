@@ -130,7 +130,7 @@ If you intend to attend OBF events BOSC and/or the OBF CoFest and other events h
 **Nature of your participation**
 
 The review panel will look at the nature of your participation (your role) at the event.
-For example, you may be hosting the event, giving a talk, chairing a session, running a Birds of a Feather discussion, offering a training event, facilitating a sprint (or similar session), leading a project at a code fest/hackathon, presenting a poster, participating in a panel discussion, reviewing abstracts for the event, contribute to the event as a co-organiser, or volunteer to help the organisation committee during the event.
+For example, you may be hosting the event, giving a talk, chairing a session, running a Birds of a Feather discussion, offering a training event, facilitating a sprint (or similar session), leading a project at a code fest/hackathon, presenting a poster, participating in a panel discussion, reviewing abstracts for the event, contributing to the event as a co-organiser, or volunteering to help the organisation committee during the event.
 
 #### Open Source Resources
 
