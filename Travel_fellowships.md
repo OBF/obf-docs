@@ -76,7 +76,7 @@ Please note that requests made for more than $1000 may not be granted if not jus
 The fellowship can be used to cover conference registration fees and the costs of small hardware (such as microphone, speaker and webcam), childcare for the duration of the event and/or other supporting materials.
 
 The cost of remote participation will be evaluated on a case-by-case basis.
-For example, we are aware that due to the load-shedding issues in many developing countries, our applicants might require to pay for the fuel for the generator to keep their electricity running for the duration of the event.
+For example, we are aware that due to the load-shedding issues in many developing countries, our applicants might need to pay for the fuel for the generator to keep their electricity running for the duration of the event.
 Similarly, the cost of high-speed internet may vary across countries and may also be requested by applicants from many developing countries.
 
 You are eligible to apply for the cost of a communication platform only if you are hosting a virtual event and will require a paid subscription to access the full feature of the tool.
