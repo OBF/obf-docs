@@ -97,7 +97,7 @@ In the first week after the deadline, the review panel will be asked to review a
 In the second week, the fellowship chair will create a summary of the scores and discuss it with the board members to identify the awardees for that round.
 
 Preferably, by the beginning of the third week, the fellowship chair will inform the chosen awardees asking for confirmation regarding the fellowship acceptance and informing them of the process for getting reimbursed for their expense after they have participated in the event.
-They will also inform the applicants who were not selected and provide feedback so that they can reapply for the next round with an improved application.
+They will also inform the applicants who were not selected and provide feedback when requested.
 
 Upon confirmation, a public blog post will be drafted by the fellowship chair informing the community of the current awardees.
 Internally, they will also maintain communication with the awardees helping them publish their post-event blog post and sorting their reimbursement with the help of the OBF treasurer.
