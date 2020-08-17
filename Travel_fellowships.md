@@ -83,7 +83,7 @@ Applicants are eligible to apply for the cost of a communication platform only i
 When applying for the cost of hardware, please note that this fellowship will not cover the cost of buying laptops and computers.
 However, this fellowship can pay for the rental cost of the large hardware required to attend or host a virtual event.
 The cost will be capped to a maximum of $40 (USD) each for small hardware such as headphones, webcam, speaker, and/microphone.
-You are welcome to negotiate the cost of your hardware with the fellowship chair if the maximum cap is insufficient for you.
+If the cap is insufficient, applicants can describe their hardware needs in their application.
 
 If you anticipate that you would require more than USD 1,000 to cover your overall cost, please contact the fellowship chair with the details.
 
