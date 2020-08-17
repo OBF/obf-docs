@@ -81,7 +81,7 @@ Similarly, the cost of high-speed internet may vary across countries and may als
 
 Applicants are eligible to apply for the cost of a communication platform only if they are hosting a virtual event and will require a paid subscription to access the necessary premium features of the software used in their event.
 When applying for the cost of hardware, please note that this fellowship will not cover the cost of buying laptops and computers.
-However, this fellowship will pay for the rental cost of the large hardware required to attend or host a virtual event.
+However, this fellowship can pay for the rental cost of the large hardware required to attend or host a virtual event.
 The cost will be capped to a maximum of $40 (USD) each for small hardware such as headphones, webcam, speaker, and/microphone.
 You are welcome to negotiate the cost of your hardware with the fellowship chair if the maximum cap is insufficient for you.
 
