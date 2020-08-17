@@ -120,7 +120,7 @@ Please make sure that you include sufficient information in your application to 
 
 The review panel will assess how the event that you have selected and the nature of your participation promote open science practices in bioinformatics and/or biological research community.
 
-It's important to keep in mind that the event is scheduled to occur anytime in a one-year window starting one month after the application deadline.
+It's important to keep in mind that the event should be scheduled to occur anytime in a one-year window starting one month after the application deadline.
 
 **Event of your choice**
 
