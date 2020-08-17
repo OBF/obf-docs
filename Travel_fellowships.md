@@ -124,7 +124,7 @@ It's important to keep in mind that the event should be scheduled to occur anyti
 
 **Event of your choice**
 
-Events that are eligible may include but are not limited to, conferences, workshops, code fests, hackathons, training courses, collaborative sprints, informal meet-ups or other skill-building and networking event. 
+Events that are eligible may include but are not limited to conferences, workshops, code fests, hackathons, training courses, collaborative sprints, informal meet-ups or other skill-building and networking event. 
 If you intend to attend OBF events (BOSC and BCC) and other events hosted by the member projects, your application may be given a slight preference.
 
 **Nature of your participation**
