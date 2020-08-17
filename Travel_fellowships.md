@@ -69,7 +69,7 @@ The OBF Event Fellowships are available for the awardees to cover conference reg
 The fellowship can be used to cover conference registration fees and direct travel costs (such as airfare, train, metro, bus and taxi), hotel, and/or child-care up to a value of USD 1,000. 
 Note that rental car expenses and personal car mileage are not eligible for reimbursement. 
 If the applicants anticipate that they would require more than USD 1,000 in order to attend the event, they should include that information in the application form.
-Please note that requests made for more than $1000 may not be granted if not justifiable by the applicant.
+Please note that requests made for more than $1000 may not be granted if not clearly justified by the applicants.
 
 ### Items covered for remote participation
 
@@ -81,7 +81,7 @@ Similarly, the cost of high-speed internet may vary across countries and may als
 
 Applicants are eligible to apply for the cost of a communication platform only if they are hosting a virtual event and will require a paid subscription to access the necessary premium features of the software used in their event.
 When applying for the cost of hardware, please note that this fellowship will not cover the cost of buying laptops and computers.
-However, this fellowship can pay for the rental cost of the large hardware required to attend or host a virtual event.
+However, this fellowship may cover the rental cost of the large hardware (for example, second screen) required to attend or host a virtual event.
 The cost will be capped to a maximum of $40 (USD) each for small hardware such as headphones, webcam, speaker, and/microphone.
 If the cap is insufficient, applicants can describe their hardware needs in their application.
 
@@ -107,7 +107,7 @@ Internally, they will also maintain communication with the awardees helping them
 The review panel is drawn for every round of applications from the OBF Board members and volunteers based on their availability. 
 Any panelist with a clear *conflict of interest*[1] will recuse themselves from deliberation. 
 
-[1] Conflict of interest will occur when a reviewer comes across an application from an applicant they know (identifiable by the project description or online repository).
+[1] A conflict of interest may occur despite the anonymization if the applicant is known to the reviewer via the project description or online repository.
 
 ### Selection criteria
 
@@ -149,7 +149,7 @@ This includes but is not limited to underrepresented demographic groups (members
 
 If applicants are not from a minority or underrepresented group but have a track record for advocating for diversity as an ally through their work or involvement in an event, they are welcome to apply for this fellowship as well.
 
-*We do not consider the diversity of operating systems, programming languages or scientific domain as a criterion for the OBF event fellowship.*
+*We do not consider the diversity of operating systems, programming languages or scientific domain as a criterion for the OBF Event Fellowship.*
 
 ## Announcement of the application outcome
 
@@ -157,7 +157,7 @@ Applicants will be notified of the outcome no later than 3 weeks after the appli
 
 Those who receive the fellowship award will be able to discuss any further details with the fellowship chair and/or the OBF board members.
 
-Applicants who are unsuccessful in a round will be provided with the feedback.
+Applicants who are unsuccessful in a round can request for feedback.
 They will be able to apply again with a revised and updated application in the next round.
 
 ## Responsibilities of the fellowship awardees
@@ -175,7 +175,7 @@ If due to any reason, the awardee's circumstances change and they can no longer 
 
 ## Reimbursement
 
-The OBF will reimburse the recipient after the event based on receipts provided, proof of attendance has been submitted to the OBF treasurer, and the blog post about the event has been finished.
+The OBF will reimburse the recipient after the event based on receipts provided, proof of attendance has been submitted to the OBF treasurer, and the blog post about the event has been published.
 There is no cash value beyond eligible and documented expenses. 
 All reimbursement claims must be filed (and all prerequisites for receiving payment must be met, see below) within 3 months after the conclusion of the event, after which the fellowship award expires.
 
