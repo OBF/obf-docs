@@ -73,7 +73,7 @@ Please note that requests made for more than $1000 may not be granted if not jus
 
 ### Items covered for remote participation
 
-The fellowship can be used to cover conference registration fees and the costs of small hardware (such as Microphone, speaker and webcam), childcare for the duration of the event and/or other supporting materials.
+The fellowship can be used to cover conference registration fees and the costs of small hardware (such as microphone, speaker and webcam), childcare for the duration of the event and/or other supporting materials.
 
 The cost of remote participation will be evaluated on a case-by-case basis.
 For example, we are aware that due to the load-shedding issues in many developing countries, our applicants might require to pay for the fuel for the generator to keep their electricity running for the duration of the event.
