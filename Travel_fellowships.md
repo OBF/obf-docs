@@ -1,6 +1,7 @@
 # Open Bioinformatics Foundation Event Fellowships
 
-The Open Bioinformatics Foundation ([OBF](https://www.open-bio.org)) promoting open source bioinformatics software development and open science in the biological research community. Yhe OBF Event Fellowship program is aimed at increasing diverse participation at events promoting open science practices such as resource development and dissemination in the bioinformatics and biological research community.
+The Open Bioinformatics Foundation ([OBF](https://www.open-bio.org)) promoting open source bioinformatics software development and open science in the biological research community. 
+The OBF Event Fellowship program is aimed at increasing diverse participation at events promoting open science practices such as resource development and dissemination in the bioinformatics and biological research community.
 
 These fellowships are available to support both in-person and remote (virtual) participation at events such as conferences, workshops, training courses or collaborative development sprints.
 
@@ -24,10 +25,11 @@ Applicants will be asked to supply the following information:
 Applicants are asked to provide personal information such as name, email address, career stage, and affiliation.
 This information will not be shared with the review panel but will be used by the fellowship chair to identify who the applicants are.
 
-### Event and nature of your participation
+### Event and nature of participation
 
 In this part, applicants will be expected to provide information about the event they have selected to participate in.
-Requested details include the name of the event, event website, dates (should take places within 1 year from the application deadline), type of the event (conference, training, or other), confirmation if the event is taking place in-person or online. Applicants should also describe the nature of their participation (presenter, attendee or other) and how it relates to open science practices or open source software. 
+Requested details include the name of the event, event website, dates (should take places within 1 year from the application deadline), type of the event (conference, training, or other), confirmation if the event is taking place in-person or online. 
+Applicants should also describe the nature of their participation (presenter, attendee or other) and how it relates to open science practices or open source software. 
 
 OBF Event Fellowships are intended to enable awardees to participate in events that promote open source bioinformatics and/or open science. 
 We ask applicants to describe (maximum 250 words) how this event and their participation in it relate to these goals.
@@ -35,7 +37,7 @@ We ask applicants to describe (maximum 250 words) how this event and their parti
 ### Open Source Resources
 
 OBF promotes the development of open-source bioinformatics software, documentation, or other content useful for research communities. 
-In this section, applicants are asked to provide a link to a repository to which they have contributed and evidence of open-source licensing. 
+In this section, applicants are asked to provide a link to a repository to which they have contributed and evidence of open-source licensing.
 
 They are further expected to describe the project that their participation in the event involves (either because they are presenting, co-developing, or because the event involves activities around this topic).
 If they cannot provide links to specific resources and licenses, then they can describe how their participation furthers open science practices.
@@ -44,7 +46,7 @@ If they cannot provide links to specific resources and licenses, then they can d
 
 One of the goals of the OBF fellowship is to increase participation from groups otherwise underrepresented at the event or in the broader community, including but not limited to underrepresented country of residence or origin, ethnic background (historically underrepresented and other minority groups), career stages, sexuality, gender identity and expression, and people with disabilities.
 
-In an open text response, applicants can describe how their participation in this event will help increase diversity and representation of any marginalised and traditionally underrepresented group in the OVERALL open source bioinformatics and/or open science community.
+We ask applicants to describe how their participation in this event helps increase diversity and representation of any marginalised and traditionally underrepresented group in the _overall_ open source bioinformatics and/or open science community.
 
 Note that applicants may have an answer to this question even if they are not personally a member of an underrepresented group. 
 This section is important for the evaluation of their application.
@@ -66,7 +68,7 @@ The OBF Event Fellowships are available for the awardees to cover conference reg
 
 The fellowship can be used to cover conference registration fees and direct travel costs (such as airfare, train, metro, bus and taxi), hotel, and/or child-care up to a value of USD 1,000. 
 Note that rental car expenses and personal car mileage are not eligible for reimbursement. 
-If you anticipate that you would require more than USD 1,000 in order to attend the event, please include that information in your application form.
+If the applicants anticipate that they would require more than USD 1,000 in order to attend the event, they should include that information in the application form.
 Please note that requests made for more than $1000 may not be granted if not justifiable by the applicant.
 
 ### Items covered for remote participation
@@ -82,8 +84,6 @@ When applying for the cost of hardware, please note that this fellowship will no
 However, this fellowship can pay for the rental cost of the large hardware required to attend or host a virtual event.
 The cost will be capped to a maximum of $40 (USD) each for small hardware such as headphones, webcam, speaker, and/microphone.
 If the cap is insufficient, applicants can describe their hardware needs in their application.
-
-If you anticipate that you would require more than USD 1,000 to cover your overall cost, please contact the fellowship chair with the details.
 
 ## Review process
 
@@ -112,42 +112,42 @@ Any panelist with a clear *conflict of interest*[1] will recuse themselves from 
 ### Selection criteria
 
 The selection of the fellowship awardees is based on the criteria described below. 
-Please make sure that you include sufficient information in your application to allow the review panel to assess your eligibility fairly.
+We expect applicants to include sufficient information in their application to allow the review panel to assess their eligibility fairly.
 
 ***A rubric is currently under development, which will be added to this page upon approval from the OBF board members.***
 
-#### Event and nature of your participation
+#### Event and nature of participation
 
-The review panel will assess how the event that you have selected and the nature of your participation promote open science practices in bioinformatics and/or biological research community.
+The review panel will assess how the event that the applicants have selected and the nature of their participation promote open science practices in bioinformatics and/or biological research community.
 
 It's important to keep in mind that the event should be scheduled to occur anytime in a one-year window starting one month after the application deadline.
 
-**Event of your choice**
+**Event of choice**
 
 Events that are eligible may include but are not limited to conferences, workshops, code fests, hackathons, training courses, collaborative sprints, informal meet-ups or other skill-building and networking event. 
-If you intend to attend OBF events BOSC and/or the OBF CoFest and other events hosted by the member projects, your application may be given a slight preference.
+If an applicant intends to attend OBF events BOSC and/or the OBF CoFest and other events hosted by the member projects, their application may be given a slight preference.
 
-**Nature of your participation**
+**Nature of participation**
 
-The review panel will look at the nature of your participation (your role) at the event.
-For example, you may be hosting the event, giving a talk, chairing a session, running a Birds of a Feather discussion, offering a training event, facilitating a sprint (or similar session), leading a project at a code fest/hackathon, presenting a poster, participating in a panel discussion, reviewing abstracts for the event, contributing to the event as a co-organiser, or volunteering to help the organisation committee during the event.
+The review panel will look at the nature of applicant's participation (their roles) at the event.
+For example, they may be hosting the event, giving a talk, chairing a session, running a Birds of a Feather discussion, offering a training event, facilitating a sprint (or similar session), leading a project at a code fest/hackathon, presenting a poster, participating in a panel discussion, reviewing abstracts for the event, contributing to the event as a co-organiser, or volunteering to help the organisation committee during the event.
 
 #### Open Source Resources
 
-The review panel may look at your general involvement in open source development (such as your GitHub contributions to the Open Source project) or open science communities (for example, your previous work advocating for open practices and diversity).
+The review panel may look at applicant's general involvement in open source development (such as their GitHub contributions to the Open Source project) or open science communities (for example, their previous work advocating for open practices and diversity).
 
-Any information regarding your past participation in the project that you are representing will be useful for evaluating your application as well.
+Any information regarding past participation in the project that they are representing will be useful for evaluating their application as well.
 Therefore, please supply the link of the public repository or online resources that will help the panel in the review process.
 
-This will not be a limiting factor if you are new to bioinformatics and open science and express your enthusiasm and willingness to learn and practice open science principles learned from the event of your choice and OBF community.
+This will not be a limiting factor if applicants are new to bioinformatics and open science and express their enthusiasm and willingness to practice open science principles learned from OBF community and other events of their choice.
 
 #### Promoting diversity and representation
 
-The review panel will look at how your attendance will contribute to increasing diversity at the event.
+The review panel will look at how applicant's attendance will contribute to increasing diversity at the event.
 We understand increasing diversity as increasing participation of members from groups traditionally underrepresented in the bioinformatics, computation or tech community or at the event.
 This includes but is not limited to underrepresented demographic groups (members from many developing nations), ethnic origins, career stages, sexuality, gender identity and expression, and people with disabilities.
 
-If you are not from a minority or underrepresented group but have a track record for advocating for diversity as an ally through your work or involvement in the event of your choice, you are welcome to apply for this fellowship as well.
+If applicants are not from a minority or underrepresented group but have a track record for advocating for diversity as an ally through their work or involvement in an event, they are welcome to apply for this fellowship as well.
 
 *We do not consider the diversity of operating systems, programming languages or scientific domain as a criterion for the OBF event fellowship.*
 
@@ -162,7 +162,7 @@ They will be able to apply again with a revised and updated application in the n
 
 ## Responsibilities of the fellowship awardees
 
-We expect that your participation in the event will promote open science practices in software development, training, documentation, publication and collaborative efforts in the biological research community, and will ideally promote diversity in their communities. 
+We expect that applicant;s participation in the event will promote open science practices in software development, training, documentation, publication and collaborative efforts in the biological research community, and will ideally promote diversity in their communities. 
 
 After the event, the awardees are required to write a blog post on the [OBF blog](https://www.open-bio.org/category/travel-fellowship/) about their experience attending the event and describing the main outcomes of their participation.
 
@@ -179,4 +179,4 @@ The OBF will reimburse the recipient after the event based on receipts provided,
 There is no cash value beyond eligible and documented expenses. 
 All reimbursement claims must be filed (and all prerequisites for receiving payment must be met, see below) within 3 months after the conclusion of the event, after which the fellowship award expires.
 
-We will ask you to the state for our records that none of your claimed expenses have been or will be reimbursed from another source (for example, your employer, or a grant).
+We will ask the fellowship awardess to the state for our records that none of their claimed expenses have been or will be reimbursed from another source (for example, their employer, or other grants).
