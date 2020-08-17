@@ -158,7 +158,7 @@ Applicants will be notified of the outcome no later than 3 weeks after the appli
 Those who receive the fellowship award will be able to discuss any further details with the fellowship chair and/or the OBF board members.
 
 Applicants who are unsuccessful in a round will be provided with the feedback.
-They will be able to apply again with a revised and updated application for the next round of event fellowship.
+They will be able to apply again with a revised and updated application in the next round.
 
 ## Responsibilities of the fellowship awardees
 
