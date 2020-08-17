@@ -55,7 +55,7 @@ The OBF Event Fellowships are available for the awardees to cover conference reg
   - For the in-person events, this fellowship can be used to cover airfare, transportation and hotel. 
   - For the virtual events, applicants can seek support for small hardware, internet cost for the duration of the event, or other supporting materials
 
-Applicants are asked to provide details of the items they would like to pay for through the OBF Event fellowship. 
+Applicants are asked to provide details of expenses they hope to be reimbursed through the OBF Event fellowship. 
 Here, they can provide as much detail as possible to help the review panel make a fair recommendation for the fellowship awardees.
 
 Please see the next section for more details.
