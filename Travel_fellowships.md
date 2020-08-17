@@ -96,7 +96,7 @@ If the cap is insufficient, applicants can describe their hardware needs in thei
 
 The fellowship chair will make sure that the call for applications is announced at least 6 weeks before the deadline by updating the application form for each round, drafting a blog post, coordinating with the newsletter chair and receiving approval from the OBF board members.
 
-After the application period is over, they will coordinate with the OBF board members to invite volunteers to serve in the review panel and create all the required documents such as applications (minus the personal information) and reviewing form with rubrics to share with the panel.
+After the application period is over, they will coordinate with the OBF board members to invite volunteers to serve in the review panel and create all the required documents such as applications (assign alias and remove personal information) and reviewing form with rubrics to share with the panel.
 In the first week after the deadline, the review panel will be asked to review all or selected applications (based on the number of applications for that round).
 
 In the second week, the fellowship chair will create a summary of the scores and discuss it with the board members to identify the awardees for that round.
