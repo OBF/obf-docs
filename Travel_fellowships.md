@@ -42,7 +42,7 @@ If they cannot provide links to specific resources and licenses, then they can d
 
 ### Promoting diversity and representation
 
-One of the goals of the OBF fellowship is to increase participation from groups otherwise underrepresented in the community or at the event, including but not limited to underrepresented demographic groups (country of residence and citizenship), ethnic background (historically underrepresented and other minority groups), career stages, gender identity and expression, and people with disabilities.
+One of the goals of the OBF fellowship is to increase participation from groups otherwise underrepresented at the event or in the broader community, including but not limited to underrepresented country of residence or origin, ethnic background (historically underrepresented and other minority groups), career stages, sexuality, gender identity and expression, and people with disabilities.
 
 In an open text response, applicants can describe how their participation in this event help increase diversity and representation of any marginalised and traditionally underrepresented group in the OVERALL open source bioinformatics and/or open science community.
 
