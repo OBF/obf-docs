@@ -122,12 +122,8 @@ The review panel will assess how the event that the applicants have selected and
 
 It's important to keep in mind that the event should be scheduled to occur anytime in a one-year window starting one month after the application deadline.
 
-**Event of choice**
-
 Events that are eligible may include but are not limited to conferences, workshops, code fests, hackathons, training courses, collaborative sprints, informal meet-ups or other skill-building and networking event. 
 If an applicant intends to attend OBF events BOSC and/or the OBF CoFest and other events hosted by the member projects, their application may be given a slight preference.
-
-**Nature of participation**
 
 The review panel will look at the nature of applicant's participation (their roles) at the event.
 For example, they may be hosting the event, giving a talk, chairing a session, running a Birds of a Feather discussion, offering a training event, facilitating a sprint (or similar session), leading a project at a code fest/hackathon, presenting a poster, participating in a panel discussion, reviewing abstracts for the event, contributing to the event as a co-organiser, or volunteering to help the organisation committee during the event.
