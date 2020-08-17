@@ -134,7 +134,7 @@ For example, you may be hosting the event, giving a talk, chairing a session, ru
 
 #### Open Source Resources
 
-The review panel may look at your general involvement in the open source development (such as your GitHub contributions to the Open Source project) or open science communities (for example, your previous work advocating for open practices and diversity).
+The review panel may look at your general involvement in open source development (such as your GitHub contributions to the Open Source project) or open science communities (for example, your previous work advocating for open practices and diversity).
 
 Any information regarding your past participation in the project that you are representing will be useful for evaluating your application as well.
 Therefore, please supply the link of the public repository or online resources that will help the panel in the review process.
