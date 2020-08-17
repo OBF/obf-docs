@@ -68,7 +68,8 @@ The OBF Event Fellowships are available for the awardees to cover conference reg
 
 The fellowship can be used to cover conference registration fees and direct travel costs (such as airfare, train, metro, bus and taxi), hotel, and/or child-care up to a value of USD 1,000. 
 Note that rental car expenses and personal car mileage are not eligible for reimbursement. 
-If you anticipate that you would require more than USD 1,000 in order to attend the event, please include that information on the application form and contact the fellowship chair.
+If you anticipate that you would require more than USD 1,000 in order to attend the event, please include that information in your application form.
+Please note that requests made for more than $1000 may not be granted if not justifiable by the applicant.
 
 ### Items covered for remote participation
 
