@@ -175,7 +175,7 @@ If due to any reason, their circumstances change and they can no longer attend t
 
 ## Reimbursement
 
-The OBF will reimburse the recipient after the event based on receipts provided and proof of attendance have been submitted to the OBF treasurer. 
+The OBF will reimburse the recipient after the event based on receipts provided, proof of attendance has been submitted to the OBF treasurer, and the blog post about the event has been finished.
 There is no cash value beyond eligible and documented expenses. 
 All reimbursement claims must be filed (and all prerequisites for receiving payment must be met, see below) within 3 months after the conclusion of the event, after which the fellowship award expires.
 
