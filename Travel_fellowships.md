@@ -149,7 +149,7 @@ This includes but is not limited to underrepresented demographic groups (members
 
 If you are not from a minority or underrepresented group but have a track record for advocating for diversity as an ally through your work or involvement in the event of your choice, you are welcome to apply for this fellowship as well.
 
-*We do not consider the diversity of operating systems, programming languages or text editors as a criterion for the OBF Travel fellowship.*
+*We do not consider the diversity of operating systems, programming languages or scientific domain as a criterion for the OBF event fellowship.*
 
 ## Announcement of the application outcome
 
