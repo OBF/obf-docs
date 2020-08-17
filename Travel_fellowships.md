@@ -21,7 +21,7 @@ Applicants will be asked to supply the following information:
 
 ### Personal information
 
-The applicants will supply personal information such as name, email id, career stage, and affiliation.
+Applicants are asked to provide personal information such as name, email address, career stage, and affiliation.
 This information will not be shared with the review panel but will be used by the fellowship chair to identify who the applicants are.
 
 ### Event and nature of your participation
