@@ -35,7 +35,7 @@ We ask applicants to describe (maximum 250 words) how this event and their parti
 ### Open Source Resources
 
 OBF promotes the development of open-source bioinformatics software, documentation, or other content useful for research communities. 
-In this section, applicants are asked to provide a link to an online repository and evidence of open-source licensing. 
+In this section, applicants are asked to provide a link to a repository to which they have contributed and evidence of open-source licensing. 
 
 They are further expected to describe the project that their participation in the event involves (either because they are presenting, co-developing, or because the event involves activities around this topic).
 If they cannot provide links to specific resources and licenses, then they can describe how their participation furthers open science practices.
