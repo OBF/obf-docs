@@ -145,7 +145,7 @@ This will not be a limiting factor if you are new to bioinformatics and open sci
 
 The review panel will look at how your attendance will contribute to increasing diversity at the event.
 We understand increasing diversity as increasing participation of members from groups traditionally underrepresented in the bioinformatics, computation or tech community or at the event.
-This includes but not limited to underrepresented demographic groups (members from many developing nations), ethnic origins, career stages, gender identity and expression, and people with disabilities.
+This includes but is not limited to underrepresented demographic groups (members from many developing nations), ethnic origins, career stages, sexuality, gender identity and expression, and people with disabilities.
 
 If you are not from a minority or underrepresented group but have a track record for advocating for diversity as an ally through your work or involvement in the event of your choice, you are welcome to apply for this fellowship as well.
 
