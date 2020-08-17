@@ -52,7 +52,6 @@ This section is important for the evaluation of their application.
 ### Justification for funding
 
 The OBF Event Fellowships are available for the awardees to cover conference registration fees and other participation related costs of up to USD $1,000. 
-  - For the virtual events, applicants can seek support for small hardware, internet cost for the duration of the event, or other supporting materials
 
 Applicants are asked to provide details of expenses they hope to be reimbursed through the OBF Event fellowship. 
 Here, they can provide as much detail as possible to help the review panel make a fair recommendation for the fellowship awardees.
