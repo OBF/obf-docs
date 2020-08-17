@@ -27,7 +27,7 @@ This information will not be shared with the review panel but will be used by th
 ### Event and nature of your participation
 
 In this part, applicants will be expected to provide information about the event they have selected to participate in.
-Details that they need to provide are the name of the event, event website, dates (should take places within 1 year from the application deadline), type of the event (conference, training, or other), confirm if the event is taking place in-person or online, what is the nature of their participation (presenter, attendee or other) and how it relates to open science practices or open source software. 
+Requested details include the name of the event, event website, dates (should take places within 1 year from the application deadline), type of the event (conference, training, or other), confirmation if the event is taking place in-person or online. Applicants should also describe the nature of their participation (presenter, attendee or other) and how it relates to open science practices or open source software. 
 
 OBF Event Fellowships are intended to enable awardees to participate in events that promote open source bioinformatics and/or open science. 
 In an open text response (maximum 250 words), applicants are asked to describe how this event and their participation in it relate to these goals.
