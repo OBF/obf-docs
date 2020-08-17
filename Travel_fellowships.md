@@ -169,7 +169,7 @@ After the event, the awardees are required to write a blog post on the [OBF blog
 The fellowship chair will help create a WordPress account on the OBF website where they will provide editorial support for publishing the blog post. 
 Please note that this should be completed within three weeks after the event ends, and is a prerequisite before the awardee can receive payment.
 
-Meanwhile, the awardees will be put in touch with the OBF treasurer who will share the reimbursement form and help sort out the expense as per the guideline shared with them.
+Meanwhile, the awardees will be put in touch with the OBF treasurer who will share the reimbursement form and help sort out the expenses as per the guidelines shared with them.
 
 If due to any reason, the awardee's circumstances change and they can no longer attend the said event or accept the fellowship award, they should discuss the details with the fellowship chair and/or the board members.
 
