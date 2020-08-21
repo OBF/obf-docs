@@ -1,6 +1,6 @@
 # Open Bioinformatics Foundation Event Fellowships
 
-The Open Bioinformatics Foundation ([OBF](https://www.open-bio.org)) promoting open source bioinformatics software development and open science in the biological research community. 
+The Open Bioinformatics Foundation ([OBF](https://www.open-bio.org)) promotes open source bioinformatics software development and open science in the biological research community. 
 The OBF Event Fellowship program is aimed at increasing diverse participation at events promoting open science practices such as resource development and dissemination in the bioinformatics and biological research community.
 
 These fellowships are available to support both in-person and remote (virtual) participation at events such as conferences, workshops, training courses or collaborative development sprints.
