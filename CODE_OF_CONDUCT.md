@@ -28,7 +28,7 @@ To make clear what is expected, everyone participating in OBF activities is requ
 The volunteer members designated and approved by the OBF Board will be responsible for enforcing the Code of Conduct.
 All reports will be reviewed by the Code of Conduct Committee and will be kept confidential.
 
-Until the dedicated committee and contact details are created, you can reach out to the following members of the OBF board: Bastian Greshake (email: ), Malvika Sharan (email: malvikasharan@gmail.com) and/or Yo Yehudi.
+Until the dedicated committee and contact details are created, you can reach out to the following members of the OBF board: Bastian Greshake (email: bgreshake@googlemail.com), Malvika Sharan (email: malvikasharan@gmail.com) and/or Yo Yehudi (yochannah@gmail.com).
 
 You can also reach out to all the OBF board members by emailing [board@openbio.org](mailto:board@openbio.org)the OBF board members by emailing [board@openbio.org](mailto:board@openbio.org).
  
