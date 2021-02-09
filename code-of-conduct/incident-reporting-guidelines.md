@@ -1,6 +1,6 @@
 # 3 Incident Reporting Guidelines
 
-## 3.1 Reporting to Code of Conduct Committee
+## 3.1 Reporting to the Code of Conduct Committee
 
 Reports to the Code of Conduct Committee should be made by emailing <dedicated Code of Conduct email>. All reports will be reviewed by the Code of Conduct Committee and will be kept confidential. 
 
