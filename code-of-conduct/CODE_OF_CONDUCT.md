@@ -12,8 +12,7 @@ We are dedicated to providing a welcoming and supportive environment for all peo
 * Focus on what is best for the community
 * Show courtesy and respect towards other community members
 
-Please contact the Code of Conduct Committee by emailing `dedicated Code of Conduct email`. Currently appointed members to report any incident of violation of Code of Conduct are Bastian Greshake Tzovaras, Malvika Sharan and Yo Yehudi. They are also available to respond to any question and concerns regarding the Code of Conduct document and procedure.
-
+Please contact the Code of Conduct Committee by emailing `dedicated Code of Conduct email`.
 The Code of Conduct Committee is established with the volunteer members designated and approved by the OBF Board. The committee will be responsible for reviewing and keeping confidentiality of all the reports when enforcing the Code of Conduct.
 
 ## 2. OBF Code of Conduct in detail
@@ -46,7 +45,9 @@ This Code of Conduct applies to all online or in-person events, meetings conduct
 
 The volunteer members designated and approved by the OBF Board to serve on the Code of Conduct Committee will be responsible for enforcing the Code of Conduct. Any voting members of the OBF community including the liaisons from the OBF Board can volunteer to sit in the Code of Conduct committee. They will be required to attend a training workshop on Code of Conduct report handling and enforcement as part of the onboarding process. We seek to build a committee including members outside of the OBF Board. Please contact the OBF board to express your interest to join this committee. The current members are listed in the OBF Code of Conduct document.
 
-Reports to the Code of Conduct Committee should be made by emailing <dedicated Code of Conduct email>. All reports will be reviewed by the Code of Conduct Committee and will be kept confidential. Reports made to ombudsperson (email: <ombudsperson’s email>) will not be shared with the committee unless agreed with the reporters. 
+Reports to the Code of Conduct Committee should be made by emailing `<dedicated Code of Conduct email>`. Currently appointed members to report any incident of violation of Code of Conduct are Bastian Greshake Tzovaras, Malvika Sharan and Yo Yehudi. They are also available to respond to any question and concerns regarding the Code of Conduct document and procedure.
+
+All reports will be reviewed by the Code of Conduct Committee and will be kept confidential.
 
 ### 2.4 Expected Behavior
 
