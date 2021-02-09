@@ -30,7 +30,7 @@ All participants will be anonymized in the summary report, referred to as "Commu
 The "de-anonymizing key" will be kept in a separate file and only accessed to link repeated reports against the same person over time.
 
 The Code of Conduct committee will aim to have a resolution agreed upon within one week.
-In the event that a resolution can't be determined in that time, a member of the Code of Conduct committee will respond to the reporter(s) with an updated and projected timeline for resolution.
+If a resolution can't be determined in that time, a member of the Code of Conduct committee will respond to the reporter(s) with an updated and projected timeline for resolution.
 
 ## 4.3 Resolutions
 
@@ -57,7 +57,7 @@ Possible responses may include:
 
 Once a resolution is agreed upon, but before it is enacted, a member of the Code of Conduct committee will contact the original reporter and any other affected parties and explain the proposed resolution.
 The Code of Conduct committee member will ask if this resolution is acceptable, and must note feedback for the record.
-However, the Code of Conduct committee is not required to act on this feedback.
+However, the Code of Conduct Committee is not required to act on this feedback.
 
 ## 4.5 Conflicts of Interest
 
