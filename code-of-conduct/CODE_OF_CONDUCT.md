@@ -14,7 +14,7 @@ We are dedicated to providing a welcoming and supportive environment for all peo
 
 Please contact the Code of Conduct Committee by emailing <dedicated Code of Conduct email>. Currently appointed members to report any incident of violation of Code of Conduct Bastian are Greshake Tzovaras, Malvika Sharan and Yo Yehudi. They are also available to respond to any question and concerns regarding the Code of Conduct document and procedure.
 
-The Code of Conduct committee is established with the volunteer members designated and approved by the OBF Board. The committee will be responsible for reviewing and keeping confidential all the reports and enforcing the Code of Conduct.
+The Code of Conduct Committee is established with the volunteer members designated and approved by the OBF Board. The committee will be responsible for reviewing and keeping confidential all the reports and enforcing the Code of Conduct.
 
 ## 2. OBF Code of Conduct in detail
 
@@ -44,11 +44,11 @@ This Code of Conduct applies to all online or in-person events, meetings conduct
 
 ### 2.3 OBF Code of Conduct Committee
 
-The volunteer members designated and approved by the OBF Board will be responsible for enforcing the Code of Conduct. Any voting members of the OBF community including the liaisons from the OBF Board can volunteer to sit in the Code of Conduct committee.They will be required to attend a training workshop on Code of Conduct report handling and enforcement as part of the onboarding process. We seek to build a larger committee including members outside of the OBF Board. Please contact the OBF board to express your interest to join this committee. The current members are listed in the OBF Code of Conduct document.
+The volunteer members designated and approved by the OBF Board will be responsible for enforcing the Code of Conduct. Any voting members of the OBF community including the liaisons from the OBF Board can volunteer to sit in the Code of Conduct committee. They will be required to attend a training workshop on Code of Conduct report handling and enforcement as part of the onboarding process. We seek to build a larger committee including members outside of the OBF Board. Please contact the OBF board to express your interest to join this committee. The current members are listed in the OBF Code of Conduct document.
 
 Reports to the Code of Conduct Committee should be made by emailing <dedicated Code of Conduct email>. All reports will be reviewed by the Code of Conduct Committee and will be kept confidential. Reports made to ombudsperson (email: <ombudsperson’s email>) will not be shared with the committee unless agreed with the reporters. 
 
-### 2.4 Expected behavior
+### 2.4 Expected Behavior
 
 All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviors in all OBF events and platforms:
 
@@ -68,7 +68,7 @@ We also subscribe to the four social rules of the [Recurse Center](https://www.r
 
 Examples of unacceptable behavior by participants at any OBF event/platform include:
 
-- written or verbal comments which have the effect of excluding people on the basis of membership of any specific group  
+- written or verbal comments which have the effect of excluding people based on membership of any specific group  
 - causing someone to fear for their safety, such as through stalking, following, or intimidation  
 - violent threats or language directed against another person
 - the display of sexual or violent images  
@@ -82,11 +82,10 @@ Examples of unacceptable behavior by participants at any OBF event/platform incl
 - incitement to violence, suicide, or self-harm  
 - sharing private communication without consent  
 
-### 2.6 Consequences of unacceptable behavior
+### 2.6 Consequences of Unacceptable Behavior
 
 Participants who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any OBF events and platforms, either online or in-person. If a participant engages in behavior that violates this Code of Conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), or engage OBF Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions as described in the reporting and report-handling guidelines.
 
 ## Incident Reporting and Enforcement
 
 Please read the [Incident Reporting Guidelines](./incident-reporting-guidelines.md) and [Enforcement Manual](./enforcement-manual.md) to get familiar with these procedures in OBF.
- 
