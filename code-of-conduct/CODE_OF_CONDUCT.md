@@ -30,7 +30,7 @@ This Code of Conduct applies to all online or in-person events, meetings conduct
 
 **Board members** are expected to adhere to this Code of Conduct, and could be ejected from the board (as per article 3, paragraph 4 of the OBF bylaws) for breaching the OBF Code of Conduct even when they are not representing OBF.
 
-**OBF organised meetings**, such as OBF board meetings (both public and board-only), community calls and similar events. This does not include sponsored events where OBF is not the main organiser. This does not include BOSC when held jointly and under a separate Code of Conduct, which will be stated clearly.
+**OBF organised meetings**, such as OBF Board meetings (both public and Board-only), community calls and similar events. This does not include sponsored events where OBF is not the main organiser. It also does not include BOSC when held jointly and under a separate Code of Conduct, which will be stated clearly.
 
 **BOSC Organising Committee members and BOSC abstract reviewers**, even in cases when the OBF Code of Conduct doesn’t apply to the conference itself (depending on conference co-location it may or may not be adopted).
 
