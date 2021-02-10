@@ -28,7 +28,7 @@ Everyone who participates in the OBF events or activities is required to comply 
 
 This Code of Conduct applies to all online or in-person events, meetings conducted in the OBF community spaces (online/in-person), as well as all text-based and asynchronous OBF-related interactions as described below.
 
-**Board members** are expected to adhere to this Code of Conduct, and could be ejected from the board (as per article 3, paragraph 4 of the OBF bylaws) for breaching the spirit of the OBF Code of Conduct even when they are not representing OBF.
+**Board members** are expected to adhere to this Code of Conduct, and could be ejected from the board (as per article 3, paragraph 4 of the OBF bylaws) for breaching the OBF Code of Conduct even when they are not representing OBF.
 
 **OBF organised meetings**, such as OBF board meetings (both public and board-only), community calls and similar events. This does not include sponsored events where OBF is not the main organiser. This does not include BOSC when held jointly and under a separate Code of Conduct, which will be stated clearly.
 
