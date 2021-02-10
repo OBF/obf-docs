@@ -2,7 +2,7 @@
 
 ## 3.1 Reporting to the Code of Conduct Committee
 
-Reports to the Code of Conduct Committee should be made by emailing ``<dedicated Code of Conduct email>``. All reports will be reviewed by the Code of Conduct Committee and will be kept confidential.
+Reports to the Code of Conduct Committee should be made by emailing `coc@open-bio.org`. All reports will be reviewed by the Code of Conduct Committee and will be kept confidential.
 Currently appointed members to report any incident of violation of Code of Conduct are **Bastian Greshake Tzovaras, Malvika Sharan and Yo Yehudi**.
 
 ## 3.2 Alternate contact points
