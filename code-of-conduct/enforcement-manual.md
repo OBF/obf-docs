@@ -46,7 +46,7 @@ Possible responses may include:
 * Nothing, if the issue reported is not a violation or outside of the scope of this Code of Conduct.
 * A private in-person conversation between a member of the OBF Code of Conduct committee and the individual(s) involved.
   In this case, the person who has the conversation will provide a written summary for record-keeping.
-* A private written reprimand from a member of the research team to the individual(s) involved.
+* A private written reprimand from a member of the Code of Conduct Committee to the individual(s) involved.
   * A public announcement of an incident without the names and other identifiable details of the parties involved, ideally in the same venue that the violation occurred (i.e. on the listserv for a listserv violation; GitHub for a GitHub violation, etc.).
   The committee may choose to publish this message elsewhere for posterity.
 * An imposed "time out" from online spaces.
