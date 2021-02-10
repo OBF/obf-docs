@@ -25,7 +25,6 @@ Everyone who participates in the OBF events or activities is required to comply 
 
 ### 2.2 Scope of the OBF Code of Conduct (Code of Conduct)
 
-To make clear what is expected, everyone participating in OBF activities is required to conform to our Code of Conduct.
 
 This Code of Conduct applies to all online or in-person events, meetings conducted in the OBF community spaces (online/in-person), as well as all text-based and asynchronous OBF-related interactions as described below.
 
