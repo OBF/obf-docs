@@ -12,7 +12,7 @@
 
 ## Contact points: 
 
-- Code of Conduct Committee: `<dedicated Code of Conduct email>`
+- Code of Conduct Committee: `coc@open-bio.org`
 - Ombudsperson: `<ombudsperson's email>`
 - Board members: [board@open-bio.org](mailto:board@open-bio.org)
 
