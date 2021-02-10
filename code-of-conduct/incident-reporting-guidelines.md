@@ -7,7 +7,7 @@ Currently appointed members to report any incident of violation of Code of Condu
 
 ## 3.2 Alternate contact points
 
-**Ombudsperson**: If you are uncomfortable emailing to the OBF's Code of Conduct Committee, you can send your incident report the ombudsperson. The designated ombudsman for OBF is **Tracy Teal**, who can be contacted by emailing `<dedicated email>`. Reports made to ombudsperson will not be shared with the committee unless agreed with the reporters. 
+**Ombudsperson**: If you are uncomfortable emailing the OBF's Code of Conduct Committee, you can send your incident report to the ombudsperson. The designated ombudsperson for OBF is **Tracy Teal**, who can be contacted by emailing `ombuds@open-bio.org`. Reports made to the ombudsperson will not be shared with the committee unless agreed with the reporters. 
 
 **Board Members**: Alternatively, you can also contact all the members of the OBF board by emailing [board@open-bio.org](mailto:board@open-bio.org).
 
