@@ -13,7 +13,7 @@ We are dedicated to providing a welcoming and supportive environment for all peo
 * Show courtesy and respect towards other community members
 
 Please contact the Code of Conduct Committee by emailing `dedicated Code of Conduct email`.
-The Code of Conduct Committee is established with the volunteer members designated and approved by the OBF Board. The committee will be responsible for reviewing and keeping confidentiality of all the reports when enforcing the Code of Conduct.
+The Code of Conduct Committee is established with the volunteer members designated and approved by the OBF Board. The committee will be responsible for reviewing and keeping confidentiality of all incident reports when enforcing the Code of Conduct.
 
 ## 2. OBF Code of Conduct in detail
 
