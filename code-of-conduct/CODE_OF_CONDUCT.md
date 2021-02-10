@@ -84,7 +84,7 @@ Examples of unacceptable behavior by participants at any OBF event/platform incl
 
 ### 2.6 Consequences of Unacceptable Behavior
 
-Participants who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any OBF events and platforms, either online or in-person. If a participant engages in behavior that violates this Code of Conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), or engage OBF Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions as described in the reporting and report-handling guidelines.
+Participants who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any OBF events and platforms, either online or in-person. If a participant engages in behavior that violates this Code of Conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), or engage the Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions as described in the reporting and report-handling guidelines.
 
 ## Incident Reporting and Enforcement
 
