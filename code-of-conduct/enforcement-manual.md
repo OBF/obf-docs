@@ -36,7 +36,7 @@ If a resolution can't be determined in that time, a member of the Code of Conduc
 
 The Code of Conduct committee will seek to agree on a resolution by consensus of all members investigating the report in question.
 If the committee cannot reach consensus and deadlocks for over a week, the appointed members from the OBF Board will break the tie.
-If these members are unable to take part in the discussion due to a conflict of interest, the chair of the OBF board will make the decision.
+If these members are unable to take part in the discussion due to a conflict of interest, the President of the OBF Board will make the decision.
 
 Possible responses may include:
 
