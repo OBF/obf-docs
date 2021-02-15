@@ -55,7 +55,7 @@ Examples of unacceptable behavior by participants at any OBF event/platform incl
 
 Participants who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any OBF events and platforms, either online or in-person. If a participant engages in behavior that violates this Code of Conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), or engage the Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions as described in the reporting and report-handling guidelines.
 
-### 2.5 Scope of the OBF Code of Conduct (Code of Conduct)
+### 2.5 Scope of the OBF Code of Conduct
 
 This Code of Conduct applies to all online and in-person events, meetings conducted in the OBF community spaces (online/in-person), as well as all text-based and asynchronous OBF-related interactions as described below.
 
