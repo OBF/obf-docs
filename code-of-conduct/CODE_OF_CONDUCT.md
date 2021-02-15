@@ -57,7 +57,7 @@ Participants who are asked to stop any inappropriate behavior are expected to co
 
 ### 2.5 Scope of the OBF Code of Conduct (Code of Conduct)
 
-This Code of Conduct applies to all online or in-person events, meetings conducted in the OBF community spaces (online/in-person), as well as all text-based and asynchronous OBF-related interactions as described below.
+This Code of Conduct applies to all online and in-person events, meetings conducted in the OBF community spaces (online/in-person), as well as all text-based and asynchronous OBF-related interactions as described below.
 
 **Board members** are expected to adhere to this Code of Conduct, and could be ejected from the board (as per article 3, paragraph 4 of the OBF bylaws) for breaching the OBF Code of Conduct even when they are not representing OBF.
 
@@ -69,7 +69,7 @@ This Code of Conduct applies to all online or in-person events, meetings conduct
 
 **Mentors, organisers, participants, project leaders, interns, and students**, when participating in CoFest, GSoC, GSoD, or similar OBF-umbrella activities for the duration of the event, internship, mentorship and similar occasions.
 
-**Communication and community engagement platforms**, such as project repositories on GitHub (issues, PRs or other contributions), mailing list, website (blogs and comment sections), Gitter channel and other communication platforms, workshops or training events, online forums such as Gitter chat rooms and Twitter.
+**Communication and community engagement platforms**, such as project repositories on GitHub (issues, PRs or other contributions), mailing list, website (blogs and comment sections), Gitter channel and workshops or training events, communication platforms such as Gitter, Slack and Twitter.
 
 ### 2.6 OBF Code of Conduct Committee
 
