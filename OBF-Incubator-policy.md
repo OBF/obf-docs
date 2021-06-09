@@ -18,7 +18,7 @@ During an OBF-organised event (e.g. BOSC and post-BOSC CollaborationFests), peop
 The requirements for creating repositories such as the above are generally that:
 
 1. The repository must have an OSI-approved licence.
-2. The repository should open science in some way, although this can be interpreted broadly as needed by the OBF-Incubator admin who is creating the repository.
+2. The repository should promote open science, consistent with the [OBF mission](https://www.open-bio.org/about/).
 
 ### Maintenance
 
