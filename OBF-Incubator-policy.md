@@ -31,4 +31,4 @@ Any projects which wish to apply for OBF affiliated project status is welcome to
 
 ## Organising your own event
 
-If you wish to organise your own open life science event, and would like to use the OBF-incubator organisation as part of this, please email board@open-bio.org to apply. Approval is at the discretion of the OBF board, and approved applicants will be added to the OBF-Incubator/admins team, enabling them to create repositories for their event attendees.
+If you wish to organise your own open life science event, and would like to use the OBF-incubator organisation as part of this, please email board@open-bio.org to apply. Approval is at the discretion of the OBF board. Approved applicants will be able to create repositories for their event attendees.
