@@ -49,9 +49,9 @@ If they cannot provide links to specific resources and licenses, then they can d
 
 ### Promoting diversity and representation
 
-One of the goals of the OBF fellowship is to increase participation from groups otherwise underrepresented at the event or in the broader community, including but not limited to underrepresented country of residence or origin, ethnic background (historically underrepresented and other minority groups), career stages, sexuality, gender identity and expression, and people with disabilities.
+One of the goals of the OBF fellowship is to enable and enhance active participation from groups otherwise underrepresented at the event or in the broader community, including but not limited to underrepresented country of residence or origin, ethnic background (historically underrepresented and other minority groups), career stages, sexuality, gender identity and expression, and people with disabilities.
 
-We ask applicants to describe how their participation in this event helps increase diversity and representation of any marginalised and traditionally underrepresented group in the _overall_ open source bioinformatics and/or open science community.
+We ask applicants to describe how their participation in this event help promote diversity and representation of members from marginalised and traditionally underrepresented groups in the _overall_ open source bioinformatics and/or open science community.
 
 Note that applicants may have an answer to this question even if they are not personally a member of an underrepresented group. 
 This section is important for the evaluation of their application.
@@ -122,7 +122,6 @@ We expect applicants to include sufficient information in their application to a
 #### Event and nature of participation
 
 The review panel will assess how the event that the applicants have selected and the nature of their participation promote open science practices in bioinformatics and/or biological research community.
-
 It's important to keep in mind that the event should be scheduled to occur anytime in a one-year window starting one month after the application deadline.
 
 Events that are eligible may include but are not limited to conferences, workshops, code fests, hackathons, training courses, collaborative sprints, informal meet-ups or other skill-building and networking event. 
@@ -142,13 +141,13 @@ This will not be a limiting factor if applicants are new to bioinformatics and o
 
 #### Promoting diversity and representation
 
-The review panel will look at how applicant's attendance will contribute to increasing diversity at the event.
-We understand increasing diversity as increasing participation of members from groups traditionally underrepresented in the bioinformatics, computation or tech community or at the event.
-This includes but is not limited to underrepresented demographic groups (members from many developing nations), ethnic origins, career stages, sexuality, gender identity and expression, and people with disabilities.
+The review panel will look at how applicants' attendance will contribute to increasing participation from diverse members at the event.
+We are aware that members from many marginalised groups are still underrepresented in the bioinformatics, computational fields or tech community more broadly.
+Our efforts with this fellowship are to support members from underrepresented demographic groups including but not limited to diverse ethnic backgrounds, career stages, sexuality, gender identity and expression, people with disabilities and members from low-income backgrounds (such as from developing nations).
 
 If applicants are not from a minority or underrepresented group but have a track record for advocating for diversity as an ally through their work or involvement in an event, they are welcome to apply for this fellowship as well.
 
-*We do not consider the diversity of operating systems, programming languages or scientific domain as a criterion for the OBF Event Fellowship.*
+*We do not consider the diversity of operating systems, programming languages or scientific domains as a criterion for the OBF Event Fellowship.*
 
 ## Rubric for Application Review
 
