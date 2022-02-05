@@ -119,8 +119,6 @@ Any panelist with a clear *conflict of interest*[1] will recuse themselves from 
 The selection of the fellowship awardees is based on the criteria described below. 
 We expect applicants to include sufficient information in their application to allow the review panel to assess their eligibility fairly.
 
-***A rubric is currently under development, which will be added to this page upon approval from the OBF board members.***
-
 #### Event and nature of participation
 
 The review panel will assess how the event that the applicants have selected and the nature of their participation promote open science practices in bioinformatics and/or biological research community.
@@ -151,6 +149,55 @@ This includes but is not limited to underrepresented demographic groups (members
 If applicants are not from a minority or underrepresented group but have a track record for advocating for diversity as an ally through their work or involvement in an event, they are welcome to apply for this fellowship as well.
 
 *We do not consider the diversity of operating systems, programming languages or scientific domain as a criterion for the OBF Event Fellowship.*
+
+## Rubric for Application Review
+
+We ask reviewers to evaluate the application across multiple dimensions with scores of 1, 2, or 3 that they share via a Google form with the Event Fellowship chair. 
+These correspond generally to reviews of "criteria not met", "criteria partially met" and "criteria fully met":
+- Applicants who score mostly 1s do not have a clear understanding of the overall goals of this fellowship to support Open Source software practices and diversity of attendees in bioinformatics/biological research/open science events and communities.
+- Applicants who score mostly 2s are enthusiastic if not wholly aligned with the event fellowship's goals, for example, they may not be attending an open-source related event but have an interest in learning and promoting best practices, or that they want to attend a suitable event but do not represent any underrepresented minority groups.
+- Applicants who score mostly 3s are ready, goal-oriented, interested in contributing to the open-source, and represent traditionally underrepresented or minority groups in open science/bioinformatics.
+
+Reviewers are also asked whether they would recommend an application. The available answers are "No", "Yes", "Unsure" or "Request to discuss". Candidates who have ratings of "No" or "Unsure" across all reviewers will be rejected. All other candidates will be discussed at the panel selection.
+
+We ask all reviewers to finish the review with a few summary sentences to describe the application and the motivations for their scores to facilitate conversation during the selection panel discussion.
+Below we provide a copy of our review form.
+
+### Event and nature of applicant's participation
+
+- [ ] 1 (criteria not met) Does not provide enough information or seems to misunderstand what kind of event OBF Event fellowship supports
+- [ ] 2 (criteria partially met) The event or the nature of their participation may not directly relate to Open Source in bioinformatics, but they have some understanding/plan on how they would use the knowledge gained at this event to promote open source practices and diversity
+- [ ] 3 (criteria fully met) Seems to have a clear understanding of how their participation in this event relates to open-source bioinformatics or open science in general, and how they will further use and promote the knowledge obtained at this event
+
+### Open Source Resources
+- [ ] 1 (criteria not met) Shares none or unrelated/irrelevant information on open source resource and how they relate to their proposed event
+- [ ] 2 (criteria partially met) Shares some relevant information on open source resource and how they relate to their proposed event
+- [ ] 3 (criteria fully met) Shares appropriate and relevant information on open source resource and how they relate to their proposed event
+
+### Promoting diversity and representation of historically excluded or underrepresented groups *
+- [ ] 1 (criteria not met) The application lacks information or any justification on how their participation will help promote diversity and representation
+- [ ] 2 (criteria partially met) The application provides little information or some justification on how their participation will help promote diversity and representation
+- [ ] 3 (criteria fully met) The application provides sufficient information or justification on how their participation will help promote diversity and representation
+
+### Justification for funding
+- [ ] 1 (criteria not met) The requested funding does not fit our criteria of qualified items that can be funded through this fellowship and the applicant has not provided enough justification
+- [ ] 2 (criteria partially met) The requested funding partially fits our criteria of qualified items that can be funded through this fellowship and the applicant has provided enough justification
+- [ ] 3 (criteria fully met) The requested funding completely fits our criteria of qualified items that can be funded through this fellowship and the applicant has provided sufficient justification
+
+### Would you recommend this applicant for OBF Event Fellowship? *
+- [ ] No
+- [ ] Yes
+- [ ] Unsure/Request to discuss
+
+### Please provide 1-2 summary sentences about this application to facilitate the selection. Please include what this application is about, what its open source aspect is, how does it promote diversity and representation and what funding would you recommend to cover.
+- [Open text response]
+
+### Please highlight any diversity/minority groups this applicant belongs to, which should be supported for their representation in open source bioinformatics and biological research fields
+- [Open text response]
+
+### Anything else?
+
+- [Open text response]
 
 ## Announcement of the application outcome
 
