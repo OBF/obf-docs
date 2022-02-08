@@ -143,7 +143,7 @@ This will not be a limiting factor if applicants are new to bioinformatics and o
 
 The review panel will look at how applicants' attendance will contribute to increasing participation from diverse members at the event.
 We are aware that members from many marginalised groups are still underrepresented in bioinformatics, computational fields or the tech community more broadly.
-Our efforts with this fellowship are to support members from underrepresented demographic groups including but not limited to diverse ethnic backgrounds, career stages, sexuality, gender identity and expression, people with disabilities and members from low-income backgrounds (such as from developing nations).
+Our goals with this fellowship are to support members from underrepresented demographic groups including but not limited to diverse ethnic backgrounds, career stages, sexuality, gender identity and expression, people with disabilities and members from low-income backgrounds (such as from developing nations).
 
 If applicants are not from a minority or underrepresented group but have a track record for advocating for diversity as an ally through their work or involvement in an event, they are welcome to apply for this fellowship as well.
 
