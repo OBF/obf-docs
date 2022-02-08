@@ -131,7 +131,7 @@ The status of Affiliated and Candidate OBF Projects that are not voted on stays 
 
 The projects considered OBF member projects prior to enactment of this policy are granted Affiliated OBF Project status. These projects are the so-called Bio\* Projects, which consist of [BioPerl], [Biopython], [BioJava], [BioRuby], [BioSQL]; [DAS] (Distributed Annotation System); and [EMBOSS] (European Molecular Biology Open Software Suite).
 
-Other projects that existed prior to enactment of this policy can be legacied to Affiliated or Candidate OBF Project status as well upon approval by the OBF Board of Directors. It is expected that the Board will do so in public session. For pre-existing projects legacied to Candidate OBF Project status the minimum waiting period for seeking Affiliate OBF Project status is waived.
+Other projects that existed prior to enactment of this policy can be granted Affiliated status or 'Candidate OBF Project' status subject to approval by the OBF Board of Directors. It is expected that the Board will do so in public session. For pre-existing projects to be granted 'Candidate OBF Project' status the minimum waiting period for seeking Affiliate OBF Project status is waived.
 
 ## Dispute and Board Veto
 
