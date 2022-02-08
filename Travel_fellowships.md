@@ -164,9 +164,9 @@ Below we provide a copy of our review form.
 
 ### Event and nature of applicant's participation
 
-- [ ] 1 (criteria not met) Does not provide enough information or seems to misunderstand what kind of event OBF Event fellowship supports
-- [ ] 2 (criteria partially met) The event or the nature of their participation may not directly relate to Open Source in bioinformatics, but they have some understanding/plan on how they would use the knowledge gained at this event to promote open source practices and diversity
-- [ ] 3 (criteria fully met) Seems to have a clear understanding of how their participation in this event relates to open-source bioinformatics or open science in general, and how they will further use and promote the knowledge obtained at this event
+- [ ] 1 (criterion not met) Does not provide enough information or seems to misunderstand what kind of event OBF Event fellowship supports
+- [ ] 2 (criterion partially met) The event or the nature of their participation may not directly relate to Open Source in bioinformatics, but they have some understanding/plan on how they would use the knowledge gained at this event to promote open source practices and diversity
+- [ ] 3 (criterion fully met) Seems to have a clear understanding of how their participation in this event relates to open-source bioinformatics or open science in general, and how they will further use and promote the knowledge obtained at this event
 
 ### Open Source Resources
 - [ ] 1 (criteria not met) Shares none or unrelated/irrelevant information on open source resource and how they relate to their proposed event
