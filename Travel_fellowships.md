@@ -183,7 +183,7 @@ Below we provide a copy of our review form.
 - [ ] 2 (criteria partially met) The requested funding partially fits our criteria of qualified items that can be funded through this fellowship and the applicant has provided enough justification
 - [ ] 3 (criteria fully met) The requested funding completely fits our criteria of qualified items that can be funded through this fellowship and the applicant has provided sufficient justification
 
-### Would you recommend this applicant for OBF Event Fellowship? *
+### Would you recommend this applicant for OBF Event Fellowship?
 - [ ] No
 - [ ] Yes
 - [ ] Unsure/Request to discuss
