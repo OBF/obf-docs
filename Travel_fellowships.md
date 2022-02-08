@@ -169,7 +169,7 @@ Below we provide a copy of our review form.
 - [ ] 3 (criterion fully met) Seems to have a clear understanding of how their participation in this event relates to open-source bioinformatics or open science in general, and how they will further use and promote the knowledge obtained at this event
 
 ### Open Source Resources
-- [ ] 1 (criteria not met) Shares none or unrelated/irrelevant information on open source resource and how they relate to their proposed event
+- [ ] 1 (criterion not met) Shares none or unrelated/irrelevant information on open source resources and how they relate to their proposed event
 - [ ] 2 (criterion partially met) Shares some relevant information on open source resources and how they relate to their proposed event
 - [ ] 3 (criterion fully met) Shares appropriate and relevant information on open source resources and how they relate to their proposed event
 
