@@ -174,14 +174,14 @@ Below we provide a copy of our review form.
 - [ ] 3 (criterion fully met) Shares appropriate and relevant information on open source resources and how they relate to their proposed event
 
 ### Promoting diversity and representation of historically excluded or underrepresented groups
-- [ ] 1 (criteria not met) The application lacks information or any justification on how their participation will help promote diversity and representation
-- [ ] 2 (criteria partially met) The application provides little information or some justification on how their participation will help promote diversity and representation
-- [ ] 3 (criteria fully met) The application provides sufficient information or justification on how their participation will help promote diversity and representation
+- [ ] 1 (criterion not met) The application lacks information or any justification on how their participation will help promote diversity and representation
+- [ ] 2 (criterion partially met) The application provides little information or some justification on how their participation will help promote diversity and representation
+- [ ] 3 (criterion fully met) The application provides sufficient information or justification on how their participation will help promote diversity and representation
 
 ### Justification for funding
-- [ ] 1 (criteria not met) The requested funding does not fit our criteria of qualified items that can be funded through this fellowship and the applicant has not provided enough justification
-- [ ] 2 (criteria partially met) The requested funding partially fits our criteria of qualified items that can be funded through this fellowship and the applicant has provided enough justification
-- [ ] 3 (criteria fully met) The requested funding completely fits our criteria of qualified items that can be funded through this fellowship and the applicant has provided sufficient justification
+- [ ] 1 (criterion not met) The requested funding does not fit our criteria of qualified items that can be funded through this fellowship and the applicant has not provided enough justification
+- [ ] 2 (criterion partially met) The requested funding partially fits our criteria of qualified items that can be funded through this fellowship and the applicant has provided enough justification
+- [ ] 3 (criterion fully met) The requested funding completely fits our criteria of qualified items that can be funded through this fellowship and the applicant has provided sufficient justification
 
 ### Would you recommend this applicant for OBF Event Fellowship?
 - [ ] No
