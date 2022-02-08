@@ -173,7 +173,7 @@ Below we provide a copy of our review form.
 - [ ] 2 (criteria partially met) Shares some relevant information on open source resource and how they relate to their proposed event
 - [ ] 3 (criteria fully met) Shares appropriate and relevant information on open source resource and how they relate to their proposed event
 
-### Promoting diversity and representation of historically excluded or underrepresented groups *
+### Promoting diversity and representation of historically excluded or underrepresented groups
 - [ ] 1 (criteria not met) The application lacks information or any justification on how their participation will help promote diversity and representation
 - [ ] 2 (criteria partially met) The application provides little information or some justification on how their participation will help promote diversity and representation
 - [ ] 3 (criteria fully met) The application provides sufficient information or justification on how their participation will help promote diversity and representation
