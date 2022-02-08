@@ -170,8 +170,8 @@ Below we provide a copy of our review form.
 
 ### Open Source Resources
 - [ ] 1 (criteria not met) Shares none or unrelated/irrelevant information on open source resource and how they relate to their proposed event
-- [ ] 2 (criteria partially met) Shares some relevant information on open source resource and how they relate to their proposed event
-- [ ] 3 (criteria fully met) Shares appropriate and relevant information on open source resource and how they relate to their proposed event
+- [ ] 2 (criterion partially met) Shares some relevant information on open source resources and how they relate to their proposed event
+- [ ] 3 (criterion fully met) Shares appropriate and relevant information on open source resources and how they relate to their proposed event
 
 ### Promoting diversity and representation of historically excluded or underrepresented groups
 - [ ] 1 (criteria not met) The application lacks information or any justification on how their participation will help promote diversity and representation
