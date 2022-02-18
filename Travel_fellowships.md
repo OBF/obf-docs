@@ -51,7 +51,7 @@ If they cannot provide links to specific resources and licenses, then they can d
 
 One of the goals of the OBF fellowship is to enable and enhance active participation from groups otherwise underrepresented at the event or in the broader community, including but not limited to underrepresented country of residence or origin, ethnic background (historically underrepresented and other minority groups), career stages, sexuality, gender identity and expression, and people with disabilities.
 
-We ask applicants to describe how their participation in this event helps promote diversity and representation of members from marginalised and traditionally underrepresented groups in the _overall_ open source bioinformatics and/or open science community.
+We ask applicants to describe how their participation in this event helps promote diversity and representation of members from marginalised and traditionally underrepresented groups in the _overall_ open source bioinformatics and/or open science communities.
 
 Note that applicants may have an answer to this question even if they are not personally a member of an underrepresented group. 
 This section is important for the evaluation of their application.
