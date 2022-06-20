@@ -1,16 +1,18 @@
 # Open Bioinformatics Foundation Event Fellowships
 
 The Open Bioinformatics Foundation ([OBF](https://www.open-bio.org)) promotes open source bioinformatics software development and open science in the biological research community. 
-The OBF Event Fellowship program is aimed at increasing diverse participation at events promoting open science practices such as open source software and resource development in the bioinformatics and biological research community.
+The OBF Event Fellowship program is aimed at increasing diverse participation and representation at events promoting open science practices such as open source software and resource development in the bioinformatics and biological research community.
 
 These fellowships are available to support both in-person and remote (virtual) participation at events such as conferences, workshops, training courses or collaborative development sprints.
 
 ## Application deadlines
 
-There are two rounds of applications with the following **application deadlines**:
+There are several rounds of applications with the following **application deadlines**:
 
 - Round-1: 1 April
-- Round-2: 1 October
+- Round-3: 15 July
+- Round-3: 1 October
+- Round-4: 15 January
 
 The calls for applications are announced through a [blog post on the website](https://www.open-bio.org/blog/), [official mailing list](https://mailman.open-bio.org/mailman/listinfo/open-bio-announce) and [Twitter](https://twitter.com/obf_news).
 
@@ -94,14 +96,14 @@ If the cap is insufficient, applicants can describe their hardware needs in thei
 
 ### Role of the fellowship chair (and review timeline)
 
-The fellowship chair will make sure that the call for applications is announced at least 6 weeks before the deadline by updating the application form for each round, drafting a blog post, coordinating with the newsletter chair and receiving approval from the OBF board members.
+The fellowship chair will make sure that the call for applications is announced at least 4 weeks before the deadline by updating the application form for each round, drafting a blog post, coordinating with the newsletter chair and receiving approval from the OBF board members.
 
 After the application period is over, they will coordinate with the OBF board members to invite volunteers to serve in the review panel and create all the required documents such as applications (assign alias and remove personal information) and reviewing form with rubrics to share with the panel.
 In the first week after the deadline, the review panel will be asked to review all or selected applications (based on the number of applications for that round).
 
 In the second week, the fellowship chair will create a summary of the scores and discuss it with the board members to identify the awardees for that round.
 
-Preferably, by the beginning of the third week, the fellowship chair will inform the chosen awardees asking for confirmation regarding the fellowship acceptance and informing them of the process for getting reimbursed for their expense after they have participated in the event.
+Preferably, by fourth week, the fellowship chair will inform the chosen awardees asking for confirmation regarding the fellowship acceptance and informing them of the process for getting reimbursed for their expense after they have participated in the event.
 They will also inform the applicants who were not selected and provide feedback when requested.
 
 Upon confirmation, a public blog post will be drafted by the fellowship chair informing the community of the current awardees.
@@ -116,10 +118,20 @@ Any panelist with a clear *conflict of interest*[1] will recuse themselves from 
 
 ### Selection criteria
 
-The selection of the fellowship awardees is based on the criteria described below. 
-We expect applicants to include sufficient information in their application to allow the review panel to assess their eligibility fairly.
+We expect applicants to include sufficient information in their application to allow the review panel to assess their eligibility fairly using a rubric provided in a Google form that can be [previewed here](https://docs.google.com/forms/d/e/1FAIpQLSfBiZidv8yWe-7ieQrlEUZoewGiGOdZBM4FJg52hi8P_Z5XNA/viewform).
+An Event Fund chair creates a copy of this template, prividing links and details for the application round.
 
-***A rubric is currently under development, which will be added to this page upon approval from the OBF board members.***
+When completing this form, reviewers score the participants across multiple dimensions with 1, 2, or 3. 
+These correspond generally to reviews of "criteria not met", "criteria partially met" and "criteria fully met":
+- Applicants who score mostly 1s do not have a clear understanding of the overall goals of this fellowship to support Open Source software practices and diversity of attendees in bioinformatics/biological research/open science events and communities.
+- Applicants who score mostly 2s are enthusiastic if not wholly aligned with the event fellowship's goals, for example, they may not be attending an open-source related event but have an interest in learning and promoting best practices, or that they want to attend a suitable event but do not represent any underrepresented minority groups.
+- Applicants who score mostly 3s are ready, goal-oriented, interested in contributing to the open-source, and represent traditionally underrepresented or minority groups in open science/bioinformatics.
+
+Reviewers are also asked whether they would recommend an application. The available answers are "No", "Yes", "Unsure" or "Request to discuss". Candidates who have ratings of "No" or "Unsure" across all reviewers will be rejected. All other candidates will be discussed at a board meeting or allocated meeting for selection.
+
+We ask all reviewers to finish the review with a few summary sentences to describe the application and the motivations for their scores to facilitate conversation during the discussion.
+
+_This draft is built on the application assessment rubric by Open Life Science that itself builds on resources developed by the Mozilla Open Leadership Team._
 
 #### Event and nature of participation
 
@@ -154,7 +166,7 @@ If applicants are not from a minority or underrepresented group but have a track
 
 ## Announcement of the application outcome
 
-Applicants will be notified of the outcome no later than 3 weeks after the application deadline.
+Applicants will be notified of the outcome no later than 4 weeks after the application deadline.
 
 Those who receive the fellowship award will be able to discuss any further details with the fellowship chair and/or the OBF board members.
 
