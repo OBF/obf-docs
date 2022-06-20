@@ -118,7 +118,8 @@ Any panelist with a clear *conflict of interest*[1] will recuse themselves from 
 
 ### Selection criteria
 
-We expect applicants to include sufficient information in their application to allow the review panel to assess their eligibility fairly using a rubric provided in a Google form that can be [previewed here](https://docs.google.com/forms/d/e/1FAIpQLSfBiZidv8yWe-7ieQrlEUZoewGiGOdZBM4FJg52hi8P_Z5XNA/viewform).
+We expect applicants to include sufficient information in their application to allow the review panel to assess their eligibility.
+To make the process fair, we use a rubric provided to the review panel in a Google form that can be [previewed here](https://docs.google.com/forms/d/e/1FAIpQLSfBiZidv8yWe-7ieQrlEUZoewGiGOdZBM4FJg52hi8P_Z5XNA/viewform).
 An Event Fund chair creates a copy of this template, prividing links and details for the application round.
 
 When completing this form, reviewers score the participants across multiple dimensions with 1, 2, or 3. 
