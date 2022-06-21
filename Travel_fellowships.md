@@ -51,9 +51,9 @@ If they cannot provide links to specific resources and licenses, then they can d
 
 ### Promoting diversity and representation
 
-One of the goals of the OBF fellowship is to increase participation from groups otherwise underrepresented at the event or in the broader community, including but not limited to underrepresented country of residence or origin, ethnic background (historically underrepresented and other minority groups), career stages, sexuality, gender identity and expression, and people with disabilities.
+One of the goals of the OBF fellowship is to enable and enhance active participation from groups otherwise underrepresented at the event or in the broader community, including but not limited to underrepresented country of residence or origin, ethnic background (historically underrepresented and other minority groups), career stages, sexuality, gender identity and expression, and people with disabilities.
 
-We ask applicants to describe how their participation in this event helps increase diversity and representation of any marginalised and traditionally underrepresented group in the _overall_ open source bioinformatics and/or open science community.
+We ask applicants to describe how their participation in this event helps promote diversity and representation of members from marginalised and traditionally underrepresented groups in the _overall_ open source bioinformatics and/or open science communities.
 
 Note that applicants may have an answer to this question even if they are not personally a member of an underrepresented group. 
 This section is important for the evaluation of their application.
@@ -118,17 +118,12 @@ Any panelist with a clear *conflict of interest*[1] will recuse themselves from 
 
 ### Selection criteria
 
-We expect applicants to include sufficient information in their application to allow the review panel to assess their eligibility.
-To make the process fair, we use a rubric provided to the review panel in a Google form that can be [previewed here](https://docs.google.com/forms/d/e/1FAIpQLSfBiZidv8yWe-7ieQrlEUZoewGiGOdZBM4FJg52hi8P_Z5XNA/viewform).
-An Event Fund chair creates a copy of this template, providing links and details for the application round.
-
-
-_This draft is built on the application assessment rubric by Open Life Science that itself builds on resources developed by the Mozilla Open Leadership Team._
+We expect applicants to include sufficient information in their application to allow the review panel to evaluate the eligibility fairly.
+We specifically assess the applications based on the following details that is asked in the application form:
 
 #### Event and nature of participation
 
 The review panel will assess how the event that the applicants have selected and the nature of their participation promote open science practices in bioinformatics and/or biological research community.
-
 It's important to keep in mind that the event should be scheduled to occur anytime in a one-year window starting one month after the application deadline.
 
 Events that are eligible may include but are not limited to conferences, workshops, code fests, hackathons, training courses, collaborative sprints, informal meet-ups or other skill-building and networking event. 
@@ -148,13 +143,67 @@ This will not be a limiting factor if applicants are new to bioinformatics and o
 
 #### Promoting diversity and representation
 
-The review panel will look at how applicant's attendance will contribute to increasing diversity at the event.
-We understand increasing diversity as increasing participation of members from groups traditionally underrepresented in the bioinformatics, computation or tech community or at the event.
-This includes but is not limited to underrepresented demographic groups (members from many developing nations), ethnic origins, career stages, sexuality, gender identity and expression, and people with disabilities.
+The review panel will look at how applicants' attendance will contribute to increasing participation from diverse members at the event.
+We are aware that members from many marginalised groups are still underrepresented in bioinformatics, computational fields or the tech community more broadly.
+Our goals with this fellowship are to support members from underrepresented demographic groups including but not limited to diverse ethnic backgrounds, career stages, sexuality, gender identity and expression, people with disabilities and members from low-income backgrounds (such as from developing nations).
 
 If applicants are not from a minority or underrepresented group but have a track record for advocating for diversity as an ally through their work or involvement in an event, they are welcome to apply for this fellowship as well.
 
-*We do not consider the diversity of operating systems, programming languages or scientific domain as a criterion for the OBF Event Fellowship.*
+*We do not consider the diversity of operating systems, programming languages or scientific domains as a criterion for the OBF Event Fellowship.*
+
+## Rubric for Application Review
+
+_This draft is built on the application assessment rubric by Open Life Science that itself builds on resources developed by the Mozilla Open Leadership Team._
+
+We ask reviewers to evaluate the application across multiple dimensions with scores of 1, 2, or 3 that they share via a Google form with the Event Fellowship chair. 
+These correspond generally to reviews of "criteria not met", "criteria partially met" and "criteria fully met":
+- Applicants who score mostly 1s do not have a clear understanding of the overall goals of this fellowship to support Open Source software practices and diversity of attendees in bioinformatics/biological research/open science events and communities.
+- Applicants who score mostly 2s are enthusiastic if not wholly aligned with the event fellowship's goals, for example, they may not be attending an open-source related event but have an interest in learning and promoting best practices, or they want to attend a suitable event but do not represent any underrepresented minority groups.
+- Applicants who score mostly 3s are ready, goal-oriented, interested in contributing to open-source, and represent traditionally underrepresented or minority groups in open science/bioinformatics.
+
+Reviewers are also asked whether they would recommend an application. The available answers are "No", "Yes", "Unsure" or "Request to discuss". Candidates who have ratings of "No" or "Unsure" across all reviewers will be rejected. All other candidates will be discussed at the panel selection.
+
+We ask all reviewers to finish the review with a few summary sentences to describe the application and the motivations for their scores to facilitate conversation during the selection panel discussion.
+Below we provide a copy of our review form.
+
+### Event and nature of applicant's participation
+
+- [ ] 1 (criterion not met) Does not provide enough information or seems to misunderstand what kind of event OBF Event fellowship supports
+- [ ] 2 (criterion partially met) The event or the nature of their participation may not directly relate to Open Source in bioinformatics, but they have some understanding/plan on how they would use the knowledge gained at this event to promote open source practices and diversity
+- [ ] 3 (criterion fully met) Seems to have a clear understanding of how their participation in this event relates to open-source bioinformatics or open science in general, and how they will further use and promote the knowledge obtained at this event
+
+### Open Source Resources
+- [ ] 1 (criterion not met) Shares none or unrelated/irrelevant information on open source resources and how they relate to their proposed event
+- [ ] 2 (criterion partially met) Shares some relevant information on open source resources and how they relate to their proposed event
+- [ ] 3 (criterion fully met) Shares appropriate and relevant information on open source resources and how they relate to their proposed event
+
+### Promoting diversity and representation of historically excluded or underrepresented groups
+- [ ] 1 (criterion not met) The application lacks information or any justification on how their participation will help promote diversity and representation
+- [ ] 2 (criterion partially met) The application provides little information or some justification on how their participation will help promote diversity and representation
+- [ ] 3 (criterion fully met) The application provides sufficient information or justification on how their participation will help promote diversity and representation
+
+### Justification for funding
+- [ ] 1 (criterion not met) The requested funding does not fit our criteria of qualified items that can be funded through this fellowship and the applicant has not provided enough justification
+- [ ] 2 (criterion partially met) The requested funding partially fits our criteria of qualified items that can be funded through this fellowship and the applicant has provided enough justification
+- [ ] 3 (criterion fully met) The requested funding completely fits our criteria of qualified items that can be funded through this fellowship and the applicant has provided sufficient justification
+
+### Would you recommend this applicant for OBF Event Fellowship?
+- [ ] No
+- [ ] Yes
+- [ ] Unsure/Request to discuss
+
+**Please provide 1-2 summary sentences about this application to facilitate the selection. Please include what this application is about, what its open source aspect is, how does it promote diversity and representation and what funding would you recommend to cover.**
+- [Open text response]
+
+**Please highlight any diversity/minority groups this applicant belongs to, which should be supported for their representation in open source bioinformatics and biological research fields.**
+- [Open text response]
+
+**Anything else?**
+
+- [Open text response]
+
+The review panel in provided these assessment criteria in a Google form that can be [previewed here](https://docs.google.com/forms/d/e/1FAIpQLSfBiZidv8yWe-7ieQrlEUZoewGiGOdZBM4FJg52hi8P_Z5XNA/viewform).
+Event Fund chairs create a copy of this template for each round, updating links and details where appropriate.
 
 ## Announcement of the application outcome
 
