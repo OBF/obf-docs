@@ -122,15 +122,6 @@ We expect applicants to include sufficient information in their application to a
 To make the process fair, we use a rubric provided to the review panel in a Google form that can be [previewed here](https://docs.google.com/forms/d/e/1FAIpQLSfBiZidv8yWe-7ieQrlEUZoewGiGOdZBM4FJg52hi8P_Z5XNA/viewform).
 An Event Fund chair creates a copy of this template, providing links and details for the application round.
 
-When completing this form, reviewers score the participants across multiple dimensions with 1, 2, or 3. 
-These correspond generally to reviews of "criteria not met", "criteria partially met" and "criteria fully met":
-- Applicants who score mostly 1s do not have a clear understanding of the overall goals of this fellowship to support Open Source software practices and diversity of attendees in bioinformatics/biological research/open science events and communities.
-- Applicants who score mostly 2s are enthusiastic if not wholly aligned with the event fellowship's goals. For example, they may not be attending an open-source related event but have an interest in learning and promoting best practices, or that they want to attend a suitable event but do not represent any underrepresented minority groups.
-- Applicants who score mostly 3s are ready, goal-oriented, interested in contributing to the open-source, and represent traditionally underrepresented or minority groups in open science/bioinformatics.
-
-Reviewers are also asked whether they would recommend an application. The available answers are "No", "Yes", "Unsure" or "Request to discuss". Candidates who have ratings of "No" or "Unsure" across all reviewers will be rejected. All other candidates will be discussed at a board meeting or allocated meeting for selection.
-
-We ask all reviewers to finish the review with a few summary sentences to describe the application and the motivations for their scores to facilitate conversation during the discussion.
 
 _This draft is built on the application assessment rubric by Open Life Science that itself builds on resources developed by the Mozilla Open Leadership Team._
 
