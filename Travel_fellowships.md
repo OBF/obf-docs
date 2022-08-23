@@ -23,7 +23,7 @@ The applications are submitted for each round via [this application form](https:
 We have created [a word template](https://docs.google.com/document/d/1tgzkHS84L8m3RwYoL7X86Axb6p_OiqNWaoJpiV4q8S0/edit?usp=sharing) of the form, which can be used for creating a draft of your application. 
 Please make a copy or download this document as a '.docx' file.
 
-If Google Docs and Forms are not accessible from your geographical location, please email the fellowship chair to receive a template document email.
+If Google Docs and Forms are not accessible from your geographical location, please email the fellowship chair to receive a template document by email.
 
 Applicants will be asked to supply the following information:
 
