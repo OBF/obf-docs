@@ -235,4 +235,4 @@ The OBF will reimburse the recipient after the event based on receipts provided,
 There is no cash value beyond eligible and documented expenses. 
 All reimbursement claims must be filed (and all prerequisites for receiving payment must be met, see below) within 3 months after the conclusion of the event, after which the fellowship award expires.
 
-We will ask the fellowship awardees to the state for our records that none of their claimed expenses has been or will be reimbursed from another source (for example, their employer, or other grants).
+We will ask the fellowship awardees to state for our records that none of their claimed expenses has been or will be reimbursed from another source (for example, their employer, or other grants).
