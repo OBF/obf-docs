@@ -44,6 +44,7 @@ about: 'This template is for the OBF Event Fellowship chair to manage a new appl
 - [ ] Communicate the final decision based on review comments and the board's suggestion
 - [ ] Email both the awarded and declined application - provide feedback where possible (email drafts in the shared folder)
 - [ ] Help awardees to answer any questions they may have regarding the fellowship - refer to the (Travel_fellowships.md)[./Travel_fellowships.md] document for consistency
+- [ ] And entry to the budget spreadsheet including any award cap
 
 **After an awardee finishes their event**
 
@@ -54,6 +55,7 @@ about: 'This template is for the OBF Event Fellowship chair to manage a new appl
 - [ ] Use Event fund tag and meaningful post title
 - [ ] Shorten permalink (by default WordPress uses full title in link)
 - [ ] When agreed, publish the post and share the link by email informing the treasurer to go ahead with the reimbursement process
-- [ ] Share the link to the blog post on Twitter, Slack and the post for the next round of application 
+- [ ] Share the link to the blog post on Twitter, Slack and the post for the next round of application
+- [ ] Update the budget spreadsheet once the award is paid
 
 *See the full documentation for details: (Travel_fellowships.md)[./Travel_fellowships.md]*
