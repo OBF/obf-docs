@@ -88,7 +88,7 @@ ARTICLE IV - NOMINATIONS AND ELECTIONS
     c.	Only the three Officers (see Article II, Items 2 and 8) may be elected by the general membership. The Board Members at Large shall be elected by the Board of Directors.
     d.	Ties in elections shall be broken by the President.
     e.	Ballots submitted to the general membership shall be secret. Board of Director votes for Directors shall be secret.
-4.	If a current Board Member at Large is nominated and elected officer, her previous Board seat becomes vacant and therefore available for election, unless the Board also decides to reduce the size of the Board.
+4.	If a current Board Member at Large is nominated and elected officer, their previous Board seat becomes vacant and therefore available for election, unless the Board also decides to reduce the size of the Board.
 5.	Members of the Board of Directors are eligible to vote in their role as part of the general membership in elections submitted to the general membership. In such elections, each director has as many votes as any other member.
 6.	Qualifications
     a.	Nominees or appointees for Director positions (Board Members at Large) must be voting members of the OBF in good standing.
