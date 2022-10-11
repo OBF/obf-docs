@@ -97,7 +97,7 @@ ARTICLE IV - NOMINATIONS AND ELECTIONS
     b.	Nominees or appointees for Officer positions must have been voting members of the OBF for a minimum of one year, be in good standing, and have previously served on the Board of Directors for a minimum of one year.
     c.	The Board of Directors may waive qualification requirements at its discretion by unanimous consent of attending Directors, provided the quorum is met. If the membership requirement is waived for a nominee, the nominee automatically becomes a member upon election, and must meet all requirements to be in good standing within 4 (four) weeks after election. 
 7.	_Removed_.
-8.	Paper ballots shall be counted during the meeting by 2 (two) active members of the OBF selected by the President. Electronic ballots will be counted electronically once each ballot is closed, which may be up to 24 hours later to facilitate participation by absentee board members in other time zones (who would not be counted toward quorum).
+8.	Paper ballots shall be counted by 2 (two) active members of the OBF selected by the President. Electronic ballots will be counted electronically.
 9.	Election results shall be recorded and filed in the minutes.
 
 ARTICLE V - BYLAW AMENDMENTS
