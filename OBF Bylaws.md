@@ -41,7 +41,7 @@ ARTICLE II - MEETINGS
 ARTICLE III - BOARD OF DIRECTORS
 ----------------------------
 
-1.	The Board of Directors shall consist of President, Deputy President, Treasurer, and additional Board Members at Large. The number of Board Members at Large is decided by majority vote of the current Board of Directors and may be proposed by either the general membership or a Board Member.
+1.	The Board of Directors shall consist of President, Vice President, Treasurer, and additional Board Members at Large. The number of Board Members at Large is decided by majority vote of the current Board of Directors and may be proposed by either the general membership or a Board Member.
 2.	Term of Office.
     a.	The term of office for Directors shall begin after the conclusion of the Board meeting at which they are elected.
     b.	Directors shall serve for a term of 3 (three) years and shall hold office until their successors' terms begin.
@@ -57,7 +57,7 @@ ARTICLE III - BOARD OF DIRECTORS
         (3)	Interpret and rule on procedural matters at all meetings
         (4)	Appoint special committees and committee members as necessary
         (5)	Assume responsibility for the preparation of agendas for General Membership meeting
-    b.	Deputy President
+    b.	Vice President
         (1)	Record the proceedings of all meetings and maintain a file of those minutes
         (2)	Maintain a file of all OBF business
         (3)	Prepare meeting minutes for Board meetings (as defined in Article II)
@@ -85,7 +85,7 @@ ARTICLE IV - NOMINATIONS AND ELECTIONS
     b. The names of Board Member candidates shall be presented to the general membership prior to holding the election, with at least the same advance notification period as pertains to public Board meetings (see Article II, Item 4).
 2.	Elections of officers and Directors shall be held at a public Board of Directors meeting. Elections to the three Officer positions by the membership may also be held during a time of no more than the four weeks leading up to a public Board of Directors meeting. Nominations made at least 60 (sixty) days prior to a public meeting are eligible for inclusion on the election ballot at that meeting. This requirement may be waived by the majority of the Board of Directors.
 3.	Voting.
-    a.	Voting for the Board of Directors shall be by electronic or paper ballot. The President or Deputy President shall prepare the ballot of candidates to be used for the purpose of voting.
+    a.	Voting for the Board of Directors shall be by electronic or paper ballot. The President or Vice President shall prepare the ballot of candidates to be used for the purpose of voting.
     b.	Voting shall be by Approval Vote. All nominees will be on the ballot, and each Director or member may cast as many votes as nominees, but at most one vote for each nominee. A nominee must receive a majority of votes (or 'Yes' votes) to win a seat. If there are more than one nominees for an office, or more nominees than seats to fill, the nominee or nominees with the highest number of votes (or 'Yes' votes) win the seats to be filled.
     c.	Only the three Officers (see Article II, Items 2 and 8) may be elected by the general membership. The Board Members at Large shall be elected by the Board of Directors.
     d.	Ties in elections shall be broken by the President.
