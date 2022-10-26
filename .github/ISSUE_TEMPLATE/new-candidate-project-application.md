@@ -1,6 +1,6 @@
 ---
-Name: New Candidate Project Application
-About: 'Use this template to apply for candidate project membership '
+Name : New Candidate Project Application
+About : 'Use this template to apply for candidate project membership '
 
 ---
 
