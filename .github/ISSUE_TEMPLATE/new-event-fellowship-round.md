@@ -6,9 +6,9 @@ about: 'This template is for the OBF Event Fellowship chair to manage a new appl
 
 **OBF Event Fellowship Round:**
 
-- [ ] Round-1: 15 May
-- [ ] Round-2: 15 September
-- [ ] Round-3: 15 January
+- [ ] Round-1: 1 April
+- [ ] Round-2: 1 August
+- [ ] Round-3: 1 December
 
 **Before opening the call for application (minimum 6 weeks in advance)**
 
