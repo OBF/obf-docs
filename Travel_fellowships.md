@@ -113,7 +113,7 @@ They will also inform the applicants who were not selected and provide feedback 
 ### Review panel
 
 The review panel is drawn for every round of applications from the OBF Board members and volunteers based on their availability. 
-Any panellist with a clear *conflict of interest*[1] will recuse themselves from deliberation. 
+Any panelist with a clear *conflict of interest*[1] will recuse themselves from deliberation. 
 
 [1] A conflict of interest may occur despite the anonymization if the applicant is known to the reviewer via the project description or online repository.
 
