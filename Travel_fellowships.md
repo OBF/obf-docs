@@ -103,7 +103,7 @@ After the application period is over, chairs will coordinate with the OBF board 
 * In the first week after the deadline, the review panel will be asked to review all or selected applications (based on the number of applications for that round).
 * In the second week, the fellowship chair will conclude the review period and create a summary of the scores to discuss it with the board members to identify the awardees for that round.
 * In the third week, ideally chairs will decide on the selected and declined applications in agreement with the OBF board.
-- Preferably, by four weeks after the application deadline, the fellowship chair will notify the chosen awardees and ask for confirmation regarding the fellowship acceptance. In their communication (acceptance email), awardees will be informed of the OBF Event Fellowship process, write a blog post summarizing their fellowship experience and get reimbursed for their expense associated with the event.
+- Preferably, by four weeks after the application deadline, the fellowship chair will notify the chosen awardees and ask for confirmation regarding the fellowship acceptance. In their communication (acceptance email), awardees will be informed of the OBF Event Fellowship process, which includes writing a blog post summarizing the fellowship experience after the conclusion of the event as a prerequisite to get reimbursed for their expenses associated with the event.
 They will also inform the applicants who were not selected and provide feedback when requested.
 - After attending their approved event under this fellowship, awardees will draft a public blog post.
 - Chair will maintain communication with the awardees helping them publish their post-event blog post.
