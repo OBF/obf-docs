@@ -226,7 +226,7 @@ Please note that this should be completed within three weeks after the event end
 
 Meanwhile, the awardees will be put in touch with the OBF treasurer who will share the reimbursement form and help sort out the expenses as per the guidelines shared with them.
 
-If due for any reason, the awardee's circumstances change and they can no longer attend the said event or accept the fellowship award, they should discuss the details with the fellowship chair and/or the board members.
+If for any reason the awardee's circumstances change and they can no longer attend the said event or accept the fellowship award, they should discuss the details with the fellowship chair and/or the board members.
 
 ## Reimbursement
 
