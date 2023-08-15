@@ -72,7 +72,7 @@ The OBF Event Fellowships are available for the awardees to cover conference reg
 
 ### Items covered for in-person participation
 
-The fellowship can be used to cover conference registration fees and direct travel costs (such as airfare, train, metro, bus and taxi), hotel, poster printing (if presenting a poster at the conference), and/or child-care up to a value of USD 1,000. 
+The fellowship can be used to cover conference registration fees and direct travel costs (such as travel insurance, airfare, train, metro, bus and taxi), hotel, poster printing (if presenting a poster at the conference), and/or child-care up to a value of USD 1,000. 
 Note that rental car expenses and personal car mileage are not eligible for reimbursement. 
 Lodging for earlier than the night before the first day of the event, or beyond the night the event ends, requires justification and is subject to Board approval.
 If the applicants anticipate that they would require more than USD 1,000 to attend the event, they should include that information in the application form.
@@ -91,6 +91,12 @@ When applying for the cost of hardware, please note that this fellowship will no
 However, this fellowship may cover the rental cost of the large hardware (for example, a second screen) required to attend or host a virtual event.
 The cost will be capped to a maximum of $40 (USD) each for small hardware such as headphones, webcam, speaker, and/or microphone.
 If the cap is insufficient, applicants can describe their hardware needs in their application.
+
+### Expenses and Cancellation
+
+We recommend you purchase travel insurance, and include this as part of your expenses claim.
+In the event of cancellation, we would expect to reimburse your travel insurance premium and any insurance excess fee.
+Any reimbursement not covered by your travel insurance is at the discretion of the board.
 
 ## Review process
 
