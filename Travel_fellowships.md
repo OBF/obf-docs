@@ -95,8 +95,9 @@ If the cap is insufficient, applicants can describe their hardware needs in thei
 ### Expenses and Cancellation
 
 We recommend you purchase travel insurance, and include this as part of your expenses claim.
-In the event of cancellation, we would expect to reimburse your travel insurance premium and any insurance excess fee.
-Any reimbursement not covered by your travel insurance is at the discretion of the board.
+In the event of cancellation, we would expect to reimburse your travel insurance premium and any insurance excess fee (as long as the total reimbursement does not exceed the originally agreed award).
+
+If the awardee elects not to purchase travel insurance, any reimbursement is at the discretion of the board.
 
 ## Review process
 
