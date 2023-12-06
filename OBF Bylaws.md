@@ -62,8 +62,8 @@ ARTICLE III - BOARD OF DIRECTORS
         (2)	Maintain a file of all OBF business
         (3)	Prepare meeting minutes for Board meetings (as defined in Article II)
         (4)	Maintain a master file of all reports, minutes, correspondence, and documents
-        (5) Considered to be the OBF's Secretary if required by external parties
-        (6) Deputise for the President, taking on their role when the President is unavailable
+        (5)	Considered to be the OBF's Secretary if required by external parties
+        (6)	Deputise for the President, taking on their role when the President is unavailable
     c.	Treasurer
         (1)	Monitor all expenditures of the OBF and its committees
         (2)	Account for all monies received by the OBF and its committees
