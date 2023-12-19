@@ -87,7 +87,7 @@ ARTICLE IV - NOMINATIONS AND ELECTIONS
 3.	Voting.
     a.	Voting for the Board of Directors shall be by electronic or paper ballot. The President or Vice President shall prepare the ballot of candidates to be used for the purpose of voting.
     b.	Voting shall be by Approval Vote. All nominees will be on the ballot, and each Director or member may cast as many votes as nominees, but at most one vote for each nominee. A nominee must receive a majority of votes (or 'Yes' votes) to win a seat. If there are more than one nominees for an office, or more nominees than seats to fill, the nominee or nominees with the highest number of votes (or 'Yes' votes) win the seats to be filled.
-    c.	Only the three Officers (see Article II, Items 2 and 8) may be elected by the general membership. The Board Members at Large shall be elected by the Board of Directors.
+    c.	Only the three Officers (see Article II, Items 2 and 5b) may be elected by the general membership. The Board Members at Large shall be elected by the Board of Directors.
     d.	Ties in elections shall be broken by the President.
     e.	Ballots submitted to the general membership shall be secret. Board of Director votes for Directors shall be secret.
 4.	If a current Board Member at Large is nominated and elected officer, their previous Board seat becomes vacant and therefore available for election, unless the Board also decides to reduce the size of the Board.
