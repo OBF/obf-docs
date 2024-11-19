@@ -77,7 +77,7 @@ Note that rental car expenses and personal car mileage are not eligible for reim
 Lodging for earlier than the night before the first day of the event, or beyond the night the event ends, requires justification and is subject to Board approval.
 Expenses for food during the event are eligible up to a daily limit of USD 40.
 If the applicants anticipate that they would require more than USD $1,000 to attend the event, they should include that information in the application form.
-Please note that requests made for more than USD $1,000 may not be granted if not justified by the applicants.
+Please note that requests made for more than USD 1,000 may not be granted if not justified by the applicants.
 
 ### Items covered for remote participation
 
