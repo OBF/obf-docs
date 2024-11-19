@@ -59,7 +59,7 @@ This section is important for the evaluation of their application.
 
 ### Justification for funding
 
-The OBF Event Fellowships are available for the awardees to cover conference registration fees and other participation-related costs of up to USD 1,000. 
+The OBF Event Fellowships are available for the awardees to cover conference registration fees and other participation-related costs of up to USD $1,000. 
 
 Applicants are asked to provide details of expenses they hope to be reimbursed through the OBF Event fellowship. 
 Here, they can provide as much detail as possible to help the review panel make a fair recommendation for the fellowship awardees.
@@ -68,7 +68,7 @@ Please see the next section for more details.
 
 ## What does the event fellowship cover?
 
-The OBF Event Fellowships are available for the awardees to cover conference registration fees and other participation-related costs of up to USD 1,000. 
+The OBF Event Fellowships are available for the awardees to cover conference registration fees and other participation-related costs of up to USD $1,000. 
 
 ### Items covered for in-person participation
 
@@ -90,7 +90,7 @@ Similarly, the cost of high-speed internet may vary across countries and may als
 Applicants are eligible to apply for the cost of a communication platform only if they are hosting a virtual event and will require a paid subscription to access the necessary premium features of the software used in their event.
 When applying for the cost of hardware, please note that this fellowship will not cover the cost of buying laptops and computers.
 However, this fellowship may cover the rental cost of the large hardware (for example, a second screen) required to attend or host a virtual event.
-The cost will be capped to a maximum of $40 (USD) each for small hardware such as headphones, webcam, speaker, and/or microphone.
+The cost will be capped to a maximum of USD $40 each for small hardware such as headphones, webcam, speaker, and/or microphone.
 If the cap is insufficient, applicants can describe their hardware needs in their application.
 
 ### Expenses and Cancellation
