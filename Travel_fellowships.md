@@ -75,8 +75,9 @@ The OBF Event Fellowships are available for the awardees to cover conference reg
 The fellowship can be used to cover conference registration fees and direct travel costs (such as travel insurance, airfare, train, metro, bus and taxi), hotel, poster printing (if presenting a poster at the conference), and/or child-care up to a value of USD 1,000. 
 Note that rental car expenses and personal car mileage are not eligible for reimbursement. 
 Lodging for earlier than the night before the first day of the event, or beyond the night the event ends, requires justification and is subject to Board approval.
+Expenses for food during the event are eligible up to a daily limit of USD 40.
 If the applicants anticipate that they would require more than USD 1,000 to attend the event, they should include that information in the application form.
-Please note that requests made for more than $1000 may not be granted if not justified by the applicants.
+Please note that requests made for more than USD 1,000 may not be granted if not justified by the applicants.
 
 ### Items covered for remote participation
 
@@ -89,11 +90,12 @@ Similarly, the cost of high-speed internet may vary across countries and may als
 Applicants are eligible to apply for the cost of a communication platform only if they are hosting a virtual event and will require a paid subscription to access the necessary premium features of the software used in their event.
 When applying for the cost of hardware, please note that this fellowship will not cover the cost of buying laptops and computers.
 However, this fellowship may cover the rental cost of the large hardware (for example, a second screen) required to attend or host a virtual event.
-The cost will be capped to a maximum of $40 (USD) each for small hardware such as headphones, webcam, speaker, and/or microphone.
+The cost will be capped to a maximum of USD 40 each for small hardware such as headphones, webcam, speaker, and/or microphone.
 If the cap is insufficient, applicants can describe their hardware needs in their application.
 
 ### Expenses and Cancellation
 
+All expenses require receipts to be eligible for reimbursement.
 We recommend you purchase travel insurance, and include this as part of your expenses claim.
 In the event of cancellation, we would expect to reimburse your travel insurance premium and any insurance excess fee (as long as the total reimbursement does not exceed the originally agreed award).
 
