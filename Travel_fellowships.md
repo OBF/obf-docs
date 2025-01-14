@@ -59,7 +59,7 @@ This section is important for the evaluation of their application.
 
 ### Justification for funding
 
-The OBF Event Fellowships are available for the awardees to cover conference registration fees and other participation-related costs of up to USD 1,000. 
+The OBF Event Fellowships are available for the awardees to cover conference registration fees and other participation-related costs of up to USD 1,500. 
 
 Applicants are asked to provide details of expenses they hope to be reimbursed through the OBF Event fellowship. 
 Here, they can provide as much detail as possible to help the review panel make a fair recommendation for the fellowship awardees.
@@ -68,16 +68,16 @@ Please see the next section for more details.
 
 ## What does the event fellowship cover?
 
-The OBF Event Fellowships are available for the awardees to cover conference registration fees and other participation-related costs of up to USD 1,000. 
+The OBF Event Fellowships are available for the awardees to cover conference registration fees and other participation-related costs of up to USD 1,500. 
 
 ### Items covered for in-person participation
 
-The fellowship can be used to cover conference registration fees and direct travel costs (such as travel insurance, airfare, train, metro, bus and taxi), hotel, poster printing (if presenting a poster at the conference), and/or child-care up to a value of USD 1,000. 
+The fellowship can be used to cover conference registration fees and direct travel costs (such as travel insurance, airfare, train, metro, bus and taxi), hotel, poster printing (if presenting a poster at the conference), and/or child-care up to a value of USD 1,500. 
 Note that rental car expenses and personal car mileage are not eligible for reimbursement. 
 Lodging for earlier than the night before the first day of the event, or beyond the night the event ends, requires justification and is subject to Board approval.
 Expenses for food during the event are eligible up to a daily limit of USD 40.
-If the applicants anticipate that they would require more than USD 1,000 to attend the event, they should include that information in the application form.
-Please note that requests made for more than USD 1,000 may not be granted if not justified by the applicants.
+If the applicants anticipate that they would require more than USD 1,500 to attend the event, they should include that information in the application form.
+Please note that requests made for more than USD 1,500 may not be granted if not justified by the applicants.
 
 ### Items covered for remote participation
 
