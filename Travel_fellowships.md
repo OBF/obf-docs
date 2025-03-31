@@ -5,6 +5,8 @@ The OBF Event Fellowship program is aimed at increasing diverse participation an
 
 These fellowships are available to support both in-person and remote (virtual) participation at events such as conferences, workshops, training courses or collaborative development sprints.
 
+﻿This document is the official rules and procedures. We introduce the [Events Awards](https://www.open-bio.org/event-awards/) on our website, which also has [blog posts from past awardees](https://www.open-bio.org/category/travel-fellowship/) (a requirement, see below).
+﻿﻿
 ## Application deadlines
 
 There are three rounds of applications with the following **application deadlines**:
