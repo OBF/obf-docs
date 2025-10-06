@@ -74,7 +74,7 @@ The OBF Event Fellowships are available for the awardees to cover conference reg
 
 ### Items covered for in-person participation
 
-The fellowship can be used to cover conference registration fees and direct travel costs (such as travel insurance, airfare, train, metro, bus and taxi), hotel, poster printing (if presenting a poster at the conference), visa application fees and/or child-care up to a value of USD 1,500. 
+The fellowship can be used to cover conference registration fees and direct travel costs (such as travel insurance, airfare, train, metro, bus and taxi), hotel, poster printing (if presenting a poster at the conference), visa application fees, and/or child-care up to a value of USD 1,500. 
 Note that rental car expenses and personal car mileage are not eligible for reimbursement. 
 Lodging for earlier than the night before the first day of the event, or beyond the night the event ends, requires justification and is subject to Board approval.
 
