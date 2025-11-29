@@ -234,9 +234,12 @@ They will be able to apply again with a revised and updated application in the n
 We expect that the applicant's participation in the event will promote open science practices in software development, training, documentation, publication and collaborative efforts in the biological research community, and will ideally promote diversity in their communities. 
 
 After the event, the awardees are required to write a blog post on the [OBF blog](https://www.open-bio.org/category/travel-fellowship/) about their experience attending the event and describing the main outcomes of their participation.
-We ask awardees **not** to use AI/LLMs when writing their blog posts. We want to hear about your experience in your own words. We do not expect the blog post drafts to be in perfect shape, but we will work with the awardees to shape them into their final form.
+We require awardees **not** to use AI/LLMs when writing their blog posts.
+We want to hear about your experience in your own words.
+We do not expect the blog post drafts to be in perfect shape, but we will work with the awardees to shape them into their final form.
 
-The awardees are required to share a google docs link of their blog draft via email to the board. The board members will review the draft, and once it is approved, the awardees will submit their draft to OBF website by using [this template](https://github.com/OBF/OBF.github.io/blob/main/content/posts/YYYY-MM-DD-event-fellowship-blog-template.md).
+The awardees are required to share a google docs link of their blog draft via email to the board.
+The board members will review the draft, and once it is approved, the awardees will submit their draft to OBF website by using [this template](https://github.com/OBF/OBF.github.io/blob/main/content/posts/YYYY-MM-DD-event-fellowship-blog-template.md).
 
 Please note that this should be completed within three weeks after the event ends, and is a prerequisite before the awardee can receive payment.
 
