@@ -39,7 +39,7 @@ In this part, applicants will be expected to provide information about the event
 Requested details include the name of the event, event website, dates (should take place within 1 year from the application deadline), type of the event (conference, training, or other), and confirmation if the event is taking place in-person or online. 
 Applicants should also describe the nature of their participation (presenter, attendee or other) and how it relates to open science practices or open source software. 
 
-OBF Event Fellowships are intended to enable awardees to participate in events that promote open source bioinformatics and/or open science. 
+OBF Event Fellowships are intended to enable awardees to participate in high-quality events that promote open source bioinformatics and/or open science. 
 We ask applicants to describe (maximum 250 words) how this event and their participation in it relate to these goals.
 
 ### Open Source Resources
