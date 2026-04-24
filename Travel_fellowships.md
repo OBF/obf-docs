@@ -101,6 +101,10 @@ If the cap is insufficient, applicants can describe their hardware needs in thei
 ### Expenses and Cancellation
 
 All expenses require receipts to be eligible for reimbursement.
+
+If you plan to combine your travel with activities not directly related to the event, such as sightseeing or another event, please state this in your application.
+We would not cover any resulting additional costs, and as supporting documentation will ask you to obtain a quote for travel to the primary event only. Travels costs eligible for reimbursement are the lesser between actual and hypothetical costs.
+
 We recommend you purchase travel insurance, and include this as part of your expenses claim.
 In the event of cancellation, we would expect to reimburse your travel insurance premium and any insurance excess fee (as long as the total reimbursement does not exceed the originally agreed award).
 
