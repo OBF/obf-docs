@@ -73,7 +73,7 @@ This Code of Conduct applies to all online and in-person events, meetings conduc
 
 ### 2.6 OBF Code of Conduct Committee
 
-The volunteer members designated and approved by the OBF Board to serve on the Code of Conduct Committee will be responsible for enforcing the Code of Conduct. Any voting members of the OBF community including the liaisons from the OBF Board can volunteer to sit in the Code of Conduct committee. They will be required to attend a training workshop on Code of Conduct report handling and enforcement as part of the onboarding process. We seek to build a committee including members outside of the OBF Board. Please contact the OBF board to express your interest to join this committee.
+The volunteer members designated and approved by the OBF Board to serve on the Code of Conduct Committee will be responsible for enforcing the Code of Conduct. Any voting members of the OBF community, including the members of the OBF Board, can volunteer to sit in the Code of Conduct committee. All committee members will be required to attend a training workshop on Code of Conduct report handling and enforcement as part of the onboarding process. We seek to build a committee that includes members outside of the OBF Board. Please contact the OBF board to express your interest in joining this committee.
 
 Members of the committee as of 2026-07-01 are Bastian Greshake Tzovaras, and Heather Wiencko.
 
