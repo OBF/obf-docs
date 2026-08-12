@@ -75,7 +75,7 @@ This Code of Conduct applies to all online and in-person events, meetings conduc
 
 The volunteer members designated and approved by the OBF Board to serve on the Code of Conduct Committee will be responsible for enforcing the Code of Conduct. Any voting members of the OBF community including the liaisons from the OBF Board can volunteer to sit in the Code of Conduct committee. They will be required to attend a training workshop on Code of Conduct report handling and enforcement as part of the onboarding process. We seek to build a committee including members outside of the OBF Board. Please contact the OBF board to express your interest to join this committee.
 
-Members of the committee as of 2026-06-01 are Bastian Greshake Tzovaras, Heather Wiencko, and Jessica Maia.
+Members of the committee as of 2026-07-01 are Bastian Greshake Tzovaras, and Heather Wiencko.
 
 Reports to the Code of Conduct Committee should be made by emailing [coc@open-bio.org](mailto:coc@open-bio.org). The committee is also available to respond to any questions or concerns regarding the Code of Conduct document and procedure.
 
