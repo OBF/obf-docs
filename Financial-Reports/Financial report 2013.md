@@ -9,14 +9,14 @@ This is a report about OBF's financial assets and transactions during OBF's 2013
 | **Starting Balance**        | **$38,498.42** |
 | Income                      |    $2,182.22   |
 | Programmatic expenses       |  _($1,195.45)_ |
-| SPI fees                    |    _($103.04)_ |
-| **Ending Balance**          | **$39,382.15** |
+| SPI fees                    |    _($119.11)_ |
+| **Ending Balance**          | **$39,376.08** |
 | Encumbrances                |  _($2,245.13)_ |
-| **Unencumbered Balance**    | **$37,137.02** |
+| **Unencumbered Balance**    | **$37,120.95** |
 |-----------------------------|----------------|
 | BOSC Escrow Account         |   $20,915.53   |
-|**Total financial assets**   | **$60,297.68** |
-|**Total unencumbered assets**| **$58,052.55** |
+|**Total financial assets**   | **$60,281.61** |
+|**Total unencumbered assets**| **$58,036.48** |
 
 Encumbrances come from unpaid liabilities and similar commitments already incurred, but not yet paid.
 
@@ -47,15 +47,23 @@ Note: expenses incurred (and reimbursed) before transferring our assets to SPI a
 |:--------------------------------------------|:-----:|----------:|
 | biows.* domain names (reimb. to HilmarL)    |  3/15 |    $60.86 | 
 | 2012 GSoC summit Raoul B. (reimb. to ChrisD)|  3/15 | $1,051.11 | 
-| Processing fees for donations/expenses      |       |    $83.48 | 
+| Processing fees for donations/expenses      |       |    $83.48 |
+| Accounting discrepancy(*)                   |       |    $16.07 |
 |---------------------------------------------|-------|-----------|
 | SPI 5% fees                                 |       |   $103.04 | 
 
 The 2012 GSoC summit travel expenses for Raoul B. were incurred, and paid by ChrisD in FY 2012, but reimbursed to ChrisD only in 2013.
 
+(*) The accounting of expenses was based on a report obtained from
+SPI. The ending balance for OBF-earmarked funds held at SPI on that
+report was $16.07 higher than the ending balance of OBF-earmarked
+funds shown on the SPI Treasurer Report for Nov 1 to Nov 30, 2013. The
+discrepancy is likely due to an error in the summarization of SPI fees
+paid during OBF's FY 2013, and is therefore accounted for here as fees.
+
 Totals for FY 2013:
 + Total programmatic expenses paid:            $1,195.45
-+ Total expenses:                              $1,298.49
++ Total expenses:                              $1,314.56
 
 ## Encumbrances
 
