@@ -1,0 +1,36 @@
+**Note that this PR should be approved and merged at the next public Board meeting.**
+
+**Present**: Peter Cock, Caleb Kibet, Heather Wiencko, Bastian Greshake Tsovaras, Hilmar Lapp, Nomi Harris, Chris Fields, Iddo Friedberg, Hilyatuz Zahroh
+
+**Also attending (OBF community members)**: Michael Crusoe, Rushil Deshwal, Sam Keating
+
+**Agenda**: Please see the [blog post](/2026/09/04/obf-public-board-meeting-sept-2026/)
+
+# Minutes
+- Meeting was held by Zoom on 2026-09-07 at 15:00 UTC (8am PDT, 11am EDT, 4pm BST, 5pm CEST) on the Zoom platform
+- Meeting called to order by Peter Cock at 8:03am PT
+
+## Old business
+- Approve [December 2023 Public Board Meeting minutes](https://github.com/OBF/obf-docs/blob/master/minutes/2023-Dec.md).
+  - Motion to approve by Peter; Hilmar seconded. There were no objections.
+  - [Pull request](https://github.com/OBF/obf-docs/pull/118) approved and merged
+
+## Board elections
+- The current board members had reached the end of their expected three year terms.
+- Two board members, Iddo Friedberg and Hilyatuz Zahroh, declined to re-run for board seats. We thanked them for their service on the board.
+- 7 board members stood for re-election: Peter Cock (President), Nomi Harris (Vice President), Heather Wiencko (Treasurer), Hilmar Lapp, Bastian Greshake Tzovaras, Chris Fields, and Caleb Kibet (board members at large).
+- The members up for re-election gave brief statements
+- The board members voted via electronic ballot (using Helios, which is an open-source voting platform).
+- The election was closed at 8:21am PT by Hilmar.
+- The 7 members standing for re-election were all elected by a majority of the voting board members
+  - Peter, Hilmar, Heather, Caleb: 7 for, 1 abstain, 0 against
+  - Nomi, Bastian, Chris: 8 for, 0 abstain, 0 against
+  - Tally: https://vote.heliosvoting.org/helios/e/obf-2026-Sep
+
+## Other business
+- There was a brief discussion of the open-bio.org domain
+- Nomi noted that with the departure of two of the Board members, it would be good to look for a few new members.
+
+## Adjournment
+- Peter: motion to close the public board meeting; Hilmar seconded. No objections, motion carried with unanimous consent. 
+- Peter called to adjourn at 8:31am PT; Hilmar seconded. The meeting was officially adjourned.
