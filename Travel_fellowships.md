@@ -9,7 +9,7 @@ These fellowships are available to support both in-person and remote (virtual) p
 ﻿﻿
 ## Application deadlines
 
-There are three rounds of applications with the following **application deadlines**:
+From 2027 there are two rounds of applications per year, with the following **application deadlines**:
 
 - Round-1: 1 April
 - Round-2: 1 October
