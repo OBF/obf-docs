@@ -14,7 +14,7 @@ From 2027 there are two rounds of applications per year, with the following **ap
 - Round-1: 1 April
 - Round-2: 1 October
 
-The calls for applications are announced through a [blog post on the website](https://www.open-bio.org/blog/), [official mailing list](https://mailman.open-bio.org/mailman/listinfo/open-bio-announce), and typically [Mastodon](https://genomic.social/@OpenBio) and/or [BlueSky](https://bsky.app/profile/openbio.bsky.social).
+The calls for applications are announced through a [blog post on the website](https://www.open-bio.org/blog/) and our [official mailing list](https://mailman.open-bio.org/mailman/listinfo/open-bio-announce). We typically also announce it on channels such as [Mastodon](https://genomic.social/@OpenBio), [BlueSky](https://bsky.app/profile/openbio.bsky.social) or [LinkedIn](https://www.linkedin.com/groups/9539620/) 
 
 ## Application form
 
