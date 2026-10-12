@@ -9,13 +9,12 @@ These fellowships are available to support both in-person and remote (virtual) p
 ﻿﻿
 ## Application deadlines
 
-There are three rounds of applications with the following **application deadlines**:
+From 2027 there are two rounds of applications per year, with the following **application deadlines**:
 
 - Round-1: 1 April
-- Round-2: 1 August
-- Round-3: 1 December
+- Round-2: 1 October
 
-The calls for applications are announced through a [blog post on the website](https://www.open-bio.org/blog/), [official mailing list](https://mailman.open-bio.org/mailman/listinfo/open-bio-announce) and [Twitter](https://twitter.com/obf_news).
+The calls for applications are announced through a [blog post on the website](https://www.open-bio.org/blog/) and our [official mailing list](https://mailman.open-bio.org/mailman/listinfo/open-bio-announce). We typically also announce it on channels such as [Mastodon](https://genomic.social/@OpenBio), [BlueSky](https://bsky.app/profile/openbio.bsky.social) or [LinkedIn](https://www.linkedin.com/groups/9539620/) 
 
 ## Application form
 
